@@ -2863,3 +2863,4 @@
 0-1 - Specify Hardware Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
 0-2 - Facilitate Comms Outage Reasoner - Ethiopian Electric Interruption Tracking System
 0-3 - Track Changes Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
+0-4 - Display Cards Experience User Friendlier - Ethiopian Electric Interruption Tracking System
