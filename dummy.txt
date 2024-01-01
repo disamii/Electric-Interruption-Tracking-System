@@ -1498,3 +1498,4 @@
 1500 - Manage Datas Feeder Breaker Downer - Ethiopian Electric Interruption Tracking System
 0-1 - Easier Navs Experience User Friendlier - Ethiopian Electric Interruption Tracking System
 0-2 - Participate Configs Interruption Logging - Ethiopian Electric Interruption Tracking System
+0-3 - Collaborate Code Insight Comparer - Ethiopian Electric Interruption Tracking System
