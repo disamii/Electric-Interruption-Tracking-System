@@ -2861,3 +2861,4 @@
 261-2 - Facilitate Software Installer - Ethiopian Electric Interruption Tracking System
 261-3 - Install Software Analytics Predictor - Ethiopian Electric Interruption Tracking System
 0-1 - Specify Hardware Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
+0-2 - Facilitate Comms Outage Reasoner - Ethiopian Electric Interruption Tracking System
