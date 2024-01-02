@@ -1501,3 +1501,4 @@
 0-3 - Collaborate Code Insight Comparer - Ethiopian Electric Interruption Tracking System
 1-1 - Support Customizable Data Aligner - Ethiopian Electric Interruption Tracking System
 1-2 - Develop Frontend Feature Integrator - Ethiopian Electric Interruption Tracking System
+1-3 - Migrate Data Communicator - Ethiopian Electric Interruption Tracking System
