@@ -2867,3 +2867,4 @@
 0-5 - Interview Staffs Prompt Popper - Ethiopian Electric Interruption Tracking System
 1-1 - Write Guides Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 1-2 - Create Accounts Web Based Solution - Ethiopian Electric Interruption Tracking System
+1-3 - Design Pattern Comparer - Ethiopian Electric Interruption Tracking System
