@@ -2871,3 +2871,4 @@
 1-4 - Effective Trackers Dropdown Actioner - Ethiopian Electric Interruption Tracking System
 1-5 - Option Contacts Reliability Service Improver - Ethiopian Electric Interruption Tracking System
 1-6 - Count Totals Glancer - Ethiopian Electric Interruption Tracking System
+1-7 - Face Challenges Real Time Collection - Ethiopian Electric Interruption Tracking System
