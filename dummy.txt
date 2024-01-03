@@ -1508,3 +1508,4 @@
 2-3 - Monitor Suspensions Analytics Predictor - Ethiopian Electric Interruption Tracking System
 2-4 - Effective Trackers Report Submitter - Ethiopian Electric Interruption Tracking System
 2-5 - Create Isolated Decision Informer - Ethiopian Electric Interruption Tracking System
+2-6 - Develop Frontend Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
