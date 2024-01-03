@@ -1506,3 +1506,4 @@
 2-1 - Implement Solutions Text Clarifier - Ethiopian Electric Interruption Tracking System
 2-2 - Write Guides Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 2-3 - Monitor Suspensions Analytics Predictor - Ethiopian Electric Interruption Tracking System
+2-4 - Effective Trackers Report Submitter - Ethiopian Electric Interruption Tracking System
