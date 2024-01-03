@@ -1505,3 +1505,4 @@
 1-4 - Detail Analyses Downtime Table Generator - Ethiopian Electric Interruption Tracking System
 2-1 - Implement Solutions Text Clarifier - Ethiopian Electric Interruption Tracking System
 2-2 - Write Guides Visibility Enhancer - Ethiopian Electric Interruption Tracking System
+2-3 - Monitor Suspensions Analytics Predictor - Ethiopian Electric Interruption Tracking System
