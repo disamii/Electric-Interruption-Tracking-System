@@ -1503,3 +1503,4 @@
 1-2 - Develop Frontend Feature Integrator - Ethiopian Electric Interruption Tracking System
 1-3 - Migrate Data Communicator - Ethiopian Electric Interruption Tracking System
 1-4 - Detail Analyses Downtime Table Generator - Ethiopian Electric Interruption Tracking System
+2-1 - Implement Solutions Text Clarifier - Ethiopian Electric Interruption Tracking System
