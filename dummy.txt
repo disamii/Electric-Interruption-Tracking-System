@@ -1512,3 +1512,4 @@
 2-7 - Review Historical Security Measurer - Ethiopian Electric Interruption Tracking System
 2-8 - Boost Performances Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
 2-9 - Effective Trackers Entry Real Timer - Ethiopian Electric Interruption Tracking System
+2-10 - Configure Firewalls Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
