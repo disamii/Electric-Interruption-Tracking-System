@@ -1510,3 +1510,4 @@
 2-5 - Create Isolated Decision Informer - Ethiopian Electric Interruption Tracking System
 2-6 - Develop Frontend Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 2-7 - Review Historical Security Measurer - Ethiopian Electric Interruption Tracking System
+2-8 - Boost Performances Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
