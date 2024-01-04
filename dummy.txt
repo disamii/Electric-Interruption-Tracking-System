@@ -1514,3 +1514,4 @@
 2-9 - Effective Trackers Entry Real Timer - Ethiopian Electric Interruption Tracking System
 2-10 - Configure Firewalls Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
 3-1 - Enable Password Assigner - Ethiopian Electric Interruption Tracking System
+3-2 - Develop Frontend Integration Crucialer - Ethiopian Electric Interruption Tracking System
