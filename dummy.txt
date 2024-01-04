@@ -1517,3 +1517,4 @@
 3-2 - Develop Frontend Integration Crucialer - Ethiopian Electric Interruption Tracking System
 3-3 - Validate Credentials Table Lister - Ethiopian Electric Interruption Tracking System
 3-4 - Monitor Suspensions Periodic Reporter - Ethiopian Electric Interruption Tracking System
+3-5 - Handle Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
