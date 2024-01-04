@@ -2876,3 +2876,4 @@
 2-1 - Edit Records Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 3-1 - Deepen Experiences Standards Enforcer - Ethiopian Electric Interruption Tracking System
 3-2 - Develop Frontend Oversight Maintainer - Ethiopian Electric Interruption Tracking System
+3-3 - Deploy Environment Login Page Renderer - Ethiopian Electric Interruption Tracking System
