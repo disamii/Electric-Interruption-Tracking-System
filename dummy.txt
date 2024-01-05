@@ -1524,3 +1524,4 @@
 4-1 - Log Standards Enforcer - Ethiopian Electric Interruption Tracking System
 4-2 - Log Sidebar Navigation - Ethiopian Electric Interruption Tracking System
 4-3 - Migrate Reliability Improver - Ethiopian Electric Interruption Tracking System
+4-4 - Create User Interface - Ethiopian Electric Interruption Tracking System
