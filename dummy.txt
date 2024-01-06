@@ -2893,3 +2893,4 @@
 5-5 - Deploy Environment Reminder Setter - Ethiopian Electric Interruption Tracking System
 5-6 - Seamless Interact Deletion Handler - Ethiopian Electric Interruption Tracking System
 5-7 - Maintain Oversights Library JS Interface Builder React - Ethiopian Electric Interruption Tracking System
+5-8 - Secure Info Tracker - Ethiopian Electric Interruption Tracking System
