@@ -2891,3 +2891,4 @@
 5-3 - Collect Feedback Update Notifier - Ethiopian Electric Interruption Tracking System
 5-4 - Capture Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
 5-5 - Deploy Environment Reminder Setter - Ethiopian Electric Interruption Tracking System
+5-6 - Seamless Interact Deletion Handler - Ethiopian Electric Interruption Tracking System
