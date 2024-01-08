@@ -2900,3 +2900,4 @@
 7-3 - Maintain Deliveries Observation Documenter - Ethiopian Electric Interruption Tracking System
 7-4 - Render Analytics Predictor - Ethiopian Electric Interruption Tracking System
 7-5 - Build Charts Report Page Builder - Ethiopian Electric Interruption Tracking System
+7-6 - Participate Configs Note Taking - Ethiopian Electric Interruption Tracking System
