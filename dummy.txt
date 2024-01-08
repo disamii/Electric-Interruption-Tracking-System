@@ -2901,3 +2901,4 @@
 7-4 - Render Analytics Predictor - Ethiopian Electric Interruption Tracking System
 7-5 - Build Charts Report Page Builder - Ethiopian Electric Interruption Tracking System
 7-6 - Participate Configs Note Taking - Ethiopian Electric Interruption Tracking System
+7-7 - Distribute Monthly Insight Linker - Ethiopian Electric Interruption Tracking System
