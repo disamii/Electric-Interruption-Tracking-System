@@ -2896,3 +2896,4 @@
 5-8 - Secure Info Tracker - Ethiopian Electric Interruption Tracking System
 6-1 - Inform Decisions Chat System - Ethiopian Electric Interruption Tracking System
 7-1 - Scale User Guide Writer - Ethiopian Electric Interruption Tracking System
+7-2 - Seamless Exchange Improvement Identifier Stakeholder - Ethiopian Electric Interruption Tracking System
