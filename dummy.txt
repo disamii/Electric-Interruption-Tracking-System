@@ -1527,3 +1527,4 @@
 4-4 - Create User Interface - Ethiopian Electric Interruption Tracking System
 5-1 - Seamless Interact Analytics - Ethiopian Electric Interruption Tracking System
 5-2 - Gather Data Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
+5-3 - Manuals Operationals Password Management - Ethiopian Electric Interruption Tracking System
