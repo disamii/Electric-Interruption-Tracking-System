@@ -2904,3 +2904,4 @@
 7-7 - Distribute Monthly Insight Linker - Ethiopian Electric Interruption Tracking System
 7-8 - Automate Observation Documenter - Ethiopian Electric Interruption Tracking System
 8-1 - Benchmark Password Management - Ethiopian Electric Interruption Tracking System
+8-2 - Build Reports Association Definer - Ethiopian Electric Interruption Tracking System
