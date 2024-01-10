@@ -1531,3 +1531,4 @@
 7-1 - Edit Requests Scalability Enhancer - Ethiopian Electric Interruption Tracking System
 7-2 - Enable Data Flow Designer - Ethiopian Electric Interruption Tracking System
 7-3 - Integrate UML Entity Mapper - Ethiopian Electric Interruption Tracking System
+7-4 - Action Dropdowns Username Generator - Ethiopian Electric Interruption Tracking System
