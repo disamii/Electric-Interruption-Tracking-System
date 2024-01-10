@@ -1529,3 +1529,4 @@
 5-2 - Gather Data Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
 5-3 - Manuals Operationals Password Management - Ethiopian Electric Interruption Tracking System
 7-1 - Edit Requests Scalability Enhancer - Ethiopian Electric Interruption Tracking System
+7-2 - Enable Data Flow Designer - Ethiopian Electric Interruption Tracking System
