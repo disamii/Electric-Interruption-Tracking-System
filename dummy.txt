@@ -1534,3 +1534,4 @@
 7-4 - Action Dropdowns Username Generator - Ethiopian Electric Interruption Tracking System
 7-5 - Notify Error Handling - Ethiopian Electric Interruption Tracking System
 7-6 - Configure Firewalls Observation Documenter - Ethiopian Electric Interruption Tracking System
+7-7 - Secure User Count Tracker - Ethiopian Electric Interruption Tracking System
