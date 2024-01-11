@@ -1540,3 +1540,4 @@
 8-1 - Optimize Disruptions Issue Reporter UI - Ethiopian Electric Interruption Tracking System
 8-2 - Monitor Suspensions Standard IEEE Network Area - Ethiopian Electric Interruption Tracking System
 8-3 - Build Interfaces Data Aligner - Ethiopian Electric Interruption Tracking System
+8-4 - Facilitate Isolated Environment Creator - Ethiopian Electric Interruption Tracking System
