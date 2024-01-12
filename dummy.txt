@@ -1543,3 +1543,4 @@
 8-4 - Facilitate Isolated Environment Creator - Ethiopian Electric Interruption Tracking System
 8-5 - Manage Database Total Interruption Counter - Ethiopian Electric Interruption Tracking System
 8-6 - Report Issues Doc Django Foundation Software - Ethiopian Electric Interruption Tracking System
+9-1 - Ask Questions User Guide Writer - Ethiopian Electric Interruption Tracking System
