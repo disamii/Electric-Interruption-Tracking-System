@@ -1547,3 +1547,4 @@
 9-2 - Automate Dropdown Actioner - Ethiopian Electric Interruption Tracking System
 9-3 - Query Library JS Interface Builder React - Ethiopian Electric Interruption Tracking System
 9-4 - Capture Datas Communication Facilitator - Ethiopian Electric Interruption Tracking System
+9-5 - Record Durations Issue Reporter UI - Ethiopian Electric Interruption Tracking System
