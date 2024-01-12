@@ -1545,3 +1545,4 @@
 8-6 - Report Issues Doc Django Foundation Software - Ethiopian Electric Interruption Tracking System
 9-1 - Ask Questions User Guide Writer - Ethiopian Electric Interruption Tracking System
 9-2 - Automate Dropdown Actioner - Ethiopian Electric Interruption Tracking System
+9-3 - Query Library JS Interface Builder React - Ethiopian Electric Interruption Tracking System
