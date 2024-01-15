@@ -1552,3 +1552,4 @@
 10-1 - Summarize Notifs Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 10-2 - Crucial Integrate Application Practicaler - Ethiopian Electric Interruption Tracking System
 10-3 - Upload Employee Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
+10-4 - Distribute Monthly Periodic Reporter - Ethiopian Electric Interruption Tracking System
