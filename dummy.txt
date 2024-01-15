@@ -1549,3 +1549,4 @@
 9-4 - Capture Datas Communication Facilitator - Ethiopian Electric Interruption Tracking System
 9-5 - Record Durations Issue Reporter UI - Ethiopian Electric Interruption Tracking System
 9-6 - Fill Fields Sidebar Navigation - Ethiopian Electric Interruption Tracking System
+10-1 - Summarize Notifs Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
