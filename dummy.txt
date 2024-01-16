@@ -1559,3 +1559,4 @@
 11-3 - Collaborate Code Frequency Analyzer - Ethiopian Electric Interruption Tracking System
 11-4 - Manage Database Line Affecter - Ethiopian Electric Interruption Tracking System
 11-5 - Improve Efficiencies Analysis Detailer - Ethiopian Electric Interruption Tracking System
+11-6 - View Submissions Total Interruption Counter - Ethiopian Electric Interruption Tracking System
