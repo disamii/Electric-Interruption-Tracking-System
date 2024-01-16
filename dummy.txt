@@ -2931,3 +2931,4 @@
 15-3 - Create Bars Report Page Builder - Ethiopian Electric Interruption Tracking System
 15-4 - Benchmark Performance Analyzer - Ethiopian Electric Interruption Tracking System
 15-5 - Suspend Handbook Report Writer - Ethiopian Electric Interruption Tracking System
+15-6 - Upload Employee Interruption Logging - Ethiopian Electric Interruption Tracking System
