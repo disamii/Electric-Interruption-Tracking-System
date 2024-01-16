@@ -1557,3 +1557,4 @@
 11-1 - Capture Datas Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
 11-2 - Handle Actors Configuration Participant - Ethiopian Electric Interruption Tracking System
 11-3 - Collaborate Code Frequency Analyzer - Ethiopian Electric Interruption Tracking System
+11-4 - Manage Database Line Affecter - Ethiopian Electric Interruption Tracking System
