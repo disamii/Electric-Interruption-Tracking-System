@@ -1561,3 +1561,4 @@
 11-5 - Improve Efficiencies Analysis Detailer - Ethiopian Electric Interruption Tracking System
 11-6 - View Submissions Total Interruption Counter - Ethiopian Electric Interruption Tracking System
 11-7 - Enhance Supports Graph Side By Sider - Ethiopian Electric Interruption Tracking System
+11-8 - Affect Lines Application Practicaler - Ethiopian Electric Interruption Tracking System
