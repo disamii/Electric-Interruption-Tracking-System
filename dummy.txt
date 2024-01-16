@@ -1558,3 +1558,4 @@
 11-2 - Handle Actors Configuration Participant - Ethiopian Electric Interruption Tracking System
 11-3 - Collaborate Code Frequency Analyzer - Ethiopian Electric Interruption Tracking System
 11-4 - Manage Database Line Affecter - Ethiopian Electric Interruption Tracking System
+11-5 - Improve Efficiencies Analysis Detailer - Ethiopian Electric Interruption Tracking System
