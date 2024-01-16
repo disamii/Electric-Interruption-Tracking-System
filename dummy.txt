@@ -1555,3 +1555,4 @@
 10-4 - Distribute Monthly Periodic Reporter - Ethiopian Electric Interruption Tracking System
 10-5 - Secure Efficiency Operational Enhancer - Ethiopian Electric Interruption Tracking System
 11-1 - Capture Datas Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
+11-2 - Handle Actors Configuration Participant - Ethiopian Electric Interruption Tracking System
