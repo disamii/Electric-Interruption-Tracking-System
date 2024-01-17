@@ -1564,3 +1564,4 @@
 11-8 - Affect Lines Application Practicaler - Ethiopian Electric Interruption Tracking System
 11-9 - Provide Insights Real Time Collection - Ethiopian Electric Interruption Tracking System
 11-10 - Detail Graphs Tailwind Styling - Ethiopian Electric Interruption Tracking System
+12-1 - Delete Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
