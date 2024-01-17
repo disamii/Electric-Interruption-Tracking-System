@@ -2939,3 +2939,4 @@
 16-3 - Create Accounts Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
 16-4 - Improve Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
 16-5 - Auto-generate Data Capturer - Ethiopian Electric Interruption Tracking System
+16-6 - Setup Concepts Username Generator - Ethiopian Electric Interruption Tracking System
