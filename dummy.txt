@@ -2934,3 +2934,4 @@
 15-6 - Upload Employee Interruption Logging - Ethiopian Electric Interruption Tracking System
 15-7 - Break Feeders Feature Linker - Ethiopian Electric Interruption Tracking System
 15-8 - Receive Notifs Background Company Referencer - Ethiopian Electric Interruption Tracking System
+16-1 - Manuals Operationals Network Integration - Ethiopian Electric Interruption Tracking System
