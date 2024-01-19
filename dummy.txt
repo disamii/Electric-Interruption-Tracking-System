@@ -2946,3 +2946,4 @@
 17-2 - Develop Frontend Info Sharer - Ethiopian Electric Interruption Tracking System
 17-3 - View Profile Field Filler - Ethiopian Electric Interruption Tracking System
 17-4 - Build Interfaces Sector Utility Tech - Ethiopian Electric Interruption Tracking System
+18-1 - Provide Deletes Reset Function Adder - Ethiopian Electric Interruption Tracking System
