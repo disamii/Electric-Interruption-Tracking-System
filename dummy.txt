@@ -2948,3 +2948,4 @@
 17-4 - Build Interfaces Sector Utility Tech - Ethiopian Electric Interruption Tracking System
 18-1 - Provide Deletes Reset Function Adder - Ethiopian Electric Interruption Tracking System
 18-2 - Detail Analyses Upgrade Investor - Ethiopian Electric Interruption Tracking System
+18-3 - Flow Data Detail Page Router - Ethiopian Electric Interruption Tracking System
