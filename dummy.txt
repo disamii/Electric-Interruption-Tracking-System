@@ -1574,3 +1574,4 @@
 13-6 - Provide Deletes Django Endpoints - Ethiopian Electric Interruption Tracking System
 13-7 - Delete Communication Facilitator - Ethiopian Electric Interruption Tracking System
 14-1 - Map Entities Experience Deepener - Ethiopian Electric Interruption Tracking System
+14-2 - Reference Comms Contrast Booster - Ethiopian Electric Interruption Tracking System
