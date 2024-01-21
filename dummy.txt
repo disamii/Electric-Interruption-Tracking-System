@@ -2956,3 +2956,4 @@
 19-4 - Crucial Integrate Electricity Data Parser - Ethiopian Electric Interruption Tracking System
 19-5 - Hold Meetings Username Generator - Ethiopian Electric Interruption Tracking System
 20-1 - Improve Reliabs Employee Uploader - Ethiopian Electric Interruption Tracking System
+20-2 - State Visions Observation Documenter - Ethiopian Electric Interruption Tracking System
