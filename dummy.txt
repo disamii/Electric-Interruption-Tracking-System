@@ -1579,3 +1579,4 @@
 14-4 - Pop Prompts Concern Addresser - Ethiopian Electric Interruption Tracking System
 14-5 - Handle Actors Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
 15-1 - Clarify Text System Manager - Ethiopian Electric Interruption Tracking System
+15-2 - Capture Django Endpoints - Ethiopian Electric Interruption Tracking System
