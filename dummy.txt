@@ -2962,3 +2962,4 @@
 20-5 - Side Graphs Dropdown Actioner - Ethiopian Electric Interruption Tracking System
 20-6 - Manage Database Admin Dashboard - Ethiopian Electric Interruption Tracking System
 21-1 - Handle Feedback Gatherer - Ethiopian Electric Interruption Tracking System
+21-2 - Track Counts Analysis Detailer - Ethiopian Electric Interruption Tracking System
