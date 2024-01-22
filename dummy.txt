@@ -1581,3 +1581,4 @@
 15-1 - Clarify Text System Manager - Ethiopian Electric Interruption Tracking System
 15-2 - Capture Django Endpoints - Ethiopian Electric Interruption Tracking System
 15-3 - Clarify Text Primary Actor Handler - Ethiopian Electric Interruption Tracking System
+15-4 - Provide Deletes Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
