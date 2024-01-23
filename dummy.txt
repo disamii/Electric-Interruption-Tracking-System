@@ -1589,3 +1589,4 @@
 16-5 - Scale Internship Report - Ethiopian Electric Interruption Tracking System
 16-6 - Streamline Setups Data Communicator - Ethiopian Electric Interruption Tracking System
 16-7 - Crucial Integrate Edit Requester - Ethiopian Electric Interruption Tracking System
+16-8 - Participate Configs Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
