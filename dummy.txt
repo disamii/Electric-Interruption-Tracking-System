@@ -1586,3 +1586,4 @@
 16-2 - Calculate Text Clarifier - Ethiopian Electric Interruption Tracking System
 16-3 - State Visions WAN Setup - Ethiopian Electric Interruption Tracking System
 16-4 - Create Isolated Version Manager - Ethiopian Electric Interruption Tracking System
+16-5 - Scale Internship Report - Ethiopian Electric Interruption Tracking System
