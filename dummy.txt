@@ -1594,3 +1594,4 @@
 16-10 - Boost Contrast Update Notifier - Ethiopian Electric Interruption Tracking System
 16-11 - Highlight Screenshots Association Definer - Ethiopian Electric Interruption Tracking System
 17-1 - Distribute Monthly Logging - Ethiopian Electric Interruption Tracking System
+17-2 - Edit Requests Visibility Enhancer - Ethiopian Electric Interruption Tracking System
