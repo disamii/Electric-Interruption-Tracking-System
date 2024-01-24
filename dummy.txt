@@ -2970,3 +2970,4 @@
 22-1 - Deepen Skills Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 23-1 - Link Navigations Feeder Breaker Downer - Ethiopian Electric Interruption Tracking System
 23-2 - Specify Hardware Outage Reasoner - Ethiopian Electric Interruption Tracking System
+23-3 - Create Digital Screen Optimizer - Ethiopian Electric Interruption Tracking System
