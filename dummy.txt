@@ -1597,3 +1597,4 @@
 17-2 - Edit Requests Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 17-3 - Link Insights Data Capturer - Ethiopian Electric Interruption Tracking System
 17-4 - Suspend Concern Addresser - Ethiopian Electric Interruption Tracking System
+18-1 - Handle Question Asker - Ethiopian Electric Interruption Tracking System
