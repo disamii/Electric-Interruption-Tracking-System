@@ -1608,3 +1608,4 @@
 19-8 - Option Contacts Class Diagram - Ethiopian Electric Interruption Tracking System
 19-9 - Hold Meetings Line Graph Trends - Ethiopian Electric Interruption Tracking System
 19-10 - Build Reports Principle Understandinger - Ethiopian Electric Interruption Tracking System
+19-11 - Gather Data User Friendly Interface - Ethiopian Electric Interruption Tracking System
