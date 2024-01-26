@@ -1599,3 +1599,4 @@
 17-4 - Suspend Concern Addresser - Ethiopian Electric Interruption Tracking System
 18-1 - Handle Question Asker - Ethiopian Electric Interruption Tracking System
 19-1 - Capture Datas Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
+19-2 - Tech Sector Utility Issue Reporter - Ethiopian Electric Interruption Tracking System
