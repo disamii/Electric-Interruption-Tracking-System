@@ -1606,3 +1606,4 @@
 19-6 - Optimize Disruptions Operational Efficiency - Ethiopian Electric Interruption Tracking System
 19-7 - Break Feeders Reliability Contributor - Ethiopian Electric Interruption Tracking System
 19-8 - Option Contacts Class Diagram - Ethiopian Electric Interruption Tracking System
+19-9 - Hold Meetings Line Graph Trends - Ethiopian Electric Interruption Tracking System
