@@ -2983,3 +2983,4 @@
 26-5 - Optimize Screens Association Definer - Ethiopian Electric Interruption Tracking System
 26-6 - Profile Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
 26-7 - Submit Reports Environment Collaborator - Ethiopian Electric Interruption Tracking System
+26-8 - Scale Interruption Logging - Ethiopian Electric Interruption Tracking System
