@@ -2977,3 +2977,4 @@
 23-7 - Auto-generate Account Deleter - Ethiopian Electric Interruption Tracking System
 25-1 - Assign Password Account Creator - Ethiopian Electric Interruption Tracking System
 26-1 - Define Associations Point Failure Identifier - Ethiopian Electric Interruption Tracking System
+26-2 - Calculate Background Company Referencer - Ethiopian Electric Interruption Tracking System
