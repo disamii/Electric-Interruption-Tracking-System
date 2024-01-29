@@ -1614,3 +1614,4 @@
 20-3 - Gather Feedbacks Admin Dashboard - Ethiopian Electric Interruption Tracking System
 20-4 - Engage Mentor Primary Actor Handler - Ethiopian Electric Interruption Tracking System
 20-5 - Quicken Resolutions Info Sharer - Ethiopian Electric Interruption Tracking System
+20-6 - Automate Exchange Seamlesser - Ethiopian Electric Interruption Tracking System
