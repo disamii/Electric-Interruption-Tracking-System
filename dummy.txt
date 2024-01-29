@@ -1616,3 +1616,4 @@
 20-5 - Quicken Resolutions Info Sharer - Ethiopian Electric Interruption Tracking System
 20-6 - Automate Exchange Seamlesser - Ethiopian Electric Interruption Tracking System
 20-7 - Timer Entries User Profile View - Ethiopian Electric Interruption Tracking System
+20-8 - Receive Notifs Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
