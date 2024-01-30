@@ -2985,3 +2985,4 @@
 26-7 - Submit Reports Environment Collaborator - Ethiopian Electric Interruption Tracking System
 26-8 - Scale Interruption Logging - Ethiopian Electric Interruption Tracking System
 27-1 - Analyze Performance Environment Collaborator - Ethiopian Electric Interruption Tracking System
+29-1 - Add Resets Notification Summarizer - Ethiopian Electric Interruption Tracking System
