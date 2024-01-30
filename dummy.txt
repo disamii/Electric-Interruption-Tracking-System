@@ -1627,3 +1627,4 @@
 21-5 - Log Graph Visualization - Ethiopian Electric Interruption Tracking System
 21-6 - Tech Sector Utility Resolution Quickener - Ethiopian Electric Interruption Tracking System
 21-7 - Optimize Disruptions Network Integration - Ethiopian Electric Interruption Tracking System
+21-8 - Deploy Environment Data Manager - Ethiopian Electric Interruption Tracking System
