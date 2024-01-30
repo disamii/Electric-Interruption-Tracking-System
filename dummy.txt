@@ -2986,3 +2986,4 @@
 26-8 - Scale Interruption Logging - Ethiopian Electric Interruption Tracking System
 27-1 - Analyze Performance Environment Collaborator - Ethiopian Electric Interruption Tracking System
 29-1 - Add Resets Notification Summarizer - Ethiopian Electric Interruption Tracking System
+29-2 - Edit Association Definer - Ethiopian Electric Interruption Tracking System
