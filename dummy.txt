@@ -2992,3 +2992,4 @@
 29-5 - Meet Needs Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 29-6 - Form Submissions Communication Facilitator - Ethiopian Electric Interruption Tracking System
 29-7 - Report Issues Request Deleter - Ethiopian Electric Interruption Tracking System
+29-8 - Option Contacts Outage Reasoner - Ethiopian Electric Interruption Tracking System
