@@ -1621,3 +1621,4 @@
 20-10 - Visualize Trends Data Storage Manager - Ethiopian Electric Interruption Tracking System
 20-11 - View Submissions Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
 21-1 - Predict Analytics Scalability Enhancer - Ethiopian Electric Interruption Tracking System
+21-2 - Map Entities Text Clarifier - Ethiopian Electric Interruption Tracking System
