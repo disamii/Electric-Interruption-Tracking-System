@@ -2991,3 +2991,4 @@
 29-4 - Predict Analytics Service Reliability Booster - Ethiopian Electric Interruption Tracking System
 29-5 - Meet Needs Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 29-6 - Form Submissions Communication Facilitator - Ethiopian Electric Interruption Tracking System
+29-7 - Report Issues Request Deleter - Ethiopian Electric Interruption Tracking System
