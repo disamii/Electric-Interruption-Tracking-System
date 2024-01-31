@@ -1631,3 +1631,4 @@
 21-9 - Build Guideline Internship Follower - Ethiopian Electric Interruption Tracking System
 21-10 - Engage Mentor Periodic Reporter - Ethiopian Electric Interruption Tracking System
 21-11 - Write Guides Account Setup Streamliner - Ethiopian Electric Interruption Tracking System
+22-1 - Install Software Note Taking - Ethiopian Electric Interruption Tracking System
