@@ -1639,3 +1639,4 @@
 22-6 - Specify Hardware Data Aligner - Ethiopian Electric Interruption Tracking System
 22-7 - Share Infos Time Durator - Ethiopian Electric Interruption Tracking System
 22-8 - Record Durations Experience Deepener - Ethiopian Electric Interruption Tracking System
+22-9 - Display Cards Handbook Report Writer - Ethiopian Electric Interruption Tracking System
