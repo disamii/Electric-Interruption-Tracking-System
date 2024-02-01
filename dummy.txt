@@ -1642,3 +1642,4 @@
 22-9 - Display Cards Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 22-10 - Seamless Exchange Interaction Seamlesser - Ethiopian Electric Interruption Tracking System
 22-11 - Collaborate Envs Insight Provider - Ethiopian Electric Interruption Tracking System
+23-1 - Compare Frequencies Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
