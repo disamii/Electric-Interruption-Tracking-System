@@ -2998,3 +2998,4 @@
 30-3 - Support Customizable Tailwind Styling - Ethiopian Electric Interruption Tracking System
 30-4 - Safeguard Infos API Development - Ethiopian Electric Interruption Tracking System
 30-5 - Configure Duration Recorder - Ethiopian Electric Interruption Tracking System
+31-1 - Receive Responses Express Line Detail - Ethiopian Electric Interruption Tracking System
