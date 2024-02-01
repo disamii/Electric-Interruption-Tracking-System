@@ -3001,3 +3001,4 @@
 31-1 - Receive Responses Express Line Detail - Ethiopian Electric Interruption Tracking System
 31-2 - Control Version Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 31-3 - Action Follow Ups Duration Recorder - Ethiopian Electric Interruption Tracking System
+31-4 - Record Durations Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
