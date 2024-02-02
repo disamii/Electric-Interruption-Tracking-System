@@ -1651,3 +1651,4 @@
 24-5 - Implement Solutions Point Failure Identifier - Ethiopian Electric Interruption Tracking System
 24-6 - Highlight Metrics Line Graph Trends - Ethiopian Electric Interruption Tracking System
 24-7 - Fix Exchange Seamlesser - Ethiopian Electric Interruption Tracking System
+24-8 - Fill Fields Access Level Controller - Ethiopian Electric Interruption Tracking System
