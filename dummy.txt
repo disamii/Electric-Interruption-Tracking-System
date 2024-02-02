@@ -1649,3 +1649,4 @@
 24-3 - Identify Improves Electricity Data Parser - Ethiopian Electric Interruption Tracking System
 24-4 - Provide Insights Authentication - Ethiopian Electric Interruption Tracking System
 24-5 - Implement Solutions Point Failure Identifier - Ethiopian Electric Interruption Tracking System
+24-6 - Highlight Metrics Line Graph Trends - Ethiopian Electric Interruption Tracking System
