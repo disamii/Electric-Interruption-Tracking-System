@@ -3009,3 +3009,4 @@
 33-3 - Collect Feedback Application Practicaler - Ethiopian Electric Interruption Tracking System
 33-4 - Fill Fields Record Editor - Ethiopian Electric Interruption Tracking System
 33-5 - Form Submissions Issue Reporter - Ethiopian Electric Interruption Tracking System
+33-6 - Integrate Features Isolated Environment Creator - Ethiopian Electric Interruption Tracking System
