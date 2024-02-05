@@ -1654,3 +1654,4 @@
 24-8 - Fill Fields Access Level Controller - Ethiopian Electric Interruption Tracking System
 24-9 - Review Historical Proactive Maintenance - Ethiopian Electric Interruption Tracking System
 25-1 - Visualize Trends Navigation Linker - Ethiopian Electric Interruption Tracking System
+25-2 - Visualize Suspension Monitor - Ethiopian Electric Interruption Tracking System
