@@ -3013,3 +3013,4 @@
 33-7 - Track Infos Automated Alerts - Ethiopian Electric Interruption Tracking System
 34-1 - Understand Limitations Challenge Documenter - Ethiopian Electric Interruption Tracking System
 34-2 - Insight Causes Credential Validator - Ethiopian Electric Interruption Tracking System
+35-1 - Develop Hardware Specifier - Ethiopian Electric Interruption Tracking System
