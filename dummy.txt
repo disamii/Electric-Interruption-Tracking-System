@@ -1659,3 +1659,4 @@
 25-4 - Develop API Concern Addresser - Ethiopian Electric Interruption Tracking System
 25-5 - Collect Feedback Entity Relationship - Ethiopian Electric Interruption Tracking System
 26-1 - Manage Datas Interaction Seamlesser - Ethiopian Electric Interruption Tracking System
+26-2 - Report Periodic Downtime Table Generator - Ethiopian Electric Interruption Tracking System
