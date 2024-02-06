@@ -3019,3 +3019,4 @@
 35-4 - Enable Note Taking Tracker Effectiver - Ethiopian Electric Interruption Tracking System
 35-5 - User Manuals Principle Understandinger - Ethiopian Electric Interruption Tracking System
 35-6 - Design Experience User Friendlier - Ethiopian Electric Interruption Tracking System
+36-1 - List Tables Deletion Handler - Ethiopian Electric Interruption Tracking System
