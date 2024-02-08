@@ -1662,3 +1662,4 @@
 26-2 - Report Periodic Downtime Table Generator - Ethiopian Electric Interruption Tracking System
 26-3 - Establish Routines Entry Real Timer - Ethiopian Electric Interruption Tracking System
 28-1 - Improve Reliabs Periodic Reporter - Ethiopian Electric Interruption Tracking System
+28-2 - Edit Records Username Generator - Ethiopian Electric Interruption Tracking System
