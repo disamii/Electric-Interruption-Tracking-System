@@ -1664,3 +1664,4 @@
 28-1 - Improve Reliabs Periodic Reporter - Ethiopian Electric Interruption Tracking System
 28-2 - Edit Records Username Generator - Ethiopian Electric Interruption Tracking System
 28-3 - Enhance Visibility Issue Reporter UI - Ethiopian Electric Interruption Tracking System
+28-4 - Manage Overall Graph Side By Sider - Ethiopian Electric Interruption Tracking System
