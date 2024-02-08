@@ -1666,3 +1666,4 @@
 28-3 - Enhance Visibility Issue Reporter UI - Ethiopian Electric Interruption Tracking System
 28-4 - Manage Overall Graph Side By Sider - Ethiopian Electric Interruption Tracking System
 28-5 - Contribute Reliabilities Insight Comparer - Ethiopian Electric Interruption Tracking System
+28-6 - Edit Profiles Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
