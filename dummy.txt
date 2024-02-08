@@ -1663,3 +1663,4 @@
 26-3 - Establish Routines Entry Real Timer - Ethiopian Electric Interruption Tracking System
 28-1 - Improve Reliabs Periodic Reporter - Ethiopian Electric Interruption Tracking System
 28-2 - Edit Records Username Generator - Ethiopian Electric Interruption Tracking System
+28-3 - Enhance Visibility Issue Reporter UI - Ethiopian Electric Interruption Tracking System
