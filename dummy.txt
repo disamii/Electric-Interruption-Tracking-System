@@ -3033,3 +3033,4 @@
 39-3 - Automate Detail Submitter - Ethiopian Electric Interruption Tracking System
 39-4 - Affect Lines Internet Connector - Ethiopian Electric Interruption Tracking System
 39-5 - List Uploads Solution Implementer - Ethiopian Electric Interruption Tracking System
+39-6 - Build Interfaces User Management - Ethiopian Electric Interruption Tracking System
