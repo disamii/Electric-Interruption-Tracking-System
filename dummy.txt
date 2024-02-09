@@ -1669,3 +1669,4 @@
 28-6 - Edit Profiles Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
 28-7 - Calculate System Architecture - Ethiopian Electric Interruption Tracking System
 29-1 - Specify Hardware Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
+29-2 - Communicate Via Chat Insight Linker - Ethiopian Electric Interruption Tracking System
