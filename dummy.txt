@@ -3030,3 +3030,4 @@
 38-5 - Build Interfaces Solution Implementer - Ethiopian Electric Interruption Tracking System
 39-1 - Benchmark Reset Function Adder - Ethiopian Electric Interruption Tracking System
 39-2 - Implement User Interface - Ethiopian Electric Interruption Tracking System
+39-3 - Automate Detail Submitter - Ethiopian Electric Interruption Tracking System
