@@ -1672,3 +1672,4 @@
 29-2 - Communicate Via Chat Insight Linker - Ethiopian Electric Interruption Tracking System
 29-3 - Clarify Text Code Change Tracker - Ethiopian Electric Interruption Tracking System
 29-4 - Reason Outages Upload Lister - Ethiopian Electric Interruption Tracking System
+29-5 - State Visions Request Deleter - Ethiopian Electric Interruption Tracking System
