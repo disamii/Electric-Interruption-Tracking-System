@@ -1671,3 +1671,4 @@
 29-1 - Specify Hardware Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 29-2 - Communicate Via Chat Insight Linker - Ethiopian Electric Interruption Tracking System
 29-3 - Clarify Text Code Change Tracker - Ethiopian Electric Interruption Tracking System
+29-4 - Reason Outages Upload Lister - Ethiopian Electric Interruption Tracking System
