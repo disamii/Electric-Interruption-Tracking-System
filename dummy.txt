@@ -3031,3 +3031,4 @@
 39-1 - Benchmark Reset Function Adder - Ethiopian Electric Interruption Tracking System
 39-2 - Implement User Interface - Ethiopian Electric Interruption Tracking System
 39-3 - Automate Detail Submitter - Ethiopian Electric Interruption Tracking System
+39-4 - Affect Lines Internet Connector - Ethiopian Electric Interruption Tracking System
