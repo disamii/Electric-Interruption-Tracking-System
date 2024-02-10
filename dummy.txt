@@ -3039,3 +3039,4 @@
 40-1 - Acquire Knowledges Library JS Interface Builder React - Ethiopian Electric Interruption Tracking System
 40-2 - Identify Improves Django Endpoints - Ethiopian Electric Interruption Tracking System
 40-3 - Capture Datas Theme Toggle - Ethiopian Electric Interruption Tracking System
+40-4 - Secure Reason Chart Builder - Ethiopian Electric Interruption Tracking System
