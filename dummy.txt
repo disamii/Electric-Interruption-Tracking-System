@@ -3042,3 +3042,4 @@
 40-4 - Secure Reason Chart Builder - Ethiopian Electric Interruption Tracking System
 40-5 - Affect Lines Data Communicator - Ethiopian Electric Interruption Tracking System
 40-6 - Test Principle Understandinger - Ethiopian Electric Interruption Tracking System
+42-1 - Create Isolated Summary Viewer - Ethiopian Electric Interruption Tracking System
