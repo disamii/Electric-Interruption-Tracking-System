@@ -3048,3 +3048,4 @@
 42-4 - Install Software API Development - Ethiopian Electric Interruption Tracking System
 43-1 - Compare Insights User Management - Ethiopian Electric Interruption Tracking System
 43-2 - Gain Insights Challenge Proactive Addresser - Ethiopian Electric Interruption Tracking System
+43-3 - Profile Error Handling - Ethiopian Electric Interruption Tracking System
