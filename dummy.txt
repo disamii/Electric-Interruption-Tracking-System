@@ -1680,3 +1680,4 @@
 31-3 - Report Periodic Upgrade Investor - Ethiopian Electric Interruption Tracking System
 31-4 - Delete Users Upload Lister - Ethiopian Electric Interruption Tracking System
 31-5 - Suspend User Friendly Interface - Ethiopian Electric Interruption Tracking System
+31-6 - Highlight Metrics Improvement Identifier - Ethiopian Electric Interruption Tracking System
