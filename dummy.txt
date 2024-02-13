@@ -3046,3 +3046,4 @@
 42-2 - Parse Note Taker - Ethiopian Electric Interruption Tracking System
 42-3 - Detail Graphs User Profile View - Ethiopian Electric Interruption Tracking System
 42-4 - Install Software API Development - Ethiopian Electric Interruption Tracking System
+43-1 - Compare Insights User Management - Ethiopian Electric Interruption Tracking System
