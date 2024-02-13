@@ -1677,3 +1677,4 @@
 30-2 - Communicate Via Chat Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
 31-1 - Automate Monthly Distributor - Ethiopian Electric Interruption Tracking System
 31-2 - Capture Efficiency Operational Enhancer - Ethiopian Electric Interruption Tracking System
+31-3 - Report Periodic Upgrade Investor - Ethiopian Electric Interruption Tracking System
