@@ -1684,3 +1684,4 @@
 31-7 - Record Durations Graph Visualization - Ethiopian Electric Interruption Tracking System
 31-8 - Validate Credentials Point Failure Identifier - Ethiopian Electric Interruption Tracking System
 32-1 - Enhance Supports Manual Data Migration - Ethiopian Electric Interruption Tracking System
+32-2 - Track Changes Scheduler - Ethiopian Electric Interruption Tracking System
