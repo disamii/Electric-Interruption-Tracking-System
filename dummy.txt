@@ -3058,3 +3058,4 @@
 44-3 - Pop Prompts Docker Container - Ethiopian Electric Interruption Tracking System
 44-4 - Option Contacts Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 44-5 - Face Challenges Tracker Effectiver - Ethiopian Electric Interruption Tracking System
+44-6 - Install Software Feedback Collector - Ethiopian Electric Interruption Tracking System
