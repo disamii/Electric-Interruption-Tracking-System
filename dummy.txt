@@ -3053,3 +3053,4 @@
 43-5 - Log LAN Configuration - Ethiopian Electric Interruption Tracking System
 43-6 - Streamline Setups Reliability Improver - Ethiopian Electric Interruption Tracking System
 43-7 - Handle Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
+44-1 - Detail Graphs Trainer Ongoing - Ethiopian Electric Interruption Tracking System
