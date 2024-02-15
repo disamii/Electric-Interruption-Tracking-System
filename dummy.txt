@@ -1688,3 +1688,4 @@
 32-3 - Ongoing Train Security Measurer - Ethiopian Electric Interruption Tracking System
 33-1 - Compare Patterns Notification Service - Ethiopian Electric Interruption Tracking System
 33-2 - Scale Improvement Identifier - Ethiopian Electric Interruption Tracking System
+33-3 - Identify Screenshot Highlighter - Ethiopian Electric Interruption Tracking System
