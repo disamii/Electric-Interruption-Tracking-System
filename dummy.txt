@@ -1699,3 +1699,4 @@
 34-6 - Improve Readability Username Generator - Ethiopian Electric Interruption Tracking System
 34-7 - Provide Insights Decision Informer - Ethiopian Electric Interruption Tracking System
 34-8 - Reference Comms Standards Enforcer - Ethiopian Electric Interruption Tracking System
+34-9 - Option Contacts API Development - Ethiopian Electric Interruption Tracking System
