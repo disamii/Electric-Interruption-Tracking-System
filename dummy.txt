@@ -3065,3 +3065,4 @@
 46-3 - Clarify Text Navigation Linker - Ethiopian Electric Interruption Tracking System
 46-4 - View Infos Secure Access Gate - Ethiopian Electric Interruption Tracking System
 46-5 - Display Cards Contrast Booster - Ethiopian Electric Interruption Tracking System
+46-6 - User Manuals Analytics - Ethiopian Electric Interruption Tracking System
