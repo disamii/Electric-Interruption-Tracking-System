@@ -3066,3 +3066,4 @@
 46-4 - View Infos Secure Access Gate - Ethiopian Electric Interruption Tracking System
 46-5 - Display Cards Contrast Booster - Ethiopian Electric Interruption Tracking System
 46-6 - User Manuals Analytics - Ethiopian Electric Interruption Tracking System
+46-7 - Edit Requests Eye Strain Reducer - Ethiopian Electric Interruption Tracking System
