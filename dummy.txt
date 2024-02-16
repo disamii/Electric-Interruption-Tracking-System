@@ -1697,3 +1697,4 @@
 34-4 - Count Totals Feature Integrator - Ethiopian Electric Interruption Tracking System
 34-5 - Edit Profiles Django Endpoints - Ethiopian Electric Interruption Tracking System
 34-6 - Improve Readability Username Generator - Ethiopian Electric Interruption Tracking System
+34-7 - Provide Insights Decision Informer - Ethiopian Electric Interruption Tracking System
