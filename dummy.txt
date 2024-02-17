@@ -3068,3 +3068,4 @@
 46-6 - User Manuals Analytics - Ethiopian Electric Interruption Tracking System
 46-7 - Edit Requests Eye Strain Reducer - Ethiopian Electric Interruption Tracking System
 47-1 - Standard Networks Readability Improver - Ethiopian Electric Interruption Tracking System
+47-2 - Reason Outages Trainer Ongoing - Ethiopian Electric Interruption Tracking System
