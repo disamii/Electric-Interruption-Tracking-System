@@ -3071,3 +3071,4 @@
 47-2 - Reason Outages Trainer Ongoing - Ethiopian Electric Interruption Tracking System
 48-1 - Configure Navigation Linker - Ethiopian Electric Interruption Tracking System
 48-2 - Notify Updates Navigation Easier - Ethiopian Electric Interruption Tracking System
+48-3 - Submit Details Sector Utility Tech - Ethiopian Electric Interruption Tracking System
