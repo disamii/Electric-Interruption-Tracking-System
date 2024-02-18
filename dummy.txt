@@ -3069,3 +3069,4 @@
 46-7 - Edit Requests Eye Strain Reducer - Ethiopian Electric Interruption Tracking System
 47-1 - Standard Networks Readability Improver - Ethiopian Electric Interruption Tracking System
 47-2 - Reason Outages Trainer Ongoing - Ethiopian Electric Interruption Tracking System
+48-1 - Configure Navigation Linker - Ethiopian Electric Interruption Tracking System
