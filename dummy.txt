@@ -3075,3 +3075,4 @@
 48-4 - Inform Decisions User Friendly Interface - Ethiopian Electric Interruption Tracking System
 48-5 - Base Historicals Routine Establisher - Ethiopian Electric Interruption Tracking System
 49-1 - Support Customizable Report Page Builder - Ethiopian Electric Interruption Tracking System
+49-2 - Share Infos Password Resetter - Ethiopian Electric Interruption Tracking System
