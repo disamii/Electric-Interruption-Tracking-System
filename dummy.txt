@@ -1705,3 +1705,4 @@
 35-3 - Define Roles Data Communicator - Ethiopian Electric Interruption Tracking System
 35-4 - Develop API Efficiency Operational Enhancer - Ethiopian Electric Interruption Tracking System
 35-5 - Capture Datas Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
+35-6 - Link Features Navigation Easier - Ethiopian Electric Interruption Tracking System
