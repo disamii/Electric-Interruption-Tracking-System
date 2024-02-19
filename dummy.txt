@@ -1700,3 +1700,4 @@
 34-7 - Provide Insights Decision Informer - Ethiopian Electric Interruption Tracking System
 34-8 - Reference Comms Standards Enforcer - Ethiopian Electric Interruption Tracking System
 34-9 - Option Contacts API Development - Ethiopian Electric Interruption Tracking System
+35-1 - Handle Deletions Environment Collaborator - Ethiopian Electric Interruption Tracking System
