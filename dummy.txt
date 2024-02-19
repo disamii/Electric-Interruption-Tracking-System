@@ -1707,3 +1707,4 @@
 35-5 - Capture Datas Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 35-6 - Link Features Navigation Easier - Ethiopian Electric Interruption Tracking System
 35-7 - Add WAN Setup - Ethiopian Electric Interruption Tracking System
+35-8 - Art Testings Downtime Table Generator - Ethiopian Electric Interruption Tracking System
