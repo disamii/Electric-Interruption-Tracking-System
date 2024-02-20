@@ -1714,3 +1714,4 @@
 36-4 - Manuals Operationals Communication Facilitator - Ethiopian Electric Interruption Tracking System
 36-5 - Lab Docs Readability Improver - Ethiopian Electric Interruption Tracking System
 36-6 - Create Isolated Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
+36-7 - Display Cards Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
