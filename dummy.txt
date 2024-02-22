@@ -1731,3 +1731,4 @@
 38-6 - Option Contacts Error Handling - Ethiopian Electric Interruption Tracking System
 38-7 - Optimize Screens Security Measurer - Ethiopian Electric Interruption Tracking System
 38-8 - Break Feeders Note Taker - Ethiopian Electric Interruption Tracking System
+38-9 - Link Navigations Experience User Friendlier - Ethiopian Electric Interruption Tracking System
