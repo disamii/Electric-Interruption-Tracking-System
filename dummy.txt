@@ -3099,3 +3099,4 @@
 55-1 - Safeguard Infos Analytics - Ethiopian Electric Interruption Tracking System
 55-2 - Define Associations User Profile View - Ethiopian Electric Interruption Tracking System
 55-3 - Tech Sector Utility Info Viewer - Ethiopian Electric Interruption Tracking System
+55-4 - Effective Trackers Point Failure Identifier - Ethiopian Electric Interruption Tracking System
