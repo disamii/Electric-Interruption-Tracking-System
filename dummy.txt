@@ -1749,3 +1749,4 @@
 43-7 - Automate Alerts Chat System - Ethiopian Electric Interruption Tracking System
 43-8 - Deepen Skills Feedback Gatherer - Ethiopian Electric Interruption Tracking System
 43-9 - Secure Outage Reasoner - Ethiopian Electric Interruption Tracking System
+43-10 - Align Data Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
