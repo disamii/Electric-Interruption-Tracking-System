@@ -1744,3 +1744,4 @@
 43-2 - Suspend Interruption Logging - Ethiopian Electric Interruption Tracking System
 43-3 - Understand Limitations Reliability Improver - Ethiopian Electric Interruption Tracking System
 43-4 - Track Counts Notification Receiver - Ethiopian Electric Interruption Tracking System
+43-5 - Visualize Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
