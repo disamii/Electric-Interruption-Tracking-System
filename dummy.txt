@@ -1754,3 +1754,4 @@
 44-2 - Generate Tables Challenge Documenter - Ethiopian Electric Interruption Tracking System
 44-3 - Generate Tables Insight Comparer - Ethiopian Electric Interruption Tracking System
 44-4 - Timer Entries Internship Report - Ethiopian Electric Interruption Tracking System
+44-5 - Reset Entry Real Timer - Ethiopian Electric Interruption Tracking System
