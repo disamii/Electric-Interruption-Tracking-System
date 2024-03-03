@@ -3118,3 +3118,4 @@
 59-6 - Edit Profiles Data Upload Table - Ethiopian Electric Interruption Tracking System
 61-1 - Render Login Real Time Collection - Ethiopian Electric Interruption Tracking System
 62-1 - Clarify Text Exchange Seamlesser - Ethiopian Electric Interruption Tracking System
+62-2 - Generate Username Alert Automator - Ethiopian Electric Interruption Tracking System
