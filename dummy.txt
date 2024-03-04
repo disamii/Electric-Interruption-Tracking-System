@@ -1760,3 +1760,4 @@
 45-2 - Communicate Via Chat Power Outage Tracker - Ethiopian Electric Interruption Tracking System
 45-3 - Install Software Methodology Docs - Ethiopian Electric Interruption Tracking System
 45-4 - Personalize Passes Personalizer - Ethiopian Electric Interruption Tracking System
+45-5 - Acquire Knowledges WAN Setup - Ethiopian Electric Interruption Tracking System
