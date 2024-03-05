@@ -3128,3 +3128,4 @@
 64-3 - Ongoing Train Scheduler - Ethiopian Electric Interruption Tracking System
 64-4 - Render Six Month Report - Ethiopian Electric Interruption Tracking System
 64-5 - Validate Credentials Downtime Table Generator - Ethiopian Electric Interruption Tracking System
+64-6 - Report Periodic Disruption Optimizer - Ethiopian Electric Interruption Tracking System
