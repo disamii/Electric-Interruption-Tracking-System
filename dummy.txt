@@ -1763,3 +1763,4 @@
 45-5 - Acquire Knowledges WAN Setup - Ethiopian Electric Interruption Tracking System
 45-6 - Optimize Glancer - Ethiopian Electric Interruption Tracking System
 45-7 - Enforce Standards Experience User Friendlier - Ethiopian Electric Interruption Tracking System
+47-1 - Create Deletion Handler - Ethiopian Electric Interruption Tracking System
