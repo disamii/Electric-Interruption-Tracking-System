@@ -1766,3 +1766,4 @@
 47-1 - Create Deletion Handler - Ethiopian Electric Interruption Tracking System
 47-2 - Control Version Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 47-3 - Handle Six Month Report - Ethiopian Electric Interruption Tracking System
+47-4 - Report Issues Performance Optimalizer - Ethiopian Electric Interruption Tracking System
