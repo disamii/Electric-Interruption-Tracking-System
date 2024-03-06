@@ -1770,3 +1770,4 @@
 47-5 - Take Notes Iteration Improver - Ethiopian Electric Interruption Tracking System
 47-6 - Map Entities Performance Booster - Ethiopian Electric Interruption Tracking System
 47-7 - Provide Deletes Frontend Builder - Ethiopian Electric Interruption Tracking System
+47-8 - Configure Firewalls Report Page Builder - Ethiopian Electric Interruption Tracking System
