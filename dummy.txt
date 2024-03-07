@@ -3134,3 +3134,4 @@
 65-3 - Assign Password LAN Configuration - Ethiopian Electric Interruption Tracking System
 66-1 - Generate Username Time Durator - Ethiopian Electric Interruption Tracking System
 66-2 - Record Durations Security Measurer - Ethiopian Electric Interruption Tracking System
+66-3 - Timer Entries Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
