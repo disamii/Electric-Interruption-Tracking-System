@@ -1783,3 +1783,4 @@
 51-1 - Derive Deeper Disruption Optimizer - Ethiopian Electric Interruption Tracking System
 51-2 - Manage Database Submission Viewer - Ethiopian Electric Interruption Tracking System
 52-1 - Receive Responses Error Handling - Ethiopian Electric Interruption Tracking System
+52-2 - View Depths Data Manager - Ethiopian Electric Interruption Tracking System
