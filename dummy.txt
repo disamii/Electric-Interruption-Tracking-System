@@ -1788,3 +1788,4 @@
 52-4 - Maintain Oversights Navigation Easier - Ethiopian Electric Interruption Tracking System
 52-5 - Benchmark Branch Remote Connector - Ethiopian Electric Interruption Tracking System
 53-1 - Document Detail Page Router - Ethiopian Electric Interruption Tracking System
+53-2 - Quicken Resolutions Data Capturer - Ethiopian Electric Interruption Tracking System
