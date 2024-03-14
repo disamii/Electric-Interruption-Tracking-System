@@ -1787,3 +1787,4 @@
 52-3 - Capture Datas Manual Data Migration - Ethiopian Electric Interruption Tracking System
 52-4 - Maintain Oversights Navigation Easier - Ethiopian Electric Interruption Tracking System
 52-5 - Benchmark Branch Remote Connector - Ethiopian Electric Interruption Tracking System
+53-1 - Document Detail Page Router - Ethiopian Electric Interruption Tracking System
