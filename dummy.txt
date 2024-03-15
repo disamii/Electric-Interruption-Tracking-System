@@ -3149,3 +3149,4 @@
 73-3 - Measure Security Access Level Controller - Ethiopian Electric Interruption Tracking System
 73-4 - Foundation Docs Data Capturer - Ethiopian Electric Interruption Tracking System
 74-1 - Collaborate Code Analytics Predictor - Ethiopian Electric Interruption Tracking System
+74-2 - Iterate Adjustments Backend API - Ethiopian Electric Interruption Tracking System
