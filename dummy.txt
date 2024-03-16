@@ -3154,3 +3154,4 @@
 74-4 - Communicate Via Chat Isolated Environment Creator - Ethiopian Electric Interruption Tracking System
 74-5 - Base Historicals Challenge Proactive Addresser - Ethiopian Electric Interruption Tracking System
 74-6 - Reference Backgrounds Observation Documenter - Ethiopian Electric Interruption Tracking System
+75-1 - Monitor Suspensions Data Summary - Ethiopian Electric Interruption Tracking System
