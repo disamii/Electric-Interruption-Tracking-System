@@ -3159,3 +3159,4 @@
 75-3 - Identify Improves Configuration Participant - Ethiopian Electric Interruption Tracking System
 75-4 - Placeholder Duration Recorder - Ethiopian Electric Interruption Tracking System
 75-5 - Build Duration Recorder - Ethiopian Electric Interruption Tracking System
+75-6 - Derive Deeper Point Failure Identifier - Ethiopian Electric Interruption Tracking System
