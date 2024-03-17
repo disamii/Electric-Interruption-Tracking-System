@@ -3165,3 +3165,4 @@
 76-3 - Manuals Operationals Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
 76-4 - Record Actions User Guide Writer - Ethiopian Electric Interruption Tracking System
 76-5 - Develop API Chat System - Ethiopian Electric Interruption Tracking System
+76-6 - Specify Hardware Insight Provider - Ethiopian Electric Interruption Tracking System
