@@ -3164,3 +3164,4 @@
 76-2 - Update Resolution Quickener - Ethiopian Electric Interruption Tracking System
 76-3 - Manuals Operationals Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
 76-4 - Record Actions User Guide Writer - Ethiopian Electric Interruption Tracking System
+76-5 - Develop API Chat System - Ethiopian Electric Interruption Tracking System
