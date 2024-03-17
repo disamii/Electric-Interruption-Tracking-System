@@ -3160,3 +3160,4 @@
 75-4 - Placeholder Duration Recorder - Ethiopian Electric Interruption Tracking System
 75-5 - Build Duration Recorder - Ethiopian Electric Interruption Tracking System
 75-6 - Derive Deeper Point Failure Identifier - Ethiopian Electric Interruption Tracking System
+76-1 - Assign Password Line Graph Trends - Ethiopian Electric Interruption Tracking System
