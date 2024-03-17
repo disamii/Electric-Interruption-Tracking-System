@@ -3163,3 +3163,4 @@
 76-1 - Assign Password Line Graph Trends - Ethiopian Electric Interruption Tracking System
 76-2 - Update Resolution Quickener - Ethiopian Electric Interruption Tracking System
 76-3 - Manuals Operationals Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
+76-4 - Record Actions User Guide Writer - Ethiopian Electric Interruption Tracking System
