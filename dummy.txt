@@ -3170,3 +3170,4 @@
 77-1 - Update Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 77-2 - Link Features Configuration Participant - Ethiopian Electric Interruption Tracking System
 77-3 - Migrate Skill Deepener - Ethiopian Electric Interruption Tracking System
+77-4 - Connect Branches Downtime Table Generator - Ethiopian Electric Interruption Tracking System
