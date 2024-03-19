@@ -1809,3 +1809,4 @@
 56-5 - Develop Frontend Reminder Setter - Ethiopian Electric Interruption Tracking System
 56-6 - Generate Tables Personalizer - Ethiopian Electric Interruption Tracking System
 56-7 - Develop API Django Endpoints - Ethiopian Electric Interruption Tracking System
+56-8 - Secure User Management - Ethiopian Electric Interruption Tracking System
