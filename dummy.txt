@@ -3175,3 +3175,4 @@
 78-1 - Implement Solutions Login Page Renderer - Ethiopian Electric Interruption Tracking System
 78-2 - Address Concerns Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
 78-3 - Upload Employee Follow Up Actioner - Ethiopian Electric Interruption Tracking System
+78-4 - Invest Upgrades Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
