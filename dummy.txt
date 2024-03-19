@@ -1806,3 +1806,4 @@
 56-2 - Effective Trackers Concern Addresser - Ethiopian Electric Interruption Tracking System
 56-3 - Notify Updates Backend API - Ethiopian Electric Interruption Tracking System
 56-4 - Detail Analyses User Friendly Interface - Ethiopian Electric Interruption Tracking System
+56-5 - Develop Frontend Reminder Setter - Ethiopian Electric Interruption Tracking System
