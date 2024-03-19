@@ -1808,3 +1808,4 @@
 56-4 - Detail Analyses User Friendly Interface - Ethiopian Electric Interruption Tracking System
 56-5 - Develop Frontend Reminder Setter - Ethiopian Electric Interruption Tracking System
 56-6 - Generate Tables Personalizer - Ethiopian Electric Interruption Tracking System
+56-7 - Develop API Django Endpoints - Ethiopian Electric Interruption Tracking System
