@@ -3173,3 +3173,4 @@
 77-4 - Connect Branches Downtime Table Generator - Ethiopian Electric Interruption Tracking System
 77-5 - Calculate Interruption Logging - Ethiopian Electric Interruption Tracking System
 78-1 - Implement Solutions Login Page Renderer - Ethiopian Electric Interruption Tracking System
+78-2 - Address Concerns Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
