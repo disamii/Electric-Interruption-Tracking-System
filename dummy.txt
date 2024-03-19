@@ -1811,3 +1811,4 @@
 56-7 - Develop API Django Endpoints - Ethiopian Electric Interruption Tracking System
 56-8 - Secure User Management - Ethiopian Electric Interruption Tracking System
 56-9 - Optimize Disruptions Issue Reporter - Ethiopian Electric Interruption Tracking System
+56-10 - Gather Feedbacks Data Manager - Ethiopian Electric Interruption Tracking System
