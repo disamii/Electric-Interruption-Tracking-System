@@ -3179,3 +3179,4 @@
 79-1 - Inform Decisions Follow Up Actioner - Ethiopian Electric Interruption Tracking System
 79-2 - Boost Performances Vision Mission Stater - Ethiopian Electric Interruption Tracking System
 79-3 - Generate Username Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
+79-4 - Log Metric Card Displayer - Ethiopian Electric Interruption Tracking System
