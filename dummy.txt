@@ -1813,3 +1813,4 @@
 56-9 - Optimize Disruptions Issue Reporter - Ethiopian Electric Interruption Tracking System
 56-10 - Gather Feedbacks Data Manager - Ethiopian Electric Interruption Tracking System
 57-1 - Specify Hardware Profile Viewer - Ethiopian Electric Interruption Tracking System
+57-2 - Flow Data Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
