@@ -1823,3 +1823,4 @@
 58-5 - Provide Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 58-6 - Effective Trackers Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 58-7 - Record Durations Submission Former - Ethiopian Electric Interruption Tracking System
+58-8 - Analyze Line Graph Trends - Ethiopian Electric Interruption Tracking System
