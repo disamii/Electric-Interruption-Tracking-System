@@ -3181,3 +3181,4 @@
 79-3 - Generate Username Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
 79-4 - Log Metric Card Displayer - Ethiopian Electric Interruption Tracking System
 80-1 - Reset Disruption Optimizer - Ethiopian Electric Interruption Tracking System
+80-2 - Logic Server Side Feedback Gatherer - Ethiopian Electric Interruption Tracking System
