@@ -1816,3 +1816,4 @@
 57-2 - Flow Data Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
 57-3 - Art Testings Class Diagram - Ethiopian Electric Interruption Tracking System
 57-4 - Insight Causes Predictive Insights - Ethiopian Electric Interruption Tracking System
+58-1 - Setup Concepts Standard IEEE Network Area - Ethiopian Electric Interruption Tracking System
