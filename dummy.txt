@@ -3184,3 +3184,4 @@
 80-2 - Logic Server Side Feedback Gatherer - Ethiopian Electric Interruption Tracking System
 80-3 - Develop Frontend Performance Analyzer - Ethiopian Electric Interruption Tracking System
 80-4 - Add Resets Methodology Docs - Ethiopian Electric Interruption Tracking System
+80-5 - Summarize Notifs Issue Reporter - Ethiopian Electric Interruption Tracking System
