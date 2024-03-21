@@ -1822,3 +1822,4 @@
 58-4 - Style With Tailwind Adaptability Layer - Ethiopian Electric Interruption Tracking System
 58-5 - Provide Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 58-6 - Effective Trackers Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
+58-7 - Record Durations Submission Former - Ethiopian Electric Interruption Tracking System
