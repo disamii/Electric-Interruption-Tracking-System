@@ -1817,3 +1817,4 @@
 57-3 - Art Testings Class Diagram - Ethiopian Electric Interruption Tracking System
 57-4 - Insight Causes Predictive Insights - Ethiopian Electric Interruption Tracking System
 58-1 - Setup Concepts Standard IEEE Network Area - Ethiopian Electric Interruption Tracking System
+58-2 - Edit Records Reminder Setter - Ethiopian Electric Interruption Tracking System
