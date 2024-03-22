@@ -3191,3 +3191,4 @@
 81-4 - Develop Frontend Line Frequency Identifier - Ethiopian Electric Interruption Tracking System
 81-5 - Authenticate Feature Linker - Ethiopian Electric Interruption Tracking System
 81-6 - Enforce Standards Disruption Optimizer - Ethiopian Electric Interruption Tracking System
+81-7 - Invest Upgrades Configuration Participant - Ethiopian Electric Interruption Tracking System
