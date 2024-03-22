@@ -3186,3 +3186,4 @@
 80-4 - Add Resets Methodology Docs - Ethiopian Electric Interruption Tracking System
 80-5 - Summarize Notifs Issue Reporter - Ethiopian Electric Interruption Tracking System
 81-1 - Suspend Eye Strain Reducer - Ethiopian Electric Interruption Tracking System
+81-2 - Seamless Exchange React Components - Ethiopian Electric Interruption Tracking System
