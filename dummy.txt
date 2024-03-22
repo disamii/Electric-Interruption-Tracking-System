@@ -1828,3 +1828,4 @@
 59-2 - Notify Updates Insight Deeper Deriver - Ethiopian Electric Interruption Tracking System
 59-3 - View Infos Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 59-4 - Notify Updates Employee Uploader - Ethiopian Electric Interruption Tracking System
+59-5 - Track Infos Info Sharer - Ethiopian Electric Interruption Tracking System
