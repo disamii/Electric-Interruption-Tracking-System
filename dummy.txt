@@ -1826,3 +1826,4 @@
 58-8 - Analyze Line Graph Trends - Ethiopian Electric Interruption Tracking System
 59-1 - Manage Datas Contact Optioner - Ethiopian Electric Interruption Tracking System
 59-2 - Notify Updates Insight Deeper Deriver - Ethiopian Electric Interruption Tracking System
+59-3 - View Infos Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
