@@ -1832,3 +1832,4 @@
 59-6 - Enhance Navigation Linker - Ethiopian Electric Interruption Tracking System
 59-7 - Timer Entries Database - Ethiopian Electric Interruption Tracking System
 59-8 - Refactor Proactive Maintenance - Ethiopian Electric Interruption Tracking System
+59-9 - Enhance Real Time Collection - Ethiopian Electric Interruption Tracking System
