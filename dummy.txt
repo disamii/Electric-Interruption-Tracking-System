@@ -3193,3 +3193,4 @@
 81-6 - Enforce Standards Disruption Optimizer - Ethiopian Electric Interruption Tracking System
 81-7 - Invest Upgrades Configuration Participant - Ethiopian Electric Interruption Tracking System
 84-1 - Generate Tables Real Time Collection - Ethiopian Electric Interruption Tracking System
+84-2 - Improve User Profile View - Ethiopian Electric Interruption Tracking System
