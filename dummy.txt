@@ -3198,3 +3198,4 @@
 84-4 - Display Cards Routine Establisher - Ethiopian Electric Interruption Tracking System
 84-5 - Debug Error Handling - Ethiopian Electric Interruption Tracking System
 84-6 - Backup Request Deleter - Ethiopian Electric Interruption Tracking System
+84-7 - Seamless Exchange Downtime Table Generator - Ethiopian Electric Interruption Tracking System
