@@ -3196,3 +3196,4 @@
 84-2 - Improve User Profile View - Ethiopian Electric Interruption Tracking System
 84-3 - Visualize Predictive Insights - Ethiopian Electric Interruption Tracking System
 84-4 - Display Cards Routine Establisher - Ethiopian Electric Interruption Tracking System
+84-5 - Debug Error Handling - Ethiopian Electric Interruption Tracking System
