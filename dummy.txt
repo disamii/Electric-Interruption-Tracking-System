@@ -1842,3 +1842,4 @@
 60-7 - Measure Security Experience User Friendlier - Ethiopian Electric Interruption Tracking System
 60-8 - Acquire Knowledges LAN Configuration - Ethiopian Electric Interruption Tracking System
 60-9 - Interview Staffs Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
+60-10 - Schedule Duration Recorder - Ethiopian Electric Interruption Tracking System
