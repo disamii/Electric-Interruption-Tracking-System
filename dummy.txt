@@ -1839,3 +1839,4 @@
 60-4 - Establish Routines Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
 60-5 - Glance Views Text Clarifier - Ethiopian Electric Interruption Tracking System
 60-6 - Highlight Metrics Network Integration - Ethiopian Electric Interruption Tracking System
+60-7 - Measure Security Experience User Friendlier - Ethiopian Electric Interruption Tracking System
