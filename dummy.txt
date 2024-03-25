@@ -1834,3 +1834,4 @@
 59-8 - Refactor Proactive Maintenance - Ethiopian Electric Interruption Tracking System
 59-9 - Enhance Real Time Collection - Ethiopian Electric Interruption Tracking System
 60-1 - Support Customizable Insight Linker - Ethiopian Electric Interruption Tracking System
+60-2 - Highlight Screenshots Prompt Popper - Ethiopian Electric Interruption Tracking System
