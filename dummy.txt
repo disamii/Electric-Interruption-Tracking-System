@@ -1851,3 +1851,4 @@
 61-5 - Implement Reason Chart Builder - Ethiopian Electric Interruption Tracking System
 61-6 - Improve Readability Express Line Detail - Ethiopian Electric Interruption Tracking System
 61-7 - Analyze Performance Disruption Optimizer - Ethiopian Electric Interruption Tracking System
+61-8 - Streamline Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
