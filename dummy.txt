@@ -1845,3 +1845,4 @@
 60-10 - Schedule Duration Recorder - Ethiopian Electric Interruption Tracking System
 60-11 - Connect Internet Credential Validator - Ethiopian Electric Interruption Tracking System
 61-1 - Validate Credentials User Guide Writer - Ethiopian Electric Interruption Tracking System
+61-2 - Improve Readability Response Receiver - Ethiopian Electric Interruption Tracking System
