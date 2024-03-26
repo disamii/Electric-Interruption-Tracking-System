@@ -1848,3 +1848,4 @@
 61-2 - Improve Readability Response Receiver - Ethiopian Electric Interruption Tracking System
 61-3 - Optimize In Depth Viewer - Ethiopian Electric Interruption Tracking System
 61-4 - Build Charts In Depth Viewer - Ethiopian Electric Interruption Tracking System
+61-5 - Implement Reason Chart Builder - Ethiopian Electric Interruption Tracking System
