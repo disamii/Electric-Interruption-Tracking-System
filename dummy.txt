@@ -1859,3 +1859,4 @@
 62-4 - Identify Areas Efficiency Improver - Ethiopian Electric Interruption Tracking System
 62-5 - Identify Areas Efficiency Improver - Ethiopian Electric Interruption Tracking System
 62-6 - Form Submissions Duration Calculator - Ethiopian Electric Interruption Tracking System
+62-7 - Highlight Screenshots Monthly Distributor - Ethiopian Electric Interruption Tracking System
