@@ -3203,3 +3203,4 @@
 85-1 - Automate Django Endpoints - Ethiopian Electric Interruption Tracking System
 85-2 - Understand Principles Reliability Contributor - Ethiopian Electric Interruption Tracking System
 87-1 - Practicaler Apps Analytics Predictor - Ethiopian Electric Interruption Tracking System
+87-2 - Generate Tables Feature Integrator - Ethiopian Electric Interruption Tracking System
