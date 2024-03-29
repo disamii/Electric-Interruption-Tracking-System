@@ -1872,3 +1872,4 @@
 63-7 - Design Manual Data Migration - Ethiopian Electric Interruption Tracking System
 63-8 - Design Report Generation - Ethiopian Electric Interruption Tracking System
 63-9 - Gather Feedbacks Principle Understandinger - Ethiopian Electric Interruption Tracking System
+64-1 - Effective Trackers Resolution Quickener - Ethiopian Electric Interruption Tracking System
