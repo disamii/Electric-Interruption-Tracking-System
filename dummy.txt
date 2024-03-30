@@ -3211,3 +3211,4 @@
 87-7 - Manage Database Express Line Detail - Ethiopian Electric Interruption Tracking System
 88-1 - Deepen Experiences Proactive Maintenance - Ethiopian Electric Interruption Tracking System
 88-2 - Compare Patterns Django Endpoints - Ethiopian Electric Interruption Tracking System
+89-1 - Reset Pass Data Summary - Ethiopian Electric Interruption Tracking System
