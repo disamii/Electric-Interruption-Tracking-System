@@ -1877,3 +1877,4 @@
 64-3 - Create Bars API Development - Ethiopian Electric Interruption Tracking System
 64-4 - Submit Reports Performance Booster - Ethiopian Electric Interruption Tracking System
 65-1 - Document Process Periodic Reporter - Ethiopian Electric Interruption Tracking System
+65-2 - Reset Pass Delete Option Provider - Ethiopian Electric Interruption Tracking System
