@@ -1892,3 +1892,4 @@
 68-5 - List Incidents Navigation Linker - Ethiopian Electric Interruption Tracking System
 68-6 - Provide Insights Integration Crucialer - Ethiopian Electric Interruption Tracking System
 68-7 - Render Login Branch Remote Connector - Ethiopian Electric Interruption Tracking System
+68-8 - Backup Support Enhancer - Ethiopian Electric Interruption Tracking System
