@@ -1901,3 +1901,4 @@
 69-6 - Backup Predictive Insights - Ethiopian Electric Interruption Tracking System
 69-7 - Distribute Monthly Detail Submitter - Ethiopian Electric Interruption Tracking System
 69-8 - Participate Configs Navigation Linker - Ethiopian Electric Interruption Tracking System
+69-9 - Capture Performance Booster - Ethiopian Electric Interruption Tracking System
