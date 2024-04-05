@@ -1896,3 +1896,4 @@
 69-1 - Hold Meetings API Development - Ethiopian Electric Interruption Tracking System
 69-2 - Track Counts Service Reliability Booster - Ethiopian Electric Interruption Tracking System
 69-3 - Debug Authentication - Ethiopian Electric Interruption Tracking System
+69-4 - Debug Data Storage Manager - Ethiopian Electric Interruption Tracking System
