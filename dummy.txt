@@ -1905,3 +1905,4 @@
 69-10 - Predict Analytics Glancer - Ethiopian Electric Interruption Tracking System
 70-1 - Predict Analytics Proactive Maintenance - Ethiopian Electric Interruption Tracking System
 70-2 - Identify Improves Profile Viewer - Ethiopian Electric Interruption Tracking System
+70-3 - Participate Configs Scheduler - Ethiopian Electric Interruption Tracking System
