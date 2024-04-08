@@ -1912,3 +1912,4 @@
 70-7 - Generate Tables Oversight Maintainer - Ethiopian Electric Interruption Tracking System
 70-8 - Standard Networks Pattern Comparer - Ethiopian Electric Interruption Tracking System
 70-9 - List Tables Line Graph Trends - Ethiopian Electric Interruption Tracking System
+70-10 - Create Feature Integrator - Ethiopian Electric Interruption Tracking System
