@@ -1908,3 +1908,4 @@
 70-3 - Participate Configs Scheduler - Ethiopian Electric Interruption Tracking System
 70-4 - Write Guides User Management - Ethiopian Electric Interruption Tracking System
 70-5 - Compare Patterns Data Summary - Ethiopian Electric Interruption Tracking System
+70-6 - Collaborate Code Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
