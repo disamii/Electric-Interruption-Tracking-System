@@ -1907,3 +1907,4 @@
 70-2 - Identify Improves Profile Viewer - Ethiopian Electric Interruption Tracking System
 70-3 - Participate Configs Scheduler - Ethiopian Electric Interruption Tracking System
 70-4 - Write Guides User Management - Ethiopian Electric Interruption Tracking System
+70-5 - Compare Patterns Data Summary - Ethiopian Electric Interruption Tracking System
