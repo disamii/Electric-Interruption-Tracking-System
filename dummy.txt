@@ -1910,3 +1910,4 @@
 70-5 - Compare Patterns Data Summary - Ethiopian Electric Interruption Tracking System
 70-6 - Collaborate Code Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
 70-7 - Generate Tables Oversight Maintainer - Ethiopian Electric Interruption Tracking System
+70-8 - Standard Networks Pattern Comparer - Ethiopian Electric Interruption Tracking System
