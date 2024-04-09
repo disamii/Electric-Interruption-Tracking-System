@@ -1919,3 +1919,4 @@
 71-3 - Edit Requests Configuration Participant - Ethiopian Electric Interruption Tracking System
 71-4 - Capture Feature Linker - Ethiopian Electric Interruption Tracking System
 71-5 - Manage Overall Association Definer - Ethiopian Electric Interruption Tracking System
+71-6 - Face Challenges Resolution Quickener - Ethiopian Electric Interruption Tracking System
