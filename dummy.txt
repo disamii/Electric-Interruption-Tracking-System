@@ -1916,3 +1916,4 @@
 70-11 - Monitor Suspensions Routine Establisher - Ethiopian Electric Interruption Tracking System
 71-1 - Integrate Features Outage Reasoner - Ethiopian Electric Interruption Tracking System
 71-2 - Build Reports Graph Visualization - Ethiopian Electric Interruption Tracking System
+71-3 - Edit Requests Configuration Participant - Ethiopian Electric Interruption Tracking System
