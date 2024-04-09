@@ -1920,3 +1920,4 @@
 71-4 - Capture Feature Linker - Ethiopian Electric Interruption Tracking System
 71-5 - Manage Overall Association Definer - Ethiopian Electric Interruption Tracking System
 71-6 - Face Challenges Resolution Quickener - Ethiopian Electric Interruption Tracking System
+71-7 - Manage Datas Operational Efficiency - Ethiopian Electric Interruption Tracking System
