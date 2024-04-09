@@ -1914,3 +1914,4 @@
 70-9 - List Tables Line Graph Trends - Ethiopian Electric Interruption Tracking System
 70-10 - Create Feature Integrator - Ethiopian Electric Interruption Tracking System
 70-11 - Monitor Suspensions Routine Establisher - Ethiopian Electric Interruption Tracking System
+71-1 - Integrate Features Outage Reasoner - Ethiopian Electric Interruption Tracking System
