@@ -1917,3 +1917,4 @@
 71-1 - Integrate Features Outage Reasoner - Ethiopian Electric Interruption Tracking System
 71-2 - Build Reports Graph Visualization - Ethiopian Electric Interruption Tracking System
 71-3 - Edit Requests Configuration Participant - Ethiopian Electric Interruption Tracking System
+71-4 - Capture Feature Linker - Ethiopian Electric Interruption Tracking System
