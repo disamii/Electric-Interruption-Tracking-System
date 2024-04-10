@@ -1925,3 +1925,4 @@
 72-1 - Capture Datas Analysis Detailer - Ethiopian Electric Interruption Tracking System
 72-2 - Deploy Environment Data Flow Designer - Ethiopian Electric Interruption Tracking System
 72-3 - Add Chat System - Ethiopian Electric Interruption Tracking System
+72-4 - Migrate Report Generation - Ethiopian Electric Interruption Tracking System
