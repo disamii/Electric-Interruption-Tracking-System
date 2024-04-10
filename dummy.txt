@@ -1926,3 +1926,4 @@
 72-2 - Deploy Environment Data Flow Designer - Ethiopian Electric Interruption Tracking System
 72-3 - Add Chat System - Ethiopian Electric Interruption Tracking System
 72-4 - Migrate Report Generation - Ethiopian Electric Interruption Tracking System
+72-5 - Create Routine Establisher - Ethiopian Electric Interruption Tracking System
