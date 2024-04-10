@@ -1922,3 +1922,4 @@
 71-6 - Face Challenges Resolution Quickener - Ethiopian Electric Interruption Tracking System
 71-7 - Manage Datas Operational Efficiency - Ethiopian Electric Interruption Tracking System
 71-8 - Align Data Electricity Data Parser - Ethiopian Electric Interruption Tracking System
+72-1 - Capture Datas Analysis Detailer - Ethiopian Electric Interruption Tracking System
