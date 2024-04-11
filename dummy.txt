@@ -1928,3 +1928,4 @@
 72-4 - Migrate Report Generation - Ethiopian Electric Interruption Tracking System
 72-5 - Create Routine Establisher - Ethiopian Electric Interruption Tracking System
 73-1 - Ask Questions Insight Provider - Ethiopian Electric Interruption Tracking System
+73-2 - Detail Analyses User Interface - Ethiopian Electric Interruption Tracking System
