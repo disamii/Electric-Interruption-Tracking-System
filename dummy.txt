@@ -1933,3 +1933,4 @@
 73-4 - Provide Insights Docker Container - Ethiopian Electric Interruption Tracking System
 74-1 - Automate Alerts Suspension Monitor - Ethiopian Electric Interruption Tracking System
 74-2 - Display Cards Adaptability Layer - Ethiopian Electric Interruption Tracking System
+74-3 - Friendlier Experiences Proactive Maintenance - Ethiopian Electric Interruption Tracking System
