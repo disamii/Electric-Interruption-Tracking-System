@@ -1937,3 +1937,4 @@
 74-4 - Face Challenges Software Installer - Ethiopian Electric Interruption Tracking System
 74-5 - View Profile Authentication - Ethiopian Electric Interruption Tracking System
 74-6 - Take Notes Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
+74-7 - Submit Reports Security Measurer - Ethiopian Electric Interruption Tracking System
