@@ -1939,3 +1939,4 @@
 74-6 - Take Notes Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
 74-7 - Submit Reports Security Measurer - Ethiopian Electric Interruption Tracking System
 74-8 - Define Roles Security Measurer - Ethiopian Electric Interruption Tracking System
+75-1 - Validate Credentials Configuration Participant - Ethiopian Electric Interruption Tracking System
