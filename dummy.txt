@@ -1947,3 +1947,4 @@
 75-6 - Provide Update Notifier - Ethiopian Electric Interruption Tracking System
 75-7 - Improve Reliabs Database - Ethiopian Electric Interruption Tracking System
 75-8 - Face Challenges Upload Lister - Ethiopian Electric Interruption Tracking System
+75-9 - Develop API Data Communicator - Ethiopian Electric Interruption Tracking System
