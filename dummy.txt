@@ -1941,3 +1941,4 @@
 74-8 - Define Roles Security Measurer - Ethiopian Electric Interruption Tracking System
 75-1 - Validate Credentials Configuration Participant - Ethiopian Electric Interruption Tracking System
 75-2 - Gain Insights Efficiency Improver - Ethiopian Electric Interruption Tracking System
+75-3 - Align Data Upgrade Investor - Ethiopian Electric Interruption Tracking System
