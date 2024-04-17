@@ -1957,3 +1957,4 @@
 77-3 - Take Notes Error Handling - Ethiopian Electric Interruption Tracking System
 77-4 - Document Admin Dashboard - Ethiopian Electric Interruption Tracking System
 77-5 - Record Actions Record Editor - Ethiopian Electric Interruption Tracking System
+77-6 - Deploy Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
