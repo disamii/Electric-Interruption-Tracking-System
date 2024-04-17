@@ -1958,3 +1958,4 @@
 77-4 - Document Admin Dashboard - Ethiopian Electric Interruption Tracking System
 77-5 - Record Actions Record Editor - Ethiopian Electric Interruption Tracking System
 77-6 - Deploy Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
+77-7 - Friendlier Experiences Navigation Linker - Ethiopian Electric Interruption Tracking System
