@@ -1968,3 +1968,4 @@
 78-5 - Pop Prompts Action Recorder - Ethiopian Electric Interruption Tracking System
 78-6 - Highlight Screenshots Environment Collaborator - Ethiopian Electric Interruption Tracking System
 78-7 - Validate Credentials Secure Access Gate - Ethiopian Electric Interruption Tracking System
+78-8 - Detail Analyses Oversight Maintainer - Ethiopian Electric Interruption Tracking System
