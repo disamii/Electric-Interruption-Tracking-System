@@ -1963,3 +1963,4 @@
 77-9 - Logic Server Side Graph Visualization - Ethiopian Electric Interruption Tracking System
 78-1 - Derive Deeper Concern Addresser - Ethiopian Electric Interruption Tracking System
 78-2 - Create Isolated Secure Access Gate - Ethiopian Electric Interruption Tracking System
+78-3 - Create Isolated User Count Tracker - Ethiopian Electric Interruption Tracking System
