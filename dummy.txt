@@ -1969,3 +1969,4 @@
 78-6 - Highlight Screenshots Environment Collaborator - Ethiopian Electric Interruption Tracking System
 78-7 - Validate Credentials Secure Access Gate - Ethiopian Electric Interruption Tracking System
 78-8 - Detail Analyses Oversight Maintainer - Ethiopian Electric Interruption Tracking System
+80-1 - Upload Employee Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
