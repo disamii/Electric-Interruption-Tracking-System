@@ -1978,3 +1978,4 @@
 81-3 - Form Submissions Efficiency Improver - Ethiopian Electric Interruption Tracking System
 82-1 - Crucial Integrate Edit Requester - Ethiopian Electric Interruption Tracking System
 82-2 - Fix Feedback Collector - Ethiopian Electric Interruption Tracking System
+82-3 - Break Feeders Integration Crucialer - Ethiopian Electric Interruption Tracking System
