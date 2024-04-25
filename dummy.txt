@@ -1984,3 +1984,4 @@
 82-6 - Practicaler Apps Django Endpoints - Ethiopian Electric Interruption Tracking System
 83-1 - Implement Insight Comparer - Ethiopian Electric Interruption Tracking System
 83-2 - Take Notes Experience Deepener - Ethiopian Electric Interruption Tracking System
+83-3 - Participate Configs Data Summary - Ethiopian Electric Interruption Tracking System
