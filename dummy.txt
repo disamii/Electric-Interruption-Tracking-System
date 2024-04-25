@@ -1987,3 +1987,4 @@
 83-3 - Participate Configs Data Summary - Ethiopian Electric Interruption Tracking System
 83-4 - Facilitate Periodic Reporter - Ethiopian Electric Interruption Tracking System
 83-5 - Scale Graph Visualization - Ethiopian Electric Interruption Tracking System
+83-6 - Link Navigations Detail Page Router - Ethiopian Electric Interruption Tracking System
