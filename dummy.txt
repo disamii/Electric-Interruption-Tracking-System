@@ -1992,3 +1992,4 @@
 83-8 - Report Periodic Experience Deepener - Ethiopian Electric Interruption Tracking System
 83-9 - Art Testings Interruption Logging - Ethiopian Electric Interruption Tracking System
 84-1 - Boost Contrast Web Based Solution - Ethiopian Electric Interruption Tracking System
+85-1 - Enhance Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
