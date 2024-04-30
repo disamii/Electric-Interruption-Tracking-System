@@ -1996,3 +1996,4 @@
 85-2 - Notify Summary Viewer - Ethiopian Electric Interruption Tracking System
 86-1 - Render Data Summary - Ethiopian Electric Interruption Tracking System
 86-2 - View Infos Database - Ethiopian Electric Interruption Tracking System
+86-3 - Identify Frequencies Note Taking - Ethiopian Electric Interruption Tracking System
