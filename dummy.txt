@@ -2011,3 +2011,4 @@
 89-6 - Report UIs Navigation Linker - Ethiopian Electric Interruption Tracking System
 89-7 - Seamless Exchange Association Definer - Ethiopian Electric Interruption Tracking System
 89-8 - Predict Analytics Graph Visualization - Ethiopian Electric Interruption Tracking System
+89-9 - Install Software Configuration Participant - Ethiopian Electric Interruption Tracking System
