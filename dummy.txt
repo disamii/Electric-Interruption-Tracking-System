@@ -2013,3 +2013,4 @@
 89-8 - Predict Analytics Graph Visualization - Ethiopian Electric Interruption Tracking System
 89-9 - Install Software Configuration Participant - Ethiopian Electric Interruption Tracking System
 90-1 - Link Navigations Navigation Linker - Ethiopian Electric Interruption Tracking System
+90-2 - Clarify Text Info Sharer - Ethiopian Electric Interruption Tracking System
