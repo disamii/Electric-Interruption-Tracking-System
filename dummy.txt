@@ -2017,3 +2017,4 @@
 90-3 - Fix Six Month Report - Ethiopian Electric Interruption Tracking System
 92-1 - Write Guides Security Measurer - Ethiopian Electric Interruption Tracking System
 92-2 - Render Table Lister - Ethiopian Electric Interruption Tracking System
+92-3 - Automate Graph Side By Sider - Ethiopian Electric Interruption Tracking System
