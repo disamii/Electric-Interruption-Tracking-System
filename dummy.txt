@@ -2022,3 +2022,4 @@
 92-5 - Track Infos Account Setup Streamliner - Ethiopian Electric Interruption Tracking System
 92-6 - Receive Responses Upload Lister - Ethiopian Electric Interruption Tracking System
 92-7 - Review Historical Reliability Improver - Ethiopian Electric Interruption Tracking System
+92-8 - Receive Notifs Report Submitter - Ethiopian Electric Interruption Tracking System
