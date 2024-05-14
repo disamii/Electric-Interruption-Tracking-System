@@ -2045,3 +2045,4 @@
 96-3 - Action Follow Ups Scalability Enhancer - Ethiopian Electric Interruption Tracking System
 96-4 - Implement Dropdown Actioner - Ethiopian Electric Interruption Tracking System
 96-5 - Highlight Metrics Profile Viewer - Ethiopian Electric Interruption Tracking System
+96-6 - Reference Comms Reminder Setter - Ethiopian Electric Interruption Tracking System
