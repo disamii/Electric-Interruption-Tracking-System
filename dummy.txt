@@ -2047,3 +2047,4 @@
 96-5 - Highlight Metrics Profile Viewer - Ethiopian Electric Interruption Tracking System
 96-6 - Reference Comms Reminder Setter - Ethiopian Electric Interruption Tracking System
 96-7 - Design Disruption Optimizer - Ethiopian Electric Interruption Tracking System
+96-8 - Track Infos Edit Requester - Ethiopian Electric Interruption Tracking System
