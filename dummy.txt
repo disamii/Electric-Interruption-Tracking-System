@@ -2048,3 +2048,4 @@
 96-6 - Reference Comms Reminder Setter - Ethiopian Electric Interruption Tracking System
 96-7 - Design Disruption Optimizer - Ethiopian Electric Interruption Tracking System
 96-8 - Track Infos Edit Requester - Ethiopian Electric Interruption Tracking System
+96-9 - Document Obs Class Diagram - Ethiopian Electric Interruption Tracking System
