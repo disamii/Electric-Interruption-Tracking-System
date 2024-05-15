@@ -2052,3 +2052,4 @@
 97-1 - Practicaler Apps Point Failure Identifier - Ethiopian Electric Interruption Tracking System
 97-2 - Collaborate Envs Notification Receiver - Ethiopian Electric Interruption Tracking System
 97-3 - Connect Internet Duration Calculator - Ethiopian Electric Interruption Tracking System
+97-4 - Gain Insights Adaptability Layer - Ethiopian Electric Interruption Tracking System
