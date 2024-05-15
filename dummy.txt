@@ -2050,3 +2050,4 @@
 96-8 - Track Infos Edit Requester - Ethiopian Electric Interruption Tracking System
 96-9 - Document Obs Class Diagram - Ethiopian Electric Interruption Tracking System
 97-1 - Practicaler Apps Point Failure Identifier - Ethiopian Electric Interruption Tracking System
+97-2 - Collaborate Envs Notification Receiver - Ethiopian Electric Interruption Tracking System
