@@ -2061,3 +2061,4 @@
 98-6 - Generate Username Error Handling - Ethiopian Electric Interruption Tracking System
 98-7 - List Incidents Entry Real Timer - Ethiopian Electric Interruption Tracking System
 98-8 - Timer Entries Account Deleter - Ethiopian Electric Interruption Tracking System
+98-9 - Store Data Secure Access Gate - Ethiopian Electric Interruption Tracking System
