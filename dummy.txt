@@ -2057,3 +2057,4 @@
 98-2 - Update Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
 98-3 - Specify Hardware Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
 98-4 - Record Actions Digital Screen Optimizer - Ethiopian Electric Interruption Tracking System
+98-5 - Manage Database Periodic Reporter - Ethiopian Electric Interruption Tracking System
