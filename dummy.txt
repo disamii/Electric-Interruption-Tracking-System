@@ -2070,3 +2070,4 @@
 99-5 - Document Obs User Count Tracker - Ethiopian Electric Interruption Tracking System
 99-6 - Create Bars Primary Actor Handler - Ethiopian Electric Interruption Tracking System
 99-7 - Improve Efficiencies Data Aligner - Ethiopian Electric Interruption Tracking System
+99-8 - Report Issues User Friendly Interface - Ethiopian Electric Interruption Tracking System
