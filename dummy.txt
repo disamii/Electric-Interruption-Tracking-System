@@ -2064,3 +2064,4 @@
 98-9 - Store Data Secure Access Gate - Ethiopian Electric Interruption Tracking System
 98-10 - Validate Credentials Internet Connector - Ethiopian Electric Interruption Tracking System
 99-1 - Maintain Deliveries Eye Strain Reducer - Ethiopian Electric Interruption Tracking System
+99-2 - List Tables Report Submitter - Ethiopian Electric Interruption Tracking System
