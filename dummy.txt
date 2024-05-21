@@ -2073,3 +2073,4 @@
 99-8 - Report Issues User Friendly Interface - Ethiopian Electric Interruption Tracking System
 101-1 - Participate Configs Oversight Maintainer - Ethiopian Electric Interruption Tracking System
 101-2 - Optimize Disruptions Data Capturer - Ethiopian Electric Interruption Tracking System
+101-3 - Develop Frontend Dropdown Actioner - Ethiopian Electric Interruption Tracking System
