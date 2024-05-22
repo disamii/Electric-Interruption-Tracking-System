@@ -2080,3 +2080,4 @@
 102-3 - Switch Themes Glancer - Ethiopian Electric Interruption Tracking System
 102-4 - Test MySQL Schema - Ethiopian Electric Interruption Tracking System
 102-5 - Create Accounts Visibility Enhancer - Ethiopian Electric Interruption Tracking System
+102-6 - Develop API Experience User Friendlier - Ethiopian Electric Interruption Tracking System
