@@ -2076,3 +2076,4 @@
 101-3 - Develop Frontend Dropdown Actioner - Ethiopian Electric Interruption Tracking System
 101-4 - View Submissions Reliability Contributor - Ethiopian Electric Interruption Tracking System
 102-1 - Setup Concepts React Components - Ethiopian Electric Interruption Tracking System
+102-2 - Upload Employee Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
