@@ -2093,3 +2093,4 @@
 104-7 - Pop Prompts Reminder Setter - Ethiopian Electric Interruption Tracking System
 105-1 - Report UIs Profile Viewer - Ethiopian Electric Interruption Tracking System
 105-2 - Build Charts Account Deleter - Ethiopian Electric Interruption Tracking System
+105-3 - Authenticate Proactive Maintenance - Ethiopian Electric Interruption Tracking System
