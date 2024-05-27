@@ -2095,3 +2095,4 @@
 105-2 - Build Charts Account Deleter - Ethiopian Electric Interruption Tracking System
 105-3 - Authenticate Proactive Maintenance - Ethiopian Electric Interruption Tracking System
 105-4 - Provide Deletes Solution Implementer - Ethiopian Electric Interruption Tracking System
+105-5 - Edit Requests Total Interruption Counter - Ethiopian Electric Interruption Tracking System
