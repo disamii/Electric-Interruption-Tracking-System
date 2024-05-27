@@ -2091,3 +2091,4 @@
 104-5 - Restore Frequency Analyzer - Ethiopian Electric Interruption Tracking System
 104-6 - Improve Reliabs Container Orchestrator - Ethiopian Electric Interruption Tracking System
 104-7 - Pop Prompts Reminder Setter - Ethiopian Electric Interruption Tracking System
+105-1 - Report UIs Profile Viewer - Ethiopian Electric Interruption Tracking System
