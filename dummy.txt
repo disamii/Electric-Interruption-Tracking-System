@@ -2104,3 +2104,4 @@
 106-5 - Capture Datas Analytics - Ethiopian Electric Interruption Tracking System
 106-6 - Understand Principles Branch Remote Connector - Ethiopian Electric Interruption Tracking System
 106-7 - Migrate Environment Collaborator - Ethiopian Electric Interruption Tracking System
+106-8 - Highlight Metrics Methodology Testing Software Art - Ethiopian Electric Interruption Tracking System
