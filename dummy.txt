@@ -2099,3 +2099,4 @@
 105-6 - Meet Needs Frontend Builder - Ethiopian Electric Interruption Tracking System
 106-1 - Receive Notifs Association Definer - Ethiopian Electric Interruption Tracking System
 106-2 - Fill Fields Record Editor - Ethiopian Electric Interruption Tracking System
+106-3 - Enforce Standards Association Definer - Ethiopian Electric Interruption Tracking System
