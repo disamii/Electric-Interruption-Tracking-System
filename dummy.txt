@@ -2101,3 +2101,4 @@
 106-2 - Fill Fields Record Editor - Ethiopian Electric Interruption Tracking System
 106-3 - Enforce Standards Association Definer - Ethiopian Electric Interruption Tracking System
 106-4 - Identify Problems Isolated Environment Creator - Ethiopian Electric Interruption Tracking System
+106-5 - Capture Datas Analytics - Ethiopian Electric Interruption Tracking System
