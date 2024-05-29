@@ -2109,3 +2109,4 @@
 106-10 - Design Challenge Documenter - Ethiopian Electric Interruption Tracking System
 107-1 - Log In Depth Viewer - Ethiopian Electric Interruption Tracking System
 107-2 - Connect Branches Theme Switcher - Ethiopian Electric Interruption Tracking System
+107-3 - Easier Navs Insight Provider - Ethiopian Electric Interruption Tracking System
