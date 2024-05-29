@@ -2115,3 +2115,4 @@
 107-6 - Align Data Exchange Seamlesser - Ethiopian Electric Interruption Tracking System
 107-7 - Edit Detail Page Router - Ethiopian Electric Interruption Tracking System
 107-8 - Secure Analytics Predictor - Ethiopian Electric Interruption Tracking System
+107-9 - Edit Hardware Specifier - Ethiopian Electric Interruption Tracking System
