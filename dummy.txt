@@ -2113,3 +2113,4 @@
 107-4 - Restore Guideline Internship Follower - Ethiopian Electric Interruption Tracking System
 107-5 - List Incidents Analysis Detailer - Ethiopian Electric Interruption Tracking System
 107-6 - Align Data Exchange Seamlesser - Ethiopian Electric Interruption Tracking System
+107-7 - Edit Detail Page Router - Ethiopian Electric Interruption Tracking System
