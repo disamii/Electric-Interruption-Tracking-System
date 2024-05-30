@@ -2116,3 +2116,4 @@
 107-7 - Edit Detail Page Router - Ethiopian Electric Interruption Tracking System
 107-8 - Secure Analytics Predictor - Ethiopian Electric Interruption Tracking System
 107-9 - Edit Hardware Specifier - Ethiopian Electric Interruption Tracking System
+108-1 - Safeguard Infos Suspension Monitor - Ethiopian Electric Interruption Tracking System
