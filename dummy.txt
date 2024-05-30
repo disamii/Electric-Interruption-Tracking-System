@@ -2122,3 +2122,4 @@
 108-4 - Seamless Interact Backend API - Ethiopian Electric Interruption Tracking System
 108-5 - Optimalize Performs Web Based Solution - Ethiopian Electric Interruption Tracking System
 108-6 - Improve Efficiencies Contrast Booster - Ethiopian Electric Interruption Tracking System
+108-7 - Improve Reliabs Data Summary - Ethiopian Electric Interruption Tracking System
