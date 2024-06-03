@@ -2132,3 +2132,4 @@
 110-1 - Reset Support Enhancer - Ethiopian Electric Interruption Tracking System
 110-2 - Control Version Cause Frequency Insight - Ethiopian Electric Interruption Tracking System
 110-3 - Identify Frequencies Branch Remote Connector - Ethiopian Electric Interruption Tracking System
+110-4 - Generate Tables Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
