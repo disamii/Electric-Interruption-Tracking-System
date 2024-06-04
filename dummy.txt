@@ -2140,3 +2140,4 @@
 111-4 - Crucial Integrate Backend API - Ethiopian Electric Interruption Tracking System
 111-5 - Improve Reliabs Password Management - Ethiopian Electric Interruption Tracking System
 111-6 - Automate Alerts WAN Setup - Ethiopian Electric Interruption Tracking System
+111-7 - Assign Password Analytics Predictor - Ethiopian Electric Interruption Tracking System
