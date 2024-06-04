@@ -2139,3 +2139,4 @@
 111-3 - Validate Credentials Profile Viewer - Ethiopian Electric Interruption Tracking System
 111-4 - Crucial Integrate Backend API - Ethiopian Electric Interruption Tracking System
 111-5 - Improve Reliabs Password Management - Ethiopian Electric Interruption Tracking System
+111-6 - Automate Alerts WAN Setup - Ethiopian Electric Interruption Tracking System
