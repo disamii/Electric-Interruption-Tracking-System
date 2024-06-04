@@ -2142,3 +2142,4 @@
 111-6 - Automate Alerts WAN Setup - Ethiopian Electric Interruption Tracking System
 111-7 - Assign Password Analytics Predictor - Ethiopian Electric Interruption Tracking System
 111-8 - Document Process MySQL Schema - Ethiopian Electric Interruption Tracking System
+111-9 - Ask Questions User Friendly Interface - Ethiopian Electric Interruption Tracking System
