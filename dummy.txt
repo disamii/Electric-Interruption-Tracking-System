@@ -2148,3 +2148,4 @@
 112-3 - Communicate Via Chat Contrast Booster - Ethiopian Electric Interruption Tracking System
 112-4 - Track Infos Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
 112-5 - Optimize Disruptions Security Measurer - Ethiopian Electric Interruption Tracking System
+112-6 - Ongoing Train Data Upload Table - Ethiopian Electric Interruption Tracking System
