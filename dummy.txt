@@ -2151,3 +2151,4 @@
 112-6 - Ongoing Train Data Upload Table - Ethiopian Electric Interruption Tracking System
 112-7 - Standard Networks Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
 112-8 - Map Entities Support Enhancer - Ethiopian Electric Interruption Tracking System
+113-1 - Glance Views Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
