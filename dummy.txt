@@ -2155,3 +2155,4 @@
 113-2 - Reason Outages Theme Switcher - Ethiopian Electric Interruption Tracking System
 113-3 - Gain Insights Field Filler - Ethiopian Electric Interruption Tracking System
 114-1 - Set Reminders WAN Setup - Ethiopian Electric Interruption Tracking System
+114-2 - Deploy Environment Decision Informer - Ethiopian Electric Interruption Tracking System
