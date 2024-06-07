@@ -2154,3 +2154,4 @@
 113-1 - Glance Views Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 113-2 - Reason Outages Theme Switcher - Ethiopian Electric Interruption Tracking System
 113-3 - Gain Insights Field Filler - Ethiopian Electric Interruption Tracking System
+114-1 - Set Reminders WAN Setup - Ethiopian Electric Interruption Tracking System
