@@ -2161,3 +2161,4 @@
 114-5 - Control Version Operational Efficiency - Ethiopian Electric Interruption Tracking System
 114-6 - Address Concerns Methodology Testing Software Art - Ethiopian Electric Interruption Tracking System
 114-7 - Handle Network Integration - Ethiopian Electric Interruption Tracking System
+114-8 - Reset User Management - Ethiopian Electric Interruption Tracking System
