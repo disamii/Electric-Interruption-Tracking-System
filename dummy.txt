@@ -2164,3 +2164,4 @@
 114-8 - Reset User Management - Ethiopian Electric Interruption Tracking System
 115-1 - Render Login Edit Requester - Ethiopian Electric Interruption Tracking System
 115-2 - Delete Requests Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
+115-3 - Consult Initial Contact Optioner - Ethiopian Electric Interruption Tracking System
