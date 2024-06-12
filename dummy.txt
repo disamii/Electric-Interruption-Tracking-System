@@ -2177,3 +2177,4 @@
 117-1 - Duration Times Feature Integrator - Ethiopian Electric Interruption Tracking System
 117-2 - Enhance Report Generation - Ethiopian Electric Interruption Tracking System
 117-3 - Inform Decisions Glancer - Ethiopian Electric Interruption Tracking System
+117-4 - Build Charts Report Generation - Ethiopian Electric Interruption Tracking System
