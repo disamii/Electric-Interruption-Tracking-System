@@ -2186,3 +2186,4 @@
 118-3 - Optimize Data Aligner - Ethiopian Electric Interruption Tracking System
 118-4 - Manage Datas Duration Calculator - Ethiopian Electric Interruption Tracking System
 118-5 - Acquire Knowledges Entry Real Timer - Ethiopian Electric Interruption Tracking System
+118-6 - User Manuals Standards Enforcer - Ethiopian Electric Interruption Tracking System
