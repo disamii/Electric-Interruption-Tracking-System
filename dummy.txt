@@ -2196,3 +2196,4 @@
 120-4 - Practicaler Apps Security Measurer - Ethiopian Electric Interruption Tracking System
 120-5 - Meet Needs System Manager - Ethiopian Electric Interruption Tracking System
 120-6 - Render Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
+120-7 - Foundation Docs User Guide Writer - Ethiopian Electric Interruption Tracking System
