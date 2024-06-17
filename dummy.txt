@@ -2190,3 +2190,4 @@
 119-1 - Gain Insights Data Upload Table - Ethiopian Electric Interruption Tracking System
 119-2 - Monitor Suspensions Response Receiver - Ethiopian Electric Interruption Tracking System
 119-3 - Support Customizable Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
+120-1 - Design Duration Recorder - Ethiopian Electric Interruption Tracking System
