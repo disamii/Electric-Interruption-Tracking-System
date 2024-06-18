@@ -2204,3 +2204,4 @@
 121-4 - Document Obs Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 121-5 - Update Integration Crucialer - Ethiopian Electric Interruption Tracking System
 121-6 - Compare Frequencies Profile Viewer - Ethiopian Electric Interruption Tracking System
+121-7 - Boost Contrast Duration Recorder - Ethiopian Electric Interruption Tracking System
