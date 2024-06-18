@@ -2200,3 +2200,4 @@
 120-8 - Gain Insights Performance Analyzer - Ethiopian Electric Interruption Tracking System
 121-1 - Migrate Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
 121-2 - Submit Details Integration Crucialer - Ethiopian Electric Interruption Tracking System
+121-3 - Manage Datas Data Manager - Ethiopian Electric Interruption Tracking System
