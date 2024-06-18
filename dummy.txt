@@ -2202,3 +2202,4 @@
 121-2 - Submit Details Integration Crucialer - Ethiopian Electric Interruption Tracking System
 121-3 - Manage Datas Data Manager - Ethiopian Electric Interruption Tracking System
 121-4 - Document Obs Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
+121-5 - Update Integration Crucialer - Ethiopian Electric Interruption Tracking System
