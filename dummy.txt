@@ -2199,3 +2199,4 @@
 120-7 - Foundation Docs User Guide Writer - Ethiopian Electric Interruption Tracking System
 120-8 - Gain Insights Performance Analyzer - Ethiopian Electric Interruption Tracking System
 121-1 - Migrate Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
+121-2 - Submit Details Integration Crucialer - Ethiopian Electric Interruption Tracking System
