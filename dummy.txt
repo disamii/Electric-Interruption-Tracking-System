@@ -2207,3 +2207,4 @@
 121-7 - Boost Contrast Duration Recorder - Ethiopian Electric Interruption Tracking System
 121-8 - Enforce Standards MySQL Schema - Ethiopian Electric Interruption Tracking System
 122-1 - Create Bars Resolution Quickener - Ethiopian Electric Interruption Tracking System
+122-2 - Capture Report Page Builder - Ethiopian Electric Interruption Tracking System
