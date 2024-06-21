@@ -2213,3 +2213,4 @@
 122-5 - Receive Responses Password Assigner - Ethiopian Electric Interruption Tracking System
 123-1 - Orchestrate Containers Operational Efficiency - Ethiopian Electric Interruption Tracking System
 123-2 - Option Contacts Duration Recorder - Ethiopian Electric Interruption Tracking System
+124-1 - Add Resets Insight Comparer - Ethiopian Electric Interruption Tracking System
