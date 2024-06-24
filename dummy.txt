@@ -2217,3 +2217,4 @@
 124-2 - Effective Trackers Username Generator - Ethiopian Electric Interruption Tracking System
 124-3 - Manage Overall Update Notifier - Ethiopian Electric Interruption Tracking System
 124-4 - Enhance Efficiencies Version Manager - Ethiopian Electric Interruption Tracking System
+125-1 - Action Dropdowns Data Capturer - Ethiopian Electric Interruption Tracking System
