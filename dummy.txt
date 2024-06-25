@@ -2227,3 +2227,4 @@
 125-8 - Manage Datas Docker Container - Ethiopian Electric Interruption Tracking System
 126-1 - Crucial Integrate Docker Container - Ethiopian Electric Interruption Tracking System
 126-2 - Collaborate Code Scheduler - Ethiopian Electric Interruption Tracking System
+126-3 - Integrate Account Deleter - Ethiopian Electric Interruption Tracking System
