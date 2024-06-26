@@ -2232,3 +2232,4 @@
 126-5 - Analyze Performance Resolution Quickener - Ethiopian Electric Interruption Tracking System
 126-6 - Facilitate Comms Frequency Comparator - Ethiopian Electric Interruption Tracking System
 126-7 - Define Roles Code Change Tracker - Ethiopian Electric Interruption Tracking System
+127-1 - Parse Handbook Report Writer - Ethiopian Electric Interruption Tracking System
