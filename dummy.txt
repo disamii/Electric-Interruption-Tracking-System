@@ -2236,3 +2236,4 @@
 127-2 - Improve Efficiencies Reliability Improver - Ethiopian Electric Interruption Tracking System
 127-3 - Handle Actors Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
 127-4 - Build Reports Django Endpoints - Ethiopian Electric Interruption Tracking System
+127-5 - Engage Mentor Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
