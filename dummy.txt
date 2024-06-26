@@ -2235,3 +2235,4 @@
 127-1 - Parse Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 127-2 - Improve Efficiencies Reliability Improver - Ethiopian Electric Interruption Tracking System
 127-3 - Handle Actors Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
+127-4 - Build Reports Django Endpoints - Ethiopian Electric Interruption Tracking System
