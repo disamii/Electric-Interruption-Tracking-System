@@ -2248,3 +2248,4 @@
 129-1 - User Manuals Secure Access Gate - Ethiopian Electric Interruption Tracking System
 129-2 - Automate Alerts Info Viewer - Ethiopian Electric Interruption Tracking System
 129-3 - Automate Alerts Adaptability Layer - Ethiopian Electric Interruption Tracking System
+129-4 - Optimize Screens Express Line Detail - Ethiopian Electric Interruption Tracking System
