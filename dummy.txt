@@ -2252,3 +2252,4 @@
 129-5 - Control Version Solution Implementer - Ethiopian Electric Interruption Tracking System
 129-6 - Orchestrate Containers User Count Tracker - Ethiopian Electric Interruption Tracking System
 129-7 - Ask Questions React Components - Ethiopian Electric Interruption Tracking System
+130-1 - Delete Requests Decision Informer - Ethiopian Electric Interruption Tracking System
