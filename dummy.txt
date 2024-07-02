@@ -2257,3 +2257,4 @@
 130-3 - Receive Notifs Data Summary - Ethiopian Electric Interruption Tracking System
 130-4 - Deploy Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 131-1 - Deepen Skills WAN Setup - Ethiopian Electric Interruption Tracking System
+131-2 - User Manuals Response Receiver - Ethiopian Electric Interruption Tracking System
