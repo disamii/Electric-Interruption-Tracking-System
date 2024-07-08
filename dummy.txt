@@ -2269,3 +2269,4 @@
 134-3 - Improve Operational Efficiency - Ethiopian Electric Interruption Tracking System
 134-4 - Create Isolated Frequency Comparator - Ethiopian Electric Interruption Tracking System
 134-5 - Link Navigations Frequency Comparator - Ethiopian Electric Interruption Tracking System
+135-1 - Handle Deletions Decision Informer - Ethiopian Electric Interruption Tracking System
