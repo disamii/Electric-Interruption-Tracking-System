@@ -2279,3 +2279,4 @@
 135-8 - Derive Deeper System Manager - Ethiopian Electric Interruption Tracking System
 135-9 - Write Guides WAN Setup - Ethiopian Electric Interruption Tracking System
 135-10 - Link Insights Login Page Renderer - Ethiopian Electric Interruption Tracking System
+136-1 - Switch Themes Cause Frequency Insight - Ethiopian Electric Interruption Tracking System
