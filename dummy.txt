@@ -2280,3 +2280,4 @@
 135-9 - Write Guides WAN Setup - Ethiopian Electric Interruption Tracking System
 135-10 - Link Insights Login Page Renderer - Ethiopian Electric Interruption Tracking System
 136-1 - Switch Themes Cause Frequency Insight - Ethiopian Electric Interruption Tracking System
+136-2 - Manage Datas Question Asker - Ethiopian Electric Interruption Tracking System
