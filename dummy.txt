@@ -2285,3 +2285,4 @@
 137-2 - Define Associations Interaction Seamlesser - Ethiopian Electric Interruption Tracking System
 137-3 - Foundation Docs Deletion Handler - Ethiopian Electric Interruption Tracking System
 137-4 - Style With Tailwind Notification Summarizer - Ethiopian Electric Interruption Tracking System
+137-5 - Define Roles Class Diagram - Ethiopian Electric Interruption Tracking System
