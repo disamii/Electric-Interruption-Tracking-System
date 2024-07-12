@@ -2288,3 +2288,4 @@
 137-5 - Define Roles Class Diagram - Ethiopian Electric Interruption Tracking System
 139-1 - View Submissions Reliability Improver - Ethiopian Electric Interruption Tracking System
 139-2 - Establish Routines Data Storage Manager - Ethiopian Electric Interruption Tracking System
+139-3 - Action Dropdowns Credential Validator - Ethiopian Electric Interruption Tracking System
