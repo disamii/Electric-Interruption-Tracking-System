@@ -2289,3 +2289,4 @@
 139-1 - View Submissions Reliability Improver - Ethiopian Electric Interruption Tracking System
 139-2 - Establish Routines Data Storage Manager - Ethiopian Electric Interruption Tracking System
 139-3 - Action Dropdowns Credential Validator - Ethiopian Electric Interruption Tracking System
+140-1 - Capture Tracker Effectiver - Ethiopian Electric Interruption Tracking System
