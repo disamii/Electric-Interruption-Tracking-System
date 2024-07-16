@@ -2294,3 +2294,4 @@
 140-3 - Optimize Screens Update Notifier - Ethiopian Electric Interruption Tracking System
 140-4 - Connect Branches Scalability Enhancer - Ethiopian Electric Interruption Tracking System
 141-1 - Install Software Communication Facilitator - Ethiopian Electric Interruption Tracking System
+141-2 - List Tables Password Management - Ethiopian Electric Interruption Tracking System
