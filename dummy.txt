@@ -2300,3 +2300,4 @@
 142-2 - Advance Analyzers Express Line Detail - Ethiopian Electric Interruption Tracking System
 142-3 - Support Customizable Username Generator - Ethiopian Electric Interruption Tracking System
 142-4 - Facilitate Login Page Renderer - Ethiopian Electric Interruption Tracking System
+142-5 - Create Isolated Delete Option Provider - Ethiopian Electric Interruption Tracking System
