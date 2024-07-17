@@ -2301,3 +2301,4 @@
 142-3 - Support Customizable Username Generator - Ethiopian Electric Interruption Tracking System
 142-4 - Facilitate Login Page Renderer - Ethiopian Electric Interruption Tracking System
 142-5 - Create Isolated Delete Option Provider - Ethiopian Electric Interruption Tracking System
+142-6 - Manage Datas Feedback Gatherer - Ethiopian Electric Interruption Tracking System
