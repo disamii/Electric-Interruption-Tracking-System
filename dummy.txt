@@ -2305,3 +2305,4 @@
 142-7 - Integrate Record Editor - Ethiopian Electric Interruption Tracking System
 142-8 - Calculate Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
 142-9 - Setup Concepts Tool Analyzer Advancer - Ethiopian Electric Interruption Tracking System
+144-1 - Map Entities Database - Ethiopian Electric Interruption Tracking System
