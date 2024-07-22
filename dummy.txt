@@ -2312,3 +2312,4 @@
 144-5 - Seamless Interact Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
 145-1 - Review Historical Environment Collaborator - Ethiopian Electric Interruption Tracking System
 145-2 - Measure Security Event Logging Module - Ethiopian Electric Interruption Tracking System
+145-3 - Support Customizable Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
