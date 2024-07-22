@@ -2315,3 +2315,4 @@
 145-3 - Support Customizable Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
 145-4 - Link Navigations Dropdown Actioner - Ethiopian Electric Interruption Tracking System
 145-5 - Connect Branches Network Integration - Ethiopian Electric Interruption Tracking System
+145-6 - Detail Analyses Graph Side By Sider - Ethiopian Electric Interruption Tracking System
