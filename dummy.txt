@@ -2318,3 +2318,4 @@
 145-6 - Detail Analyses Graph Side By Sider - Ethiopian Electric Interruption Tracking System
 145-7 - Set Reminders Tailwind Styling - Ethiopian Electric Interruption Tracking System
 145-8 - Build Reports Cause Frequency Insight - Ethiopian Electric Interruption Tracking System
+146-1 - Handle Deletions Submission Former - Ethiopian Electric Interruption Tracking System
