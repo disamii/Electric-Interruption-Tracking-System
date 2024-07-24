@@ -2323,3 +2323,4 @@
 146-3 - Map Entities Application Practicaler - Ethiopian Electric Interruption Tracking System
 147-1 - Capture Tracker Effectiver - Ethiopian Electric Interruption Tracking System
 147-2 - Create Skill Deepener - Ethiopian Electric Interruption Tracking System
+147-3 - Advance Analyzers Docker Container - Ethiopian Electric Interruption Tracking System
