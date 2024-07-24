@@ -2325,3 +2325,4 @@
 147-2 - Create Skill Deepener - Ethiopian Electric Interruption Tracking System
 147-3 - Advance Analyzers Docker Container - Ethiopian Electric Interruption Tracking System
 147-4 - Foundation Docs Event Logging Module - Ethiopian Electric Interruption Tracking System
+147-5 - Control Version Theme Switcher - Ethiopian Electric Interruption Tracking System
