@@ -2327,3 +2327,4 @@
 147-4 - Foundation Docs Event Logging Module - Ethiopian Electric Interruption Tracking System
 147-5 - Control Version Theme Switcher - Ethiopian Electric Interruption Tracking System
 147-6 - Write Handbooks Request Deleter - Ethiopian Electric Interruption Tracking System
+147-7 - Write Handbooks Reason Chart Builder - Ethiopian Electric Interruption Tracking System
