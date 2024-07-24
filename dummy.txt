@@ -2329,3 +2329,4 @@
 147-6 - Write Handbooks Request Deleter - Ethiopian Electric Interruption Tracking System
 147-7 - Write Handbooks Reason Chart Builder - Ethiopian Electric Interruption Tracking System
 147-8 - View Submissions Report Page Builder - Ethiopian Electric Interruption Tracking System
+147-9 - Delete Requests Contact Optioner - Ethiopian Electric Interruption Tracking System
