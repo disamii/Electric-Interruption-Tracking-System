@@ -2332,3 +2332,4 @@
 147-9 - Delete Requests Contact Optioner - Ethiopian Electric Interruption Tracking System
 148-1 - Fill Fields Concept Setup LAN WAN - Ethiopian Electric Interruption Tracking System
 148-2 - Manage Datas Electricity Data Parser - Ethiopian Electric Interruption Tracking System
+148-3 - Schedule Oversight Maintainer - Ethiopian Electric Interruption Tracking System
