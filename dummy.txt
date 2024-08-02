@@ -2351,3 +2351,4 @@
 153-4 - Integrate Features Software Installer - Ethiopian Electric Interruption Tracking System
 153-5 - Migrate Insight Linker - Ethiopian Electric Interruption Tracking System
 154-1 - Standard Networks Standards Enforcer - Ethiopian Electric Interruption Tracking System
+154-2 - Meet Needs Tracker Effectiver - Ethiopian Electric Interruption Tracking System
