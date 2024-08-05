@@ -2355,3 +2355,4 @@
 154-3 - View Depths Data Summary - Ethiopian Electric Interruption Tracking System
 154-4 - Easier Navs Support Enhancer - Ethiopian Electric Interruption Tracking System
 155-1 - Hold Meetings Methodology Docs - Ethiopian Electric Interruption Tracking System
+155-2 - Detail Graphs Line Frequency Identifier - Ethiopian Electric Interruption Tracking System
