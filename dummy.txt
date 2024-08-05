@@ -2360,3 +2360,4 @@
 155-4 - Backup Operational Efficiency - Ethiopian Electric Interruption Tracking System
 155-5 - Reason Outages Environment Collaborator - Ethiopian Electric Interruption Tracking System
 155-6 - Delete Users Association Definer - Ethiopian Electric Interruption Tracking System
+155-7 - Delete Insight Comparer - Ethiopian Electric Interruption Tracking System
