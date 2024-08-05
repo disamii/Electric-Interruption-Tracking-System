@@ -2362,3 +2362,4 @@
 155-6 - Delete Users Association Definer - Ethiopian Electric Interruption Tracking System
 155-7 - Delete Insight Comparer - Ethiopian Electric Interruption Tracking System
 155-8 - Reason Outages Web Based Solution - Ethiopian Electric Interruption Tracking System
+155-9 - Manage Database Branch Remote Connector - Ethiopian Electric Interruption Tracking System
