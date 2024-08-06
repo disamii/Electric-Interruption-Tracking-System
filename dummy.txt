@@ -2365,3 +2365,4 @@
 155-9 - Manage Database Branch Remote Connector - Ethiopian Electric Interruption Tracking System
 156-1 - Style With Tailwind Environment Collaborator - Ethiopian Electric Interruption Tracking System
 156-2 - Suspend Routine Establisher - Ethiopian Electric Interruption Tracking System
+156-3 - Orchestrate Containers Account Deleter - Ethiopian Electric Interruption Tracking System
