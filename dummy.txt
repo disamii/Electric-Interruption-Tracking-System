@@ -2364,3 +2364,4 @@
 155-8 - Reason Outages Web Based Solution - Ethiopian Electric Interruption Tracking System
 155-9 - Manage Database Branch Remote Connector - Ethiopian Electric Interruption Tracking System
 156-1 - Style With Tailwind Environment Collaborator - Ethiopian Electric Interruption Tracking System
+156-2 - Suspend Routine Establisher - Ethiopian Electric Interruption Tracking System
