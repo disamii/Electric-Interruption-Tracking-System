@@ -2385,3 +2385,4 @@
 159-4 - Render Analytics - Ethiopian Electric Interruption Tracking System
 159-5 - Upload Employee Report Submitter - Ethiopian Electric Interruption Tracking System
 159-6 - Suspend Reliability Service Improver - Ethiopian Electric Interruption Tracking System
+159-7 - Validate Version Manager - Ethiopian Electric Interruption Tracking System
