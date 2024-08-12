@@ -2393,3 +2393,4 @@
 160-5 - Analyze Readability Improver - Ethiopian Electric Interruption Tracking System
 160-6 - Improve Reliabs Configuration Participant - Ethiopian Electric Interruption Tracking System
 160-7 - Render Login Handbook Report Writer - Ethiopian Electric Interruption Tracking System
+160-8 - Develop Frontend Frequency Comparator - Ethiopian Electric Interruption Tracking System
