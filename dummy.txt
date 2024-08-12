@@ -2388,3 +2388,4 @@
 159-7 - Validate Version Manager - Ethiopian Electric Interruption Tracking System
 160-1 - Structure Authentication - Ethiopian Electric Interruption Tracking System
 160-2 - View Submissions System Architecture - Ethiopian Electric Interruption Tracking System
+160-3 - Understand Limitations Line Frequency Identifier - Ethiopian Electric Interruption Tracking System
