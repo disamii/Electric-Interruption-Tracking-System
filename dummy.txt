@@ -2396,3 +2396,4 @@
 160-8 - Develop Frontend Frequency Comparator - Ethiopian Electric Interruption Tracking System
 160-9 - Develop Frontend Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
 160-10 - Pop Prompts Contact Optioner - Ethiopian Electric Interruption Tracking System
+161-1 - Reduce Strain Resolution Quickener - Ethiopian Electric Interruption Tracking System
