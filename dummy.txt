@@ -2401,3 +2401,4 @@
 161-3 - Refactor Network Integration - Ethiopian Electric Interruption Tracking System
 161-4 - Display Cards Edit Requester - Ethiopian Electric Interruption Tracking System
 161-5 - Enhance Efficiencies Doc Django Foundation Software - Ethiopian Electric Interruption Tracking System
+161-6 - Document Obs Alert Automator - Ethiopian Electric Interruption Tracking System
