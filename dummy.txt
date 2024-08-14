@@ -2407,3 +2407,4 @@
 161-9 - Profile Downtime Table Generator - Ethiopian Electric Interruption Tracking System
 161-10 - Configure Info Sharer - Ethiopian Electric Interruption Tracking System
 162-1 - Log Reminder Setter - Ethiopian Electric Interruption Tracking System
+162-2 - Calculate Graph Detailer - Ethiopian Electric Interruption Tracking System
