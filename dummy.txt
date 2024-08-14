@@ -2408,3 +2408,4 @@
 161-10 - Configure Info Sharer - Ethiopian Electric Interruption Tracking System
 162-1 - Log Reminder Setter - Ethiopian Electric Interruption Tracking System
 162-2 - Calculate Graph Detailer - Ethiopian Electric Interruption Tracking System
+162-3 - Highlight Metrics Notification Receiver - Ethiopian Electric Interruption Tracking System
