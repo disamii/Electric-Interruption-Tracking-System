@@ -2413,3 +2413,4 @@
 162-5 - Reduce Strain Contact Optioner - Ethiopian Electric Interruption Tracking System
 163-1 - Monitor Suspensions Report Generation - Ethiopian Electric Interruption Tracking System
 163-2 - Install Software Insight Provider - Ethiopian Electric Interruption Tracking System
+163-3 - Store Data Issue Reporter - Ethiopian Electric Interruption Tracking System
