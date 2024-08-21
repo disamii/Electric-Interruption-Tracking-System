@@ -2442,3 +2442,4 @@
 166-3 - Advance Analyzers Deletion Handler - Ethiopian Electric Interruption Tracking System
 166-4 - Reduce Strain User Interface - Ethiopian Electric Interruption Tracking System
 167-1 - Take Notes Dropdown Actioner - Ethiopian Electric Interruption Tracking System
+167-2 - Practicaler Apps Power Outage Tracker - Ethiopian Electric Interruption Tracking System
