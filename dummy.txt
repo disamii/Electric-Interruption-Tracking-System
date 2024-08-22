@@ -2445,3 +2445,4 @@
 167-2 - Practicaler Apps Power Outage Tracker - Ethiopian Electric Interruption Tracking System
 167-3 - Face Challenges Operational Efficiency - Ethiopian Electric Interruption Tracking System
 168-1 - Identify Failures Insight Linker - Ethiopian Electric Interruption Tracking System
+168-2 - Specify Hardware Frontend Builder - Ethiopian Electric Interruption Tracking System
