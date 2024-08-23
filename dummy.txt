@@ -2449,3 +2449,4 @@
 168-3 - Document Obs Service Reliability Booster - Ethiopian Electric Interruption Tracking System
 168-4 - Optimize Disruptions Need Customer Meeter - Ethiopian Electric Interruption Tracking System
 168-5 - View Infos Solution Implementer - Ethiopian Electric Interruption Tracking System
+169-1 - Gain Insights Interruption Logging - Ethiopian Electric Interruption Tracking System
