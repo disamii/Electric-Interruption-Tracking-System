@@ -2461,3 +2461,4 @@
 171-1 - Test Report Page Builder - Ethiopian Electric Interruption Tracking System
 171-2 - Facilitate Comms Resolution Quickener - Ethiopian Electric Interruption Tracking System
 171-3 - Address Concerns Delete Option Provider - Ethiopian Electric Interruption Tracking System
+171-4 - Gather Data Sidebar Navigation - Ethiopian Electric Interruption Tracking System
