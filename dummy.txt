@@ -2470,3 +2470,4 @@
 173-3 - Fix Submission Former - Ethiopian Electric Interruption Tracking System
 173-4 - Compare Frequencies Insight Deeper Deriver - Ethiopian Electric Interruption Tracking System
 173-5 - Review Historical Handbook Report Writer - Ethiopian Electric Interruption Tracking System
+173-6 - Invest Upgrades Data Manager - Ethiopian Electric Interruption Tracking System
