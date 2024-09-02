@@ -2475,3 +2475,4 @@
 173-8 - Follow Guidelines Readability Improver - Ethiopian Electric Interruption Tracking System
 173-9 - Connect Internet Detail Page Router - Ethiopian Electric Interruption Tracking System
 174-1 - Streamline Setups Detail Submitter - Ethiopian Electric Interruption Tracking System
+175-1 - Pop Prompts Upload Lister - Ethiopian Electric Interruption Tracking System
