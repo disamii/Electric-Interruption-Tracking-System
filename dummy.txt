@@ -2485,3 +2485,4 @@
 176-1 - Personalize Passes Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
 176-2 - Share Infos Employee Uploader - Ethiopian Electric Interruption Tracking System
 176-3 - Implement Access Level Controller - Ethiopian Electric Interruption Tracking System
+176-4 - Upload Employee Detail Page Router - Ethiopian Electric Interruption Tracking System
