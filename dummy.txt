@@ -2489,3 +2489,4 @@
 176-5 - Reason Outages Reliability Contributor - Ethiopian Electric Interruption Tracking System
 176-6 - Integrate Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 176-7 - Seamless Interact Django Endpoints - Ethiopian Electric Interruption Tracking System
+176-8 - Seamless Interact Personalizer - Ethiopian Electric Interruption Tracking System
