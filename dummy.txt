@@ -2491,3 +2491,4 @@
 176-7 - Seamless Interact Django Endpoints - Ethiopian Electric Interruption Tracking System
 176-8 - Seamless Interact Personalizer - Ethiopian Electric Interruption Tracking System
 177-1 - Delete Users Application Practicaler - Ethiopian Electric Interruption Tracking System
+177-2 - Interview Staffs Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
