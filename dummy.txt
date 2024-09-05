@@ -2501,3 +2501,4 @@
 178-4 - Capture Concern Addresser - Ethiopian Electric Interruption Tracking System
 178-5 - Install Software Power Outage Tracker - Ethiopian Electric Interruption Tracking System
 178-6 - Notify Submission Viewer - Ethiopian Electric Interruption Tracking System
+178-7 - Clarify Text System Architecture - Ethiopian Electric Interruption Tracking System
