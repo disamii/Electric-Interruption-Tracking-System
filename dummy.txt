@@ -2511,3 +2511,4 @@
 180-3 - Query User Interface - Ethiopian Electric Interruption Tracking System
 180-4 - Count Totals Report Generation - Ethiopian Electric Interruption Tracking System
 180-5 - View Summary Suspension Monitor - Ethiopian Electric Interruption Tracking System
+180-6 - Gather Feedbacks Insight Comparer - Ethiopian Electric Interruption Tracking System
