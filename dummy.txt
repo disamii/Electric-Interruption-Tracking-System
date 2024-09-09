@@ -2507,3 +2507,4 @@
 179-3 - Flow Data Oversight Maintainer - Ethiopian Electric Interruption Tracking System
 179-4 - Hold Meetings Operational Efficiency - Ethiopian Electric Interruption Tracking System
 180-1 - Inform Decisions Duration Recorder - Ethiopian Electric Interruption Tracking System
+180-2 - Streamline Setups Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
