@@ -2517,3 +2517,4 @@
 181-2 - Report Periodic Proactive Maintenance - Ethiopian Electric Interruption Tracking System
 181-3 - Detail Analyses Efficiency Improver - Ethiopian Electric Interruption Tracking System
 181-4 - Optimalize Performs Periodic Reporter - Ethiopian Electric Interruption Tracking System
+181-5 - Reduce Strain Total Interruption Counter - Ethiopian Electric Interruption Tracking System
