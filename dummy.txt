@@ -2513,3 +2513,4 @@
 180-5 - View Summary Suspension Monitor - Ethiopian Electric Interruption Tracking System
 180-6 - Gather Feedbacks Insight Comparer - Ethiopian Electric Interruption Tracking System
 180-7 - Track Infos Account Creator - Ethiopian Electric Interruption Tracking System
+181-1 - Edit Account Deleter - Ethiopian Electric Interruption Tracking System
