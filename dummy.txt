@@ -2515,3 +2515,4 @@
 180-7 - Track Infos Account Creator - Ethiopian Electric Interruption Tracking System
 181-1 - Edit Account Deleter - Ethiopian Electric Interruption Tracking System
 181-2 - Report Periodic Proactive Maintenance - Ethiopian Electric Interruption Tracking System
+181-3 - Detail Analyses Efficiency Improver - Ethiopian Electric Interruption Tracking System
