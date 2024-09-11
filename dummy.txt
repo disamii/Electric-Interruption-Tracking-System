@@ -2523,3 +2523,4 @@
 182-3 - Duration Times Frontend Builder - Ethiopian Electric Interruption Tracking System
 182-4 - Count Totals Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
 182-5 - Manage Datas Association Definer - Ethiopian Electric Interruption Tracking System
+182-6 - Submit Reports Prompt Popper - Ethiopian Electric Interruption Tracking System
