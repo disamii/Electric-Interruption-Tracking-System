@@ -2520,3 +2520,4 @@
 181-5 - Reduce Strain Total Interruption Counter - Ethiopian Electric Interruption Tracking System
 182-1 - Provide Insights Info Tracker - Ethiopian Electric Interruption Tracking System
 182-2 - Handle Deletions Sector Utility Tech - Ethiopian Electric Interruption Tracking System
+182-3 - Duration Times Frontend Builder - Ethiopian Electric Interruption Tracking System
