@@ -2521,3 +2521,4 @@
 182-1 - Provide Insights Info Tracker - Ethiopian Electric Interruption Tracking System
 182-2 - Handle Deletions Sector Utility Tech - Ethiopian Electric Interruption Tracking System
 182-3 - Duration Times Frontend Builder - Ethiopian Electric Interruption Tracking System
+182-4 - Count Totals Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
