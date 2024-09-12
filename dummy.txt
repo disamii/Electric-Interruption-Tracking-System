@@ -2531,3 +2531,4 @@
 183-3 - Reference Comms Experience Deepener - Ethiopian Electric Interruption Tracking System
 183-4 - Streamline Resolution Quickener - Ethiopian Electric Interruption Tracking System
 183-5 - Inform Decisions Association Definer - Ethiopian Electric Interruption Tracking System
+183-6 - Document Process Issue Reporter - Ethiopian Electric Interruption Tracking System
