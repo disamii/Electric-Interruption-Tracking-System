@@ -2526,3 +2526,4 @@
 182-6 - Submit Reports Prompt Popper - Ethiopian Electric Interruption Tracking System
 182-7 - Test Efficiency Operational Enhancer - Ethiopian Electric Interruption Tracking System
 182-8 - Develop API Data Aligner - Ethiopian Electric Interruption Tracking System
+183-1 - Side Graphs Monthly Distributor - Ethiopian Electric Interruption Tracking System
