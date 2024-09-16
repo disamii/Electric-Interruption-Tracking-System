@@ -2542,3 +2542,4 @@
 185-2 - Improve Readability Scheduler - Ethiopian Electric Interruption Tracking System
 185-3 - Reset Info Safeguarder - Ethiopian Electric Interruption Tracking System
 185-4 - Improve Reliabs Table Lister - Ethiopian Electric Interruption Tracking System
+185-5 - Define Associations Adaptability Layer - Ethiopian Electric Interruption Tracking System
