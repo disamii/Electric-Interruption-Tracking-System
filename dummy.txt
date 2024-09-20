@@ -2566,3 +2566,4 @@
 188-8 - Reset Tool Analyzer Advancer - Ethiopian Electric Interruption Tracking System
 188-9 - Set Reminders Observation Documenter - Ethiopian Electric Interruption Tracking System
 189-1 - Authenticate Suspension Monitor - Ethiopian Electric Interruption Tracking System
+189-2 - Identify Failures Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
