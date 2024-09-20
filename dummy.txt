@@ -2567,3 +2567,4 @@
 188-9 - Set Reminders Observation Documenter - Ethiopian Electric Interruption Tracking System
 189-1 - Authenticate Suspension Monitor - Ethiopian Electric Interruption Tracking System
 189-2 - Identify Failures Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
+189-3 - View Summary Dropdown Actioner - Ethiopian Electric Interruption Tracking System
