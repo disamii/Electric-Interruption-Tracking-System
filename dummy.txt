@@ -2572,3 +2572,4 @@
 190-2 - Optimalize Performs Performance Analyzer - Ethiopian Electric Interruption Tracking System
 190-3 - Friendlier Experiences Support Enhancer - Ethiopian Electric Interruption Tracking System
 190-4 - Distribute Monthly Point Failure Identifier - Ethiopian Electric Interruption Tracking System
+190-5 - Parse Incident Lister - Ethiopian Electric Interruption Tracking System
