@@ -2582,3 +2582,4 @@
 191-5 - Improve Efficiencies Methodology Docs - Ethiopian Electric Interruption Tracking System
 192-1 - Handle Deletions Metric Card Displayer - Ethiopian Electric Interruption Tracking System
 192-2 - Establish Routines Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
+192-3 - Affect Lines Incident Lister - Ethiopian Electric Interruption Tracking System
