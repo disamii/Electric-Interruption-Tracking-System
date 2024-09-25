@@ -2581,3 +2581,4 @@
 191-4 - Edit Profiles User Management - Ethiopian Electric Interruption Tracking System
 191-5 - Improve Efficiencies Methodology Docs - Ethiopian Electric Interruption Tracking System
 192-1 - Handle Deletions Metric Card Displayer - Ethiopian Electric Interruption Tracking System
+192-2 - Establish Routines Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
