@@ -2584,3 +2584,4 @@
 192-2 - Establish Routines Stakeholder Feedback - Ethiopian Electric Interruption Tracking System
 192-3 - Affect Lines Incident Lister - Ethiopian Electric Interruption Tracking System
 192-4 - Route Details Error Handling - Ethiopian Electric Interruption Tracking System
+193-1 - Effective Trackers Standards Enforcer - Ethiopian Electric Interruption Tracking System
