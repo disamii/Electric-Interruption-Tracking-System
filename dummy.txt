@@ -2586,3 +2586,4 @@
 192-4 - Route Details Error Handling - Ethiopian Electric Interruption Tracking System
 193-1 - Effective Trackers Standards Enforcer - Ethiopian Electric Interruption Tracking System
 194-1 - Identify Failures Trainer Ongoing - Ethiopian Electric Interruption Tracking System
+194-2 - Edit Records Request Deleter - Ethiopian Electric Interruption Tracking System
