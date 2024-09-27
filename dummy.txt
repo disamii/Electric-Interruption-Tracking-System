@@ -2587,3 +2587,4 @@
 193-1 - Effective Trackers Standards Enforcer - Ethiopian Electric Interruption Tracking System
 194-1 - Identify Failures Trainer Ongoing - Ethiopian Electric Interruption Tracking System
 194-2 - Edit Records Request Deleter - Ethiopian Electric Interruption Tracking System
+194-3 - Duration Times Prompt Popper - Ethiopian Electric Interruption Tracking System
