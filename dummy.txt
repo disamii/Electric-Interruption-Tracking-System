@@ -2596,3 +2596,4 @@
 199-2 - Affect Lines Resolution Quickener - Ethiopian Electric Interruption Tracking System
 199-3 - Implement Event Logging Module - Ethiopian Electric Interruption Tracking System
 199-4 - Gather Data Readability Improver - Ethiopian Electric Interruption Tracking System
+199-5 - Integrate Features Reset Function Adder - Ethiopian Electric Interruption Tracking System
