@@ -2602,3 +2602,4 @@
 199-8 - Report Periodic Error Handling - Ethiopian Electric Interruption Tracking System
 199-9 - Identify Frequencies Entity Relationship - Ethiopian Electric Interruption Tracking System
 200-1 - Backup Feature Linker - Ethiopian Electric Interruption Tracking System
+200-2 - Provide Deletes Sector Utility Tech - Ethiopian Electric Interruption Tracking System
