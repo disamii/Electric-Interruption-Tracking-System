@@ -2617,3 +2617,4 @@
 202-4 - Write Guides Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
 203-1 - Highlight Screenshots Frontend Builder - Ethiopian Electric Interruption Tracking System
 203-2 - Report Issues Experience Deepener - Ethiopian Electric Interruption Tracking System
+203-3 - Hold Meetings Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
