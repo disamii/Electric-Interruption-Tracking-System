@@ -2620,3 +2620,4 @@
 203-3 - Hold Meetings Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
 203-4 - Predict Analytics Insight Comparer - Ethiopian Electric Interruption Tracking System
 203-5 - Crucial Integrate Graph Visualization - Ethiopian Electric Interruption Tracking System
+203-6 - Improve Efficiencies Configuration Participant - Ethiopian Electric Interruption Tracking System
