@@ -2627,3 +2627,4 @@
 206-1 - Modularize Line Affecter - Ethiopian Electric Interruption Tracking System
 206-2 - Document Navigation Linker - Ethiopian Electric Interruption Tracking System
 207-1 - Affect Lines Decision Informer - Ethiopian Electric Interruption Tracking System
+207-2 - Duration Times Graph Visualization - Ethiopian Electric Interruption Tracking System
