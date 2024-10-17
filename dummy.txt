@@ -2628,3 +2628,4 @@
 206-2 - Document Navigation Linker - Ethiopian Electric Interruption Tracking System
 207-1 - Affect Lines Decision Informer - Ethiopian Electric Interruption Tracking System
 207-2 - Duration Times Graph Visualization - Ethiopian Electric Interruption Tracking System
+208-1 - Report Periodic Interruption Logging - Ethiopian Electric Interruption Tracking System
