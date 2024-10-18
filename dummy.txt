@@ -2635,3 +2635,4 @@
 208-5 - Provide Scalability Enhancer - Ethiopian Electric Interruption Tracking System
 208-6 - Provide Insights Manual Data Migration - Ethiopian Electric Interruption Tracking System
 208-7 - Ask Questions Graph Visualization - Ethiopian Electric Interruption Tracking System
+209-1 - Validate Credentials WAN Setup - Ethiopian Electric Interruption Tracking System
