@@ -2652,3 +2652,4 @@
 211-6 - Improve Password Assigner - Ethiopian Electric Interruption Tracking System
 211-7 - Track Infos Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
 211-8 - Advance Analyzers Detail Submitter - Ethiopian Electric Interruption Tracking System
+211-9 - Gain Insights Error Handling - Ethiopian Electric Interruption Tracking System
