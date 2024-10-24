@@ -2661,3 +2661,4 @@
 213-3 - Identify Improves Challenge Proactive Addresser - Ethiopian Electric Interruption Tracking System
 213-4 - Implement Performance Booster - Ethiopian Electric Interruption Tracking System
 213-5 - Identify Methodology Docs - Ethiopian Electric Interruption Tracking System
+213-6 - Logic Server Side Table Lister - Ethiopian Electric Interruption Tracking System
