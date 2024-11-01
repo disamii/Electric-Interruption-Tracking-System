@@ -2682,3 +2682,4 @@
 218-3 - Clarify Text Info Sharer - Ethiopian Electric Interruption Tracking System
 219-1 - Timer Entries Predictive Insights - Ethiopian Electric Interruption Tracking System
 219-2 - List Incidents Account Deleter - Ethiopian Electric Interruption Tracking System
+219-3 - Distribute Monthly Notification Receiver - Ethiopian Electric Interruption Tracking System
