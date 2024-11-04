@@ -2693,3 +2693,4 @@
 220-3 - Reset Pass Data Historical Baser - Ethiopian Electric Interruption Tracking System
 220-4 - Reset Pass Frontend Builder - Ethiopian Electric Interruption Tracking System
 220-5 - Schedule Real Time Collection - Ethiopian Electric Interruption Tracking System
+220-6 - Personalize Passes Theme Switcher - Ethiopian Electric Interruption Tracking System
