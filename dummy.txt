@@ -2690,3 +2690,4 @@
 219-8 - Install Software Methodology Docs - Ethiopian Electric Interruption Tracking System
 220-1 - Collect Feedback Interruption Logging - Ethiopian Electric Interruption Tracking System
 220-2 - Report Periodic Configuration Participant - Ethiopian Electric Interruption Tracking System
+220-3 - Reset Pass Data Historical Baser - Ethiopian Electric Interruption Tracking System
