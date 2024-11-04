@@ -2688,3 +2688,4 @@
 219-6 - View Submissions Exchange Seamlesser - Ethiopian Electric Interruption Tracking System
 219-7 - Write Handbooks Dropdown Actioner - Ethiopian Electric Interruption Tracking System
 219-8 - Install Software Methodology Docs - Ethiopian Electric Interruption Tracking System
+220-1 - Collect Feedback Interruption Logging - Ethiopian Electric Interruption Tracking System
