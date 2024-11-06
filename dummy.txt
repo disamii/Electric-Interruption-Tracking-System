@@ -2700,3 +2700,4 @@
 221-4 - Base Historicals Docker Container - Ethiopian Electric Interruption Tracking System
 221-5 - Render Notification Receiver - Ethiopian Electric Interruption Tracking System
 222-1 - Personalize Passes Solution Implementer - Ethiopian Electric Interruption Tracking System
+222-2 - Ongoing Train Need Customer Meeter - Ethiopian Electric Interruption Tracking System
