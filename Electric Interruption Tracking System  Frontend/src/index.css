@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  box-sizing: border-box;
+}
+body {
+  position: relative;
+  font-family: "Roboto Mono", "Fira Code", "Source Code Pro", "Inconsolata", "JetBrains Mono", monospace;
+  overflow-x: hidden;
+  background-color: #f2f4f6;
+}
+
+.main {
+  @apply flex  min-h-dvh  box-border;
+}
+
+
+.parent > * {
+  @apply flex justify-between items-center;
+}
+
+
+/* side bar hover */
+.custom .ps-menu-button {
+  @apply dark:hover:bg-primary-dark-500;
+}
+
+label {
+  @apply italic capitalize underline underline-offset-[4px];
+}
+
+input {
+  @apply dark:bg-primary-dark-400;
+}
+option {
+  @apply dark:bg-primary-dark-400;
+}
+
+
+/* interruption form stylse */
+.formGroup {
+  @apply flex flex-col gap-[0.2rem] text-[1.2rem] justify-center;
+}
+
+.formGroup .Field {
+  @apply p-[0.3rem] px-4 text-[1.1rem] rounded-[0.2rem] bg-[#f2f4f6] dark:bg-primary-dark-400;
+}
+
+.formGroup .error {
+  @apply h-4 text-red-500;
+}
+
+/* for the image animation*/
+
+@keyframes background-changer {
+  0% {
+    background-image: url("./assets/images/elecpic6.jpg");
+  }
+  100% {
+    background-image: url("./assets/images/elecpic1.jpg");
+  }
+}
+
+.animate-background-changer {
+  animation: background-changer 10s infinite;
+}
