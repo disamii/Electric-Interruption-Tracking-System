@@ -2717,3 +2717,4 @@
 225-9 - Generate Username Data Storage Manager - Ethiopian Electric Interruption Tracking System
 226-1 - Address Proactives Power Outage Tracker - Ethiopian Electric Interruption Tracking System
 226-2 - Delete Summary Viewer - Ethiopian Electric Interruption Tracking System
+226-3 - Collaborate Code Data Capturer - Ethiopian Electric Interruption Tracking System
