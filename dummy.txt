@@ -2725,3 +2725,4 @@
 227-5 - Review Historical Class Diagram - Ethiopian Electric Interruption Tracking System
 227-6 - Set Reminders Notification Receiver - Ethiopian Electric Interruption Tracking System
 227-7 - Record Durations Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
+227-8 - Structure Account Setup Streamliner - Ethiopian Electric Interruption Tracking System
