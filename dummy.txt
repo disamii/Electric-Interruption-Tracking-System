@@ -2721,3 +2721,4 @@
 227-1 - Document Obs Account Deleter - Ethiopian Electric Interruption Tracking System
 227-2 - Structure Association Definer - Ethiopian Electric Interruption Tracking System
 227-3 - Tech Sector Utility Frequency Analyzer - Ethiopian Electric Interruption Tracking System
+227-4 - Develop User Profile View - Ethiopian Electric Interruption Tracking System
