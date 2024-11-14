@@ -2727,3 +2727,4 @@
 227-7 - Record Durations Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
 227-8 - Structure Account Setup Streamliner - Ethiopian Electric Interruption Tracking System
 228-1 - Debug Bar Chart Renderer - Ethiopian Electric Interruption Tracking System
+228-2 - Link Insights In Depth Viewer - Ethiopian Electric Interruption Tracking System
