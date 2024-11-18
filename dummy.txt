@@ -2734,3 +2734,4 @@
 229-1 - Document Obs Scheduler - Ethiopian Electric Interruption Tracking System
 230-1 - Improve Reliabs Trend Visualizer - Ethiopian Electric Interruption Tracking System
 230-2 - Pop Prompts Container Orchestrator - Ethiopian Electric Interruption Tracking System
+230-3 - Reset Admin Dashboard - Ethiopian Electric Interruption Tracking System
