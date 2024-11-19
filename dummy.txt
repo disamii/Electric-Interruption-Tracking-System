@@ -2737,3 +2737,4 @@
 230-3 - Reset Admin Dashboard - Ethiopian Electric Interruption Tracking System
 230-4 - Receive Responses Oversight Maintainer - Ethiopian Electric Interruption Tracking System
 231-1 - View Infos Data Storage Manager - Ethiopian Electric Interruption Tracking System
+231-2 - User Manuals Vision Mission Stater - Ethiopian Electric Interruption Tracking System
