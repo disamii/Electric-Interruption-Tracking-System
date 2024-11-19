@@ -22,8 +22,9 @@ urlpatterns = [
     path('api/token/', TokenObtainPairView.as_view(),  name='token_obtain_pair'),
     path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
     path('api/token/verify/', TokenVerifyView.as_view(), name='token_verify'),
-    path('accounts/',include('Accounts.urls')),
-    path('interruption_data/',include('interruption_data.urls')),
-    path("messages/", include('messaging.urls')),
-    path('note/',include('note.urls')),
+    path('electric_line/',include('Electric_Line.urls'))
+    # path('accounts/',include('Accounts.urls')),
+    # path('interruption_data/',include('interruption.urls')),
+    # path("messages/", include('messaging.urls')),
+    # path('note/',include('note.urls')),
 ]

@@ -1,5 +1,5 @@
-from interruption_data.models import DataSummary
-from interruption_data.models import InterruptionData
+from .models import DataSummary
+from .models import InterruptionData
 from django.db.models import Count, Sum
 from django.db.models.functions import ExtractYear, ExtractMonth
 from django.dispatch import receiver

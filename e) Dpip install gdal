@@ -1,0 +1,11 @@
+[33mcommit f397c859a06da10850155d6b4fbf4d64842985d3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: samson mamuye <samsonmamuye360@gmail.com>
+Date:   Sat Nov 9 09:56:31 2024 +0300
+
+    Add .gitignore and ignore venv folder
+
+[33mcommit 85031438df30ec430213c7e108de711a0cdd0a5d[m
+Author: samson mamuye <samsonmamuye360@gmail.com>
+Date:   Fri Nov 8 23:32:08 2024 +0300
+
+    commit before updating

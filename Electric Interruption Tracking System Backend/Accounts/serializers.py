@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from interruption_data.serializers import InterruptDataSerializer
+from Interruption.serializers import InterruptDataSerializer
 from .models import MyUser
 from django.contrib.auth.password_validation import validate_password
 

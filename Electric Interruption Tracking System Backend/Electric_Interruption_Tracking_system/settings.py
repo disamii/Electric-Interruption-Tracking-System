@@ -9,12 +9,14 @@ https://docs.djangoproject.com/en/5.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
+import os
+
+GDAL_LIBRARY_PATH = os.getenv("GDAL_LIBRARY_PATH", r"C:\OSGeo4W\bin\gdal309.dll")
+
 
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-
-
 
 
 SECRET_KEY = "django-insecure-yml34z3&wjf4w^u1a!c5&q90)+o%r4-unwm77hcpsjguilj71g"
@@ -44,17 +46,22 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    'django.contrib.gis',
     'rest_framework',
     'corsheaders',
     "phonenumber_field",
-    'Accounts',
-    'interruption_data',
     'django_filters',
-    'messaging',
-    'note',
+    'rest_framework_gis',
+    'Electric_Line',
+    
+    
+    # 'Accounts',
+    # 'Interruption',
+    # 'messaging',
+    # 'note',
 
 ]
-AUTH_USER_MODEL = 'Accounts.MyUser'
+# AUTH_USER_MODEL = 'Accounts.MyUser'
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware', 
@@ -90,12 +97,15 @@ WSGI_APPLICATION = "Electric_Interruption_Tracking_system.wsgi.application"
 
 
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+    'default': {
+        'ENGINE': 'django.contrib.gis.db.backends.mysql',
+        'NAME': 'electricinterruption',                   # Database name
+        'USER': 'root',                   # Database username
+        'PASSWORD': 'disSAMI!123',           # Database password
+        'HOST': 'localhost',                      # Database host
+        'PORT': '3306',                           # Database port (default is 3306)
     }
 }
-
 
 
 
@@ -150,6 +160,6 @@ SIMPLE_JWT = {
     'TOKEN_TYPE_CLAIM': 'token_type',
 }
 # settings.py
-from rest_framework_simplejwt.settings import api_settings
+# from rest_framework_simplejwt.settings import api_settings
 
-api_settings.USER_ID_FIELD = 'username'  # This should match the primary key field in your custom user model
+# api_settings.USER_ID_FIELD = 'username'
