@@ -2752,3 +2752,4 @@
 232-7 - Specify Hardware Incident Lister - Ethiopian Electric Interruption Tracking System
 232-8 - Integrate Features Table Lister - Ethiopian Electric Interruption Tracking System
 233-1 - Invest Upgrades Line Affecter - Ethiopian Electric Interruption Tracking System
+233-2 - Assign Password Data Upload Table - Ethiopian Electric Interruption Tracking System
