@@ -52,8 +52,8 @@ INSTALLED_APPS = [
     "phonenumber_field",
     'django_filters',
     'rest_framework_gis',
+    'djoser',
     'Electric_Line',
-    
     
     # 'Accounts',
     # 'Interruption',
@@ -127,18 +127,6 @@ AUTH_PASSWORD_VALIDATORS = [
 
 
 
-LANGUAGE_CODE = "en-us"
-
-TIME_ZONE = "UTC"
-
-USE_I18N = True
-
-USE_TZ = True
-
-
-
-STATIC_URL = "static/"
-
 
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
@@ -152,6 +140,7 @@ REST_FRAMEWORK = {
 from datetime import timedelta
 
 SIMPLE_JWT = {
+    'AUTH_HEADER_TYPES': ('JWT',),
     'ACCESS_TOKEN_LIFETIME': timedelta(minutes=30),
     'REFRESH_TOKEN_LIFETIME': timedelta(days=30),
     'ROTATE_REFRESH_TOKENS': True,
@@ -159,7 +148,15 @@ SIMPLE_JWT = {
     'AUTH_TOKEN_CLASSES': ('rest_framework_simplejwt.tokens.AccessToken',),
     'TOKEN_TYPE_CLAIM': 'token_type',
 }
-# settings.py
-# from rest_framework_simplejwt.settings import api_settings
 
-# api_settings.USER_ID_FIELD = 'username'
+LANGUAGE_CODE = "en-us"
+
+TIME_ZONE = "UTC"
+
+USE_I18N = True
+
+USE_TZ = True
+
+
+
+STATIC_URL = "static/"

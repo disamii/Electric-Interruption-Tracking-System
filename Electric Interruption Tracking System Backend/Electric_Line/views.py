@@ -70,3 +70,26 @@ class PoleViewSet(viewsets.ModelViewSet):
 class CustomerViewSet(viewsets.ModelViewSet):
     serializer_class=CustomerSerializer
     queryset=Customer.objects.all()
+    
+    
+class InterruptionViewSet(viewsets.ModelViewSet):
+    queryset=Interruption.objects.all()
+    serializer_class=InterruptionSerializer
+    
+    
+class InterruptionDetailViewSet(viewsets.ModelViewSet):
+    serializer_class=InterruptiondetailSerializer
+    
+    def get_queryset(self):
+        interruption_pk=self.kwargs.get('interruption_pk')
+        return  InterruptionDetail.objects.filter(interruption_id=interruption_pk)
+    
+    
+    def get_serializer_context(self):
+        interruption_pk=self.kwargs.get('interruption_pk')
+        context=super().get_serializer_context()
+        if interruption_pk:
+            context['interruption_pk']=interruption_pk
+        return  context
+
+        

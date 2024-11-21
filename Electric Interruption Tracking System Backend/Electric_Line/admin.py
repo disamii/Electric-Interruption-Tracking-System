@@ -1,6 +1,12 @@
 from django.contrib import admin
-from .models import *
-models_to_register = [model for model in globals().values() if isinstance(model, type) and issubclass(model, models.Model)]
+from .models import Substation, SwitchingStation, Feeder, Transformer, Pole, Location, Interruption, InterruptionDetail
 
-for model in models_to_register:
-    admin.site.register(model)
+# Register all the models
+admin.site.register(Substation)
+admin.site.register(SwitchingStation)
+admin.site.register(Feeder)
+admin.site.register(Transformer)
+admin.site.register(Pole)
+admin.site.register(Location)
+admin.site.register(Interruption)
+admin.site.register(InterruptionDetail)

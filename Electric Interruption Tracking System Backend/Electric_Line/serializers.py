@@ -21,7 +21,7 @@ class PoleSerializer(serializers.ModelSerializer):
     total_user=serializers.SerializerMethodField()
     class Meta:
         model=Pole
-        fields=['tag_name','total_user','created_at','voltage_level','height']
+        fields=['id','tag_name','total_user','created_at','voltage_level','height']
     def get_total_user(self,obj):
         return  obj.customer.count()
     
@@ -298,3 +298,110 @@ class SubstationSerializer(serializers.ModelSerializer):
         
     def get_total_num_switching_station(self, obj):
         return obj.switching_station.count()
+
+
+
+class InterruptionSerializer(serializers.ModelSerializer):
+    content_object = serializers.SerializerMethodField()
+    related_type = serializers.SlugRelatedField(slug_field='model', queryset=ContentType.objects.all())
+
+    class Meta:
+        model = Interruption
+        fields = ['id', 'related_type', 'related_id', 'content_object']
+
+    def validate_related_type(self, value):
+        """ Ensure related_type is a valid ContentType for an allowed model. """
+        allowed_models = [Substation, SwitchingStation, Feeder, Transformer, Pole]
+        model_class = value.model_class()
+
+        if model_class not in allowed_models:
+            raise serializers.ValidationError(f"Content type '{value}' is not allowed.")
+
+        return value
+
+    def get_content_object(self, obj):
+        content_object = obj.content_object
+
+        if isinstance(content_object, Substation):
+            return SubstationSerializer(content_object).data
+        elif isinstance(content_object, SwitchingStation):
+            return SwitchingStationSerializer(content_object).data
+        elif isinstance(content_object, Feeder):
+            return FeederSerializer(content_object).data
+        elif isinstance(content_object, Transformer):
+            return TransformerSerializer(content_object).data
+        elif isinstance(content_object, Pole):
+            return PoleSerializer(content_object).data
+
+        raise serializers.ValidationError("The content object is not of an allowed type.")
+
+    def create(self, validated_data):
+        """ Create a new Interruption instance and validate related object. """
+        related_type = validated_data.get('related_type')
+        object_id = validated_data.get('related_id')
+
+        # The related_type validation is already handled in validate_related_type, so no need to repeat it.
+        model_class = related_type.model_class()
+
+        try:
+            content_object = model_class.objects.get(id=object_id)
+        except model_class.DoesNotExist:
+            raise serializers.ValidationError("Object with the provided ID does not exist.")
+
+        # Add the content object to validated data
+        validated_data['content_object'] = content_object
+
+        # Create the Interruption instance
+        return super().create(validated_data)
+
+
+class InterruptiondetailSerializer(serializers.ModelSerializer):
+    duration=serializers.ReadOnlyField()
+    class Meta:
+        model = InterruptionDetail
+        fields = ['id','interruption','reason','handled_by','start_datetime','end_datetime','duration','uploaded_by','created_at','updated_at' ]
+        read_only_fields = ['interruption']
+        
+    def validate(self, data):
+        """
+        Perform additional validation that is serializer-specific.
+        """
+        # Check that the end_datetime is later than start_datetime
+        if 'start_datetime' in data and 'end_datetime' in data:
+            if data['end_datetime'] <= data['start_datetime']:
+                raise serializers.ValidationError({
+                    'end_datetime': 'End date and time must be after the start date and time.'
+                })
+        return data
+    
+    def create(self, validated_data):
+        """
+        Override the default `create` method to apply custom logic.
+        """
+        interruption_pk = self.context.get('interruption_pk')
+        if not interruption_pk:
+            raise serializers.ValidationError({"interruption": "Missing interruption_pk in context."})
+        validated_data['interruption'] = Interruption.objects.get(pk=interruption_pk)
+        
+        start_datetime = validated_data.get('start_datetime')
+        end_datetime = validated_data.get('end_datetime')
+
+        # Calculate the duration if both start_datetime and end_datetime are provided
+        if start_datetime and end_datetime:
+            duration = end_datetime - start_datetime
+            validated_data['duration'] = duration
+        # Create the Interruption object and return it
+        return super().create(validated_data)
+
+    def update(self, instance, validated_data):
+        """
+        Override the default `update` method to apply custom logic.
+        """
+        start_datetime = validated_data.get('start_datetime', instance.start_datetime)
+        end_datetime = validated_data.get('end_datetime', instance.end_datetime)
+        if start_datetime and end_datetime:
+            duration = end_datetime - start_datetime
+            validated_data['duration'] = duration
+        return super().update(instance, validated_data)
+    
+        

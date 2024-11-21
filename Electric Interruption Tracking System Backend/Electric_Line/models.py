@@ -1,6 +1,13 @@
 from django.db import models
 from django.contrib.gis.db import models as gis_models 
 from phonenumber_field.modelfields import PhoneNumberField
+from django.contrib.contenttypes.models import ContentType
+from django.contrib.contenttypes.fields import GenericForeignKey
+from django.contrib.auth.models import User
+from django.core.exceptions import ValidationError
+from django.utils.translation import gettext_lazy as _
+from datetime import datetime
+
 
 
 class Substation(models.Model):
@@ -93,3 +100,24 @@ class Customer(models.Model):
     phone_number=PhoneNumberField()
     business_partner=models.CharField(max_length=255)
     pole=models.ForeignKey(Pole,on_delete=models.PROTECT ,related_name='customer')
+
+
+class Interruption(models.Model):
+    related_type = models.OneToOneField(ContentType, verbose_name="Interruption Type", on_delete=models.CASCADE)
+    related_id = models.PositiveIntegerField()
+    content_object = GenericForeignKey('related_type', 'related_id')
+
+class InterruptionDetail(models.Model):
+    interruption = models.ForeignKey(Interruption, on_delete=models.CASCADE)
+    reason = models.CharField(max_length=50, null=True, blank=True)
+    handled_by = models.CharField(max_length=50, null=True, blank=True)
+    start_datetime = models.DateTimeField()
+    end_datetime = models.DateTimeField()
+    duration = models.DurationField(blank=True, null=True)
+    uploaded_by = models.ForeignKey(User, on_delete=models.CASCADE, related_name='uploaded_interruptions', null=True, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+
+    def __str__(self):
+        return f"InterruptionOccured - {self.reason or 'No Reason'} ({self.start_datetime})"
