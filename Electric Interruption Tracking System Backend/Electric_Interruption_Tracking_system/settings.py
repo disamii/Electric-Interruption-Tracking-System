@@ -10,11 +10,13 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 import os
+from pathlib import Path
+from datetime import timedelta
+
 
 GDAL_LIBRARY_PATH = os.getenv("GDAL_LIBRARY_PATH", r"C:\OSGeo4W\bin\gdal309.dll")
 
 
-from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -54,14 +56,14 @@ INSTALLED_APPS = [
     'rest_framework_gis',
     'djoser',
     'Electric_Line',
+    'Accounts',
     
-    # 'Accounts',
     # 'Interruption',
     # 'messaging',
     # 'note',
 
 ]
-# AUTH_USER_MODEL = 'Accounts.MyUser'
+AUTH_USER_MODEL = 'Accounts.AppUser'
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware', 
@@ -99,30 +101,30 @@ WSGI_APPLICATION = "Electric_Interruption_Tracking_system.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.mysql',
-        'NAME': 'electricinterruption',                   # Database name
-        'USER': 'root',                   # Database username
-        'PASSWORD': 'disSAMI!123',           # Database password
-        'HOST': 'localhost',                      # Database host
-        'PORT': '3306',                           # Database port (default is 3306)
+        'NAME': 'electricinterruption',                   
+        'USER': 'root',                   
+        'PASSWORD': 'disSAMI!123',           
+        'HOST': 'localhost',                      
+        'PORT': '3306',                           
     }
 }
 
 
 
-AUTH_PASSWORD_VALIDATORS = [
-    {
-        "NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator",
-    },
-    {
-        "NAME": "django.contrib.auth.password_validation.MinimumLengthValidator",
-    },
-    {
-        "NAME": "django.contrib.auth.password_validation.CommonPasswordValidator",
-    },
-    {
-        "NAME": "django.contrib.auth.password_validation.NumericPasswordValidator",
-    },
-]
+# AUTH_PASSWORD_VALIDATORS = [
+#     {
+#         "NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator",
+#     },
+#     {
+#         "NAME": "django.contrib.auth.password_validation.MinimumLengthValidator",
+#     },
+#     {
+#         "NAME": "django.contrib.auth.password_validation.CommonPasswordValidator",
+#     },
+#     {
+#         "NAME": "django.contrib.auth.password_validation.NumericPasswordValidator",
+#     },
+# ]
 
 
 
@@ -137,7 +139,6 @@ REST_FRAMEWORK = {
     'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend']
 
 }
-from datetime import timedelta
 
 SIMPLE_JWT = {
     'AUTH_HEADER_TYPES': ('JWT',),
@@ -160,3 +161,13 @@ USE_TZ = True
 
 
 STATIC_URL = "static/"
+
+
+DJOSER={
+    'SERIALIZERS':{
+        'user_create':'Accounts.serializers.UserCreateSerializer',
+        'current_user':'Accounts.serializers.CurrentUserSerializer',
+        'user':'Accounts.serializers.CurrentUserSerializer'
+
+    }
+}

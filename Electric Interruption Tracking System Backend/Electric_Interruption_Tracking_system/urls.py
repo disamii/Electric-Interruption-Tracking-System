@@ -22,7 +22,7 @@ urlpatterns = [
     path(r'auth/', include('djoser.urls')),
     path(r'auth/', include('djoser.urls.jwt')),
     path('api/v1/electric-lines/', include('Electric_Line.urls')), 
-    # path('accounts/',include('Accounts.urls')),
+    path('eeu/accounts/',include('Accounts.urls')),
     # path("messages/", include('messaging.urls')),
     # path('note/',include('note.urls')),
 ]

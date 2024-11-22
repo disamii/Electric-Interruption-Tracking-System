@@ -2,7 +2,6 @@
 from django.db import models
 from Accounts.models import MyUser
 
-
 class Message(models.Model):
     sender = models.ForeignKey(MyUser, related_name='sender', on_delete=models.CASCADE, null=True, blank=True)
     receiver = models.ForeignKey(MyUser, related_name='receiver', on_delete=models.CASCADE, null=True, blank=True)

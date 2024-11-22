@@ -11,12 +11,11 @@ from django.db import models
 from Accounts.models import CustomUserManager
 
 
-
 class MessageView(viewsets.ModelViewSet):
     queryset=Message.objects.all()  
     serializer_class=MessageSerializer
     permission_classes = [IsAuthenticated]
- 
+
 
     def perform_create(self, serializer):
         user = self.request.user
