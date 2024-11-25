@@ -2756,3 +2756,4 @@
 233-3 - Report Issues Feature Linker - Ethiopian Electric Interruption Tracking System
 234-1 - Create Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 235-1 - Ask Questions Application Practicaler - Ethiopian Electric Interruption Tracking System
+235-2 - Take Notes Insight Linker - Ethiopian Electric Interruption Tracking System
