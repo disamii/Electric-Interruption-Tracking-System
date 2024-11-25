@@ -2755,3 +2755,4 @@
 233-2 - Assign Password Data Upload Table - Ethiopian Electric Interruption Tracking System
 233-3 - Report Issues Feature Linker - Ethiopian Electric Interruption Tracking System
 234-1 - Create Visibility Enhancer - Ethiopian Electric Interruption Tracking System
+235-1 - Ask Questions Application Practicaler - Ethiopian Electric Interruption Tracking System
