@@ -2759,3 +2759,4 @@
 235-2 - Take Notes Insight Linker - Ethiopian Electric Interruption Tracking System
 236-1 - Address Proactives Password Assigner - Ethiopian Electric Interruption Tracking System
 236-2 - Take Notes Frequency Comparator - Ethiopian Electric Interruption Tracking System
+236-3 - Refactor Analysis Detailer - Ethiopian Electric Interruption Tracking System
