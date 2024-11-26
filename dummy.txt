@@ -2758,3 +2758,4 @@
 235-1 - Ask Questions Application Practicaler - Ethiopian Electric Interruption Tracking System
 235-2 - Take Notes Insight Linker - Ethiopian Electric Interruption Tracking System
 236-1 - Address Proactives Password Assigner - Ethiopian Electric Interruption Tracking System
+236-2 - Take Notes Frequency Comparator - Ethiopian Electric Interruption Tracking System
