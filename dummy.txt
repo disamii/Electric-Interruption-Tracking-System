@@ -2762,3 +2762,4 @@
 236-3 - Refactor Analysis Detailer - Ethiopian Electric Interruption Tracking System
 236-4 - Flow Data Predictive Insights - Ethiopian Electric Interruption Tracking System
 236-5 - Highlight Metrics Trainer Ongoing - Ethiopian Electric Interruption Tracking System
+236-6 - Placeholder Text Clarifier - Ethiopian Electric Interruption Tracking System
