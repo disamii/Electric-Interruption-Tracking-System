@@ -2769,3 +2769,4 @@
 237-3 - Affect Lines Standard IEEE Network Area - Ethiopian Electric Interruption Tracking System
 237-4 - Action Follow Ups Decision Informer - Ethiopian Electric Interruption Tracking System
 238-1 - Configure Firewalls Standards Enforcer - Ethiopian Electric Interruption Tracking System
+238-2 - Track Counts Integration Crucialer - Ethiopian Electric Interruption Tracking System
