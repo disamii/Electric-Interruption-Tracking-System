@@ -2776,3 +2776,4 @@
 239-2 - Option Contacts Class Diagram - Ethiopian Electric Interruption Tracking System
 239-3 - Monitor Suspensions Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
 239-4 - Gain Insights Six Month Report - Ethiopian Electric Interruption Tracking System
+239-5 - Improve Efficiencies Issue Reporter UI - Ethiopian Electric Interruption Tracking System
