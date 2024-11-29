@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from "react";
-import Intro from "../component/adminComponent/Intro";
-import UserForm from "../component/adminComponent/UserForm";
+import AppRegistrationOutlinedIcon from "@mui/icons-material/AppRegistrationOutlined";
 import { Spinner } from "@material-tailwind/react";
 import DoneOutlineIcon from "@mui/icons-material/DoneOutline";
-import AppRegistrationOutlinedIcon from "@mui/icons-material/AppRegistrationOutlined";
-import ServerErrorShowUp from "../component/ServerErrorShowUp";
+
+import UserForm from "../component/forms/UserForm";
+import ServerErrorShowUp from "../component/errors/ServerErrorShowUp";
+import Intro from "../component/UI/Intro";
 
 export function Status({ status }) {
   return (

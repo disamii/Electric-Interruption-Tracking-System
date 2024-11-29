@@ -5,7 +5,6 @@ import PasswordIcon from "@mui/icons-material/Password";
 import PersonRemoveIcon from "@mui/icons-material/PersonRemove";
 import EditIcon from "@mui/icons-material/Edit";
 import BookmarkRemoveIcon from "@mui/icons-material/BookmarkRemove";
-import UserForm from "../adminComponent/UserForm";
 import { BookmarkAddOutlined } from "@mui/icons-material";
 import { useNavigate } from "react-router-dom";
 import PersonOffIcon from "@mui/icons-material/PersonOff";
@@ -26,6 +25,7 @@ import {
   resetPasswordUser,
   suspendUser,
 } from "../../service/userDetailApi";
+import UserForm from "../forms/UserForm";
 
 function UserTable({ edit, onClickHandler, userList }) {
   const navigate = useNavigate();
@@ -38,7 +38,7 @@ function UserTable({ edit, onClickHandler, userList }) {
       toast.success("user   status updated successfully");
       queryClient.invalidateQueries("users");
     },
-    onError:()=>{
+    onError: () => {
       toast.error('unable to update user status')
     },
   });
@@ -50,7 +50,7 @@ function UserTable({ edit, onClickHandler, userList }) {
 
       queryClient.invalidateQueries("users");
     },
-    onError:()=>{
+    onError: () => {
       toast.error('unable to reset password user')
     },
   });
@@ -61,7 +61,7 @@ function UserTable({ edit, onClickHandler, userList }) {
       toast.success("user deleted successfully");
       queryClient.invalidateQueries("users");
     },
-    onError:()=>{
+    onError: () => {
       toast.error('unable to delete user')
     }
   });
@@ -82,19 +82,22 @@ function UserTable({ edit, onClickHandler, userList }) {
     { field: "username", headerName: "Username", width: 70, flex: 3 },
     { field: "first_name", headerName: "First name", width: 70, flex: 3 },
     { field: "last_name", headerName: "Last name", width: 70, flex: 3 },
-    { field: "dept", headerName: "Departement", width: 70, flex: 3 },
     { field: "email", headerName: "Email", width: 70, flex: 4 },
+    { field: "role", headerName: "Role", width: 70, flex: 2 },
+    {
+      field: "user_profile.dept",
+      headerName: "Departement",
+      width: 70,
+      flex: 3,
+      valueGetter: (value, row) => `${row.user_profile?.dept || 'not filled'}`
+    },
     {
       field: "is_active",
       headerName: "Active",
-      renderCell: ({ row }) => {
-        return <>{row?.is_active ? <PersonIcon /> : <PersonOffIcon />}</>;
-      },
-
+      renderCell: ({ row }) => (row?.is_active ? <PersonIcon /> : <PersonOffIcon />),
       width: 70,
       flex: 2,
     },
-    { field: "role", headerName: "Role", width: 70, flex: 2 },
     {
       field: "actions",
       type: "actions",

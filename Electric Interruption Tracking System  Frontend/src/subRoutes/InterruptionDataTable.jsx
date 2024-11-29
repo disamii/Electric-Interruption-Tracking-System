@@ -1,13 +1,16 @@
 import React from "react";
-import Intro from "../component/adminComponent/Intro";
-import StatsOverview from "../component/adminComponent/StatsOverview";
-import { StatCard } from "../component/adminComponent/StatsOverview";
 import { TimelapseOutlined } from "@mui/icons-material";
 import { TableCellsIcon } from "@heroicons/react/24/solid";
-import InterruptionTable from "../component/adminComponent/InterruptionTable";
+import { useParams } from "react-router-dom";
+
+import Intro from "../component/UI/Intro";
+import StatsOverview,{ StatCard } from "../component/UI/StatusOverview";
+import InterruptionTable from "../component/tables/InterruptionTable";
 import useFetch from "../customHook/useFetch";
 import { convertToFormalDate } from "./ExpressDetail";
-import { useParams } from "react-router-dom";
+
+
+
 export default function InterruptionDataTable() {
   const { username } = useParams();
   const URL = username

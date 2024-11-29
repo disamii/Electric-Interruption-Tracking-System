@@ -1,26 +1,23 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import useFetch from "../customHook/useFetch";
-import Intro from "../component/adminComponent/Intro";
-import { useSelectHandler } from "../context/RouteContext";
-import StatsOverview from "../component/adminComponent/StatsOverview";
-import { StatCard } from "../component/adminComponent/StatsOverview";
 import { AdjustmentsHorizontalIcon } from "@heroicons/react/16/solid";
 import { HashtagIcon, RectangleStackIcon } from "@heroicons/react/24/outline";
 import { Timelapse } from "@mui/icons-material";
-import Barchart from "../component/adminComponent/Barchart";
 import {
   Card,
   Typography,
-  Textarea,
-  Button,
   Spinner,
-  Input,
 } from "@material-tailwind/react";
-import { parseDuration } from "./InterruptionSummary";
 import { ErrorOutline } from "@mui/icons-material";
-import InterruptionTable from "../component/adminComponent/InterruptionTable";
-import { NoteForm } from "../component/adminComponent/Notes";
+
+import useFetch from "../customHook/useFetch";
+import Intro from "../component/UI/Intro";
+import { useSelectHandler } from "../context/RouteContext";
+import StatsOverview ,{ StatCard } from "../component/UI/StatusOverview";
+import Barchart from "../component/charts/Barchart";
+import { parseDuration } from "./InterruptionSummary";
+import InterruptionTable from "../component/tables/InterruptionTable";
+import { NoteForm } from "../component/UI/Notes";
 
 //timestamp to  formal changer
 export function convertToFormalDate(isoTimestamp) {

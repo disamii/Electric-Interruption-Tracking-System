@@ -1,18 +1,16 @@
 import React, { useState } from "react";
-import Intro from "../component/adminComponent/Intro";
 import { Spinner, Typography, Card } from "@material-tailwind/react";
 import { useQuery } from "@tanstack/react-query";
 import { useParams } from "react-router-dom";
 
 
-import StatsOverview, {
-  StatCard,
-} from "../component/adminComponent/StatsOverview";
-import ServerErrorShowUp from "../component/ServerErrorShowUp";
-import UserForm from "../component/adminComponent/UserForm";
-import InterruptionTable from "../component/adminComponent/InterruptionTable";
-import Message from "../component/Message";
-import { BioGraphy } from "../component/Profile";
+import Intro from "../component/UI/Intro";
+import StatsOverview, {StatCard} from "../component/UI/StatusOverview";
+import ServerErrorShowUp from "../component/errors/ServerErrorShowUp";
+import UserForm from "../component/forms/UserForm";
+import InterruptionTable from "../component/tables/InterruptionTable";
+import Message from "../component/UI/Message";
+import { BioGraphy } from "../component/profiles/BioGraphy";
 import { getUser } from "../service/userDetailApi";
 
 export default function UserDetail() {

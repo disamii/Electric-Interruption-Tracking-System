@@ -1,19 +1,23 @@
 import React, { useEffect, useState } from "react";
-import Intro from "../component/adminComponent/Intro";
-import StatsOverview, {
-  StatCard,
-} from "../component/adminComponent/StatsOverview";
+import { ElectricBolt, TimelapseSharp } from "@mui/icons-material";
 import TagIcon from "@mui/icons-material/Tag";
 import { Typography } from "@material-tailwind/react";
-import { RightWidget, SelectOption } from "./ExpressDetail";
-import DoubleBarchart from "../component/adminComponent/DoubleBarchart";
-import useFetch from "../customHook/useFetch";
 import { DataGrid } from "@mui/x-data-grid";
-import DurationTable from "../component/adminComponent/DurationTable";
-import LineChart from "../component/adminComponent/Linechart";
-import Export from "../component/adminComponent/Export";
-import { ElectricBolt, TimelapseSharp } from "@mui/icons-material";
-import { NoteForm } from "../component/adminComponent/Notes";
+
+import Intro from "../component/UI/Intro";
+import StatsOverview, {StatCard} from "../component/UI/StatusOverview";
+import { RightWidget, SelectOption } from "./ExpressDetail";
+import DoubleBarchart from "../component/charts/DoubleBarchart";
+import useFetch from "../customHook/useFetch";
+import DurationTable from "../component/tables/DurationTable";
+import LineChart from "../component/charts/Linechart";
+import Export from "../component/UI/Export";
+import { NoteForm } from "../component/UI/Notes";
+
+
+
+
+
 
 const columns = [
   { field: "id", headerName: "ID", width: 70, flex: 1 },

@@ -10,12 +10,16 @@ import {
   MenuList,
 } from "@material-tailwind/react";
 import EditIcon from "@mui/icons-material/Edit";
-import { ArrowBack, Delete, Try } from "@mui/icons-material";
+import { ArrowBack, Delete } from "@mui/icons-material";
+import { Spinner } from "@material-tailwind/react";
+
 import useDelete from "../../customHook/useDelete";
 import useFetch from "../../customHook/useFetch";
-import { Spinner } from "@material-tailwind/react";
-import ServerErrorShowUp from "../ServerErrorShowUp";
-import InterputionDataForm from "../InterputionDataForm";
+import ServerErrorShowUp from "../errors/ServerErrorShowUp";
+import InterputionDataForm from "../forms/InterputionDataForm";
+
+
+
 export default function InterruptionTable({ year, express, onUpdate }) {
   
   let URL = `http://127.0.0.1:8000/interruption_data/interruptions/`;

@@ -1,7 +1,9 @@
 import React, { useState } from "react";
-import SideBar from "../component/adminComponent/SideBar";
-import NavBar from "../component/adminComponent/NavBar";
 import { Outlet } from "react-router-dom";
+
+import SideBar from "../component/navigation/SideBar";
+import NavBar from "../component/navigation/NavBar";
+
 
 export default function Admin() {
   const [collapsed, setCollapsed] = useState(false);

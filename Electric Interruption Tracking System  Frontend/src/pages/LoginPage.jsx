@@ -1,13 +1,12 @@
 import React from "react";
-import LoginForm from "../component/LoginForm";
+
+import LoginForm from "../component/forms/LoginForm";
 import whiterbg from "../assets/images/whiterbg.jpg";
-import ImageDisplayer from "../component/ImageDisplayer";
+import ImageDisplayer from "../component/UI/ImageDisplayer";
 
 
 
 export default function LoginPage() {
-
-
   return (
     <main className="main ">
       <ImageDisplayer />

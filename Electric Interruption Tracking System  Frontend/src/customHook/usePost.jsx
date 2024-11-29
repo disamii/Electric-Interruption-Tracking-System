@@ -16,7 +16,7 @@ export default function usePost() {
         method,
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`,
+          Authorization: `JWT ${token}`,
         },
         ...(values !== null && { body: JSON.stringify(values) }),
       };

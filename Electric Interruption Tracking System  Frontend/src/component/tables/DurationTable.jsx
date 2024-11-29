@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
-import useFetch from "../../customHook/useFetch";
 import { DataGrid } from "@mui/x-data-grid";
 import { Spinner, Typography } from "@material-tailwind/react";
-import ServerErrorShowUp from "../ServerErrorShowUp";
+
+import useFetch from "../../customHook/useFetch";
+import ServerErrorShowUp from "../errors/ServerErrorShowUp";
 
 export default function DurationTable({ curPeriod, prevPeriod }) {
   const [compareduration, setComparedDuration] = useState([]);

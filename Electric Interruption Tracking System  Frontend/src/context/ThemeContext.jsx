@@ -1,6 +1,6 @@
-import { createContext, useState, useMemo, useEffect } from "react";
+import { createContext, useState, useMemo} from "react";
 import { ThemeProvider } from "@material-tailwind/react";
-// import { useAuth } from "./AuthContext";
+
 export const ColorModeContext = createContext({
   toggleColorMode: () => {},
 });

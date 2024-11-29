@@ -1,13 +1,14 @@
-import React, { useContext, useState } from "react";
+import React from "react";
 import { Menu, MenuItem, Sidebar, SubMenu } from "react-pro-sidebar";
 import { Avatar, Typography } from "@material-tailwind/react";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { Dashboard, FeedOutlined, TableBarOutlined } from "@mui/icons-material";
 import DataThresholdingIcon from "@mui/icons-material/DataThresholding";
 import { UsersIcon } from "@heroicons/react/24/outline";
 import { UserPlusIcon } from "@heroicons/react/16/solid";
-import { useSelectHandler } from "../../context/RouteContext";
 import CycloneIcon from "@mui/icons-material/Cyclone";
+
+import { useSelectHandler } from "../../context/RouteContext";
 
 export default function SideBar({ collapsed, selectedInoutlet }) {
   const { selected, onSelectHandler } = useSelectHandler(); //side bar active handler

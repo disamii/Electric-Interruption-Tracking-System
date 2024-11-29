@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './IntroText.module.css'
+
 export default function IntroText() {
     return (
         <div className={`${styles.main} bg-[#10d1c4] !important`}>

@@ -1,9 +1,10 @@
 import React, { useMemo } from "react";
 import { Route, Routes, Navigate } from "react-router-dom";
+import { ThemeProvider } from "@material-tailwind/react";
+import { Toaster } from "react-hot-toast";
+
 import LoginPage from "./pages/LoginPage";
 import Home from "./pages/Home";
-import InterputionDataForm from "./component/InterputionDataForm";
-import ProtectedRoute from "./component/ProtectedRoute";
 import Admin from "./pages/Admin";
 import UserData from "./subRoutes/UserData";
 import Dashboard from "./subRoutes/Dashboard";
@@ -15,13 +16,14 @@ import Unauthorized from "./pages/UnAuthorized";
 import PageNotFound from "./pages/PageNotFound";
 import UserDetail from "./subRoutes/UserDetail";
 import Chat from "./subRoutes/Chat";
-import Message from "./component/Message";
 import { ColorModeContext, useMode } from "./theme";
-import { ThemeProvider } from "@material-tailwind/react";
-import { BioGraphy } from "./component/Profile";
-import Notification from "./component/adminComponent/Notification";
-import Notes from "./component/adminComponent/Notes";
-import { Toaster } from "react-hot-toast";
+
+import ProtectedRoute from "./component/auth/ProtectedRoute";
+import Message from "./component/UI/Message";
+import InterputionDataForm from "./component/forms/InterputionDataForm";
+import { BioGraphy } from "./component/profiles/BioGraphy";
+import Notification from "./component/UI/Notification";
+import Notes from "./component/UI/Notes";
 
 export default function App() {
   const [theme, colorMode, themeSettings, mode] = useMode();

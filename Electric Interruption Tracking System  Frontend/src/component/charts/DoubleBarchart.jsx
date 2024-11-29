@@ -8,9 +8,10 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import useFetch from "../../customHook/useFetch";
 import { Spinner, Typography } from "@material-tailwind/react";
-import ServerErrorShowUp from "../ServerErrorShowUp";
+
+import useFetch from "../../customHook/useFetch";
+import ServerErrorShowUp from "../errors/ServerErrorShowUp";
 
 export default function DoubleBarchart({ curPeriod, prevPeriod }) {
   const [curData, setCurData] = useState([]);

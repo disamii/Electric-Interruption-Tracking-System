@@ -5,12 +5,17 @@ import { Input, Typography, Button, Spinner } from "@material-tailwind/react";
 import { useQueryClient, useMutation } from "@tanstack/react-query";
 import { useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
+
 import { createUser, updateUser } from "../../service/userDetailApi";
-import GoBack from '../GoBack'
-const URL = "http://127.0.0.1:8000/accounts/user/";
+import GoBack from '../UI/GoBack'
+
+
 
 export default function UserForm({ initialValueProps }) {
-  const isEditing = initialValueProps ? true : false;
+  
+  const 
+  
+  isEditing = initialValueProps ? true : false;
   const navigate = useNavigate();
 
   const queryClient = useQueryClient();
@@ -32,46 +37,52 @@ export default function UserForm({ initialValueProps }) {
   const initialValues = initialValueProps
     ? initialValueProps
     : {
+        username:"",
         first_name: "",
         last_name: "",
+        role: "user",
+        email: "",
+        user_profile:{
         grand_father_name: "",
         dept: "",
         sub_dept: "",
-        email: "",
         phone_number: "",
-        role: "user",
+        }
       };
 
-  const validationSchema = Yup.object({
-    first_name: Yup.string().required("First name is required"),
-    last_name: Yup.string().required("Last name is required"),
-    grand_father_name: Yup.string().required("Grandfather name is required"),
-    dept: Yup.string().required("Department is required"),
-    // sub_dept: Yup.string().required("Sub-department is required"),
-    email: Yup.string()
-      .email("Invalid email format")
-      .matches(
-        /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/,
-        "Enter a valid email address"
-      )
-      .required("Email is required"),
-    phone_number: Yup.string()
-      .matches(
-        /^\+\d{12}$/,
-        "Phone number must be in the format +251908897321, with exactly 12 digits following the + sign"
-      )
-
-      .required("Phone number is required"),
-    role: Yup.string().required("Role is required"),
-  });
-
+      const validationSchema = Yup.object({
+        username: Yup.string().required("Username is required"),
+        first_name: Yup.string().required("First name is required"),
+        last_name: Yup.string().required("Last name is required"),
+        role: Yup.string().required("Role is required"),
+        email: Yup.string()
+          .email("Invalid email format")
+          .matches(
+            /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/,
+            "Enter a valid email address"
+          )
+          .required("Email is required"),
+        user_profile: Yup.object().shape({
+          grand_father_name: Yup.string().required("Grandfather name is required"),
+          dept: Yup.string().required("Department is required"),
+          sub_dept: Yup.string().required("Sub-department is required"),
+          phone_number: Yup.string()
+            .matches(
+              /^\+\d{12}$/,
+              "Phone number must be in the format +251908897321, with exactly 12 digits following the + sign"
+            )
+            .required("Phone number is required"),
+        }),
+      });
+      
   const handleCancel = () => {
     if (isEditing) onClickHandler();
     else navigate("/admin/dashboard");
   };
 
+  
   const onSubmitHandler = async (values, { setSubmitting, resetForm }) => {
-
+  console.log(values)
     setSubmitting(true);
     try {
       if (isEditing) {
@@ -93,6 +104,8 @@ export default function UserForm({ initialValueProps }) {
     }
   };
 
+
+
   return (
     <Formik
       validationSchema={validationSchema}
@@ -108,14 +121,14 @@ export default function UserForm({ initialValueProps }) {
         handleChange,
         isSubmitting,
       }) => (
-        <Form className=" flex flex-col  gap-[1rem] w-full my-[2rem]  ">
+
+        <Form className=" flex flex-col  gap-[1rem] w-full my-[2rem] ">
           <div className=" col-span-3  px-[1rem] rounded-lg border-b-2 border-[#0000006b] dark:border-customColor-light-400  ">
             <Typography className=" dark:text-customColor-light-100">
               Complete Name
             </Typography>
           </div>
           <div className="  flex justify-between gap-[1rem]  flex-wrap">
-            {values.username && (
               <div>
                 <Typography className="">Username</Typography>
                 <Input
@@ -133,7 +146,7 @@ export default function UserForm({ initialValueProps }) {
                   <ErrorMessage name="username" />
                 </small>
               </div>
-            )}
+
             <div>
               <Typography className=" dark:text-customColor-light-300">
                 First Name
@@ -177,20 +190,20 @@ export default function UserForm({ initialValueProps }) {
                 Grandfather Name
               </Typography>
               <Input
-                name="grand_father_name"
+                name="user_profile.grand_father_name"
                 onBlur={handleBlur}
                 error={
-                  !!errors.grand_father_name && !!touched.grand_father_name
+                  !!errors.user_profile?.grand_father_name && !!touched.user_profile?.grand_father_name
                 }
                 onChange={handleChange}
-                value={values.grand_father_name}
+                value={values.user_profile?.grand_father_name}
                 className=" !border-t-blue-gray-200 focus:!border-t-gray-900 w-max flex-grow min-w-[15rem]  dark:focus:bg-customColor-dark-200 dark:focus:text-black dark:text-white"
                 labelProps={{
                   className: "before:content-none after:content-none",
                 }}
               />
               <small className=" text-[red]">
-                <ErrorMessage name="grand_father_name" />
+                <ErrorMessage name="user_profile.grand_father_name" />
               </small>
             </div>
           </div>
@@ -206,18 +219,18 @@ export default function UserForm({ initialValueProps }) {
                 Department
               </Typography>
               <Input
-                name="dept"
+                name="user_profile.dept"
                 onBlur={handleBlur}
-                error={!!errors.dept && !!touched.dept}
+                error={!!errors.user_profile?.dept && !!touched.user_profile?.dept}
                 onChange={handleChange}
-                value={values.dept}
+                value={values.user_profile?.dept}
                 className=" !border-t-blue-gray-200 focus:!border-t-gray-900  dark:focus:bg-customColor-dark-200 dark:focus:text-black dark:text-white"
                 labelProps={{
                   className: "before:content-none after:content-none",
                 }}
               />
               <small className=" text-[red]">
-                <ErrorMessage name="dept" />
+                <ErrorMessage name="user_profile.dept" />
               </small>
             </div>
             <div className="flex-1">
@@ -225,18 +238,18 @@ export default function UserForm({ initialValueProps }) {
                 Sub-Department
               </Typography>
               <Input
-                name="sub_dept"
+                name="user_profile.sub_dept"
                 onBlur={handleBlur}
-                error={!!errors.sub_dept && !!touched.sub_dept}
+                error={!!errors.user_profile?.sub_dept && !!touched.user_profile?.sub_dept}
                 onChange={handleChange}
-                value={values.sub_dept}
+                value={values.user_profile?.sub_dept}
                 className=" !border-t-blue-gray-200 focus:!border-t-gray-900  dark:focus:bg-customColor-dark-200 dark:focus:text-black dark:text-white"
                 labelProps={{
                   className: "before:content-none after:content-none",
                 }}
               />
               <small className=" text-[red]">
-                <ErrorMessage name="sub_dept" />
+                <ErrorMessage name="user_profile.sub_dept" />
               </small>
             </div>
           </div>
@@ -273,18 +286,18 @@ export default function UserForm({ initialValueProps }) {
                     Phone Number
                   </Typography>
                   <Input
-                    name="phone_number"
+                    name="user_profile.phone_number"
                     onBlur={handleBlur}
-                    error={!!errors.phone_number && !!touched.phone_number}
+                    error={!!errors.user_profile?.phone_number && !!touched.user_profile?.phone_number}
                     onChange={handleChange}
-                    value={values.phone_number}
+                    value={values.user_profile?.phone_number}
                     className=" !border-t-blue-gray-200 focus:!border-t-gray-900  dark:focus:bg-customColor-dark-200 dark:focus:text-black dark:text-white"
                     labelProps={{
                       className: "before:content-none after:content-none",
                     }}
                   />
                   <small className=" text-[red]">
-                    <ErrorMessage name="phone_number" />
+                    <ErrorMessage name="user_profile.phone_number" />
                   </small>
                 </div>
               </div>
@@ -315,12 +328,10 @@ export default function UserForm({ initialValueProps }) {
                       selected
                       className="dark:text-customColor-light-300"
                     >
-                      User
+                      Employee
                     </option>
                     <option value="admin"> Admin</option>
                     <option value="super_admin"> Super Admin</option>
-                    <option value="team_leader">Team Leader</option>
-                    <option value="SuperViser">SuperViser</option>
                   </Field>
                 </div>
                 <small className=" text-[red] text-center">

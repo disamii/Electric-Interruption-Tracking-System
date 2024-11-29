@@ -1,21 +1,10 @@
-import toast from "react-hot-toast";
 
 const dateYear = new Date().getFullYear();
 const currentMonth = new Date().getMonth() + 1;
 const CurrentPeriod = currentMonth <= 6 ? 1 : 2;
 const InterruptionURL = `http://127.0.0.1:8000/interruption_data/interruptions/?year=${dateYear}`;
 
-export function getToken() {
-  try {
-    const token = localStorage.getItem("accessToken");
-    if (!token) {
-      throw new Error("Token not found");
-    }
-    return token;
-  } catch (error) {
-    toast.error("Session expired. Please log in again.");
-  }
-}
+
 export async function expressInterruptionData(express, year = dateYear) {
   const token = getToken();
   if (token)
@@ -23,7 +12,7 @@ export async function expressInterruptionData(express, year = dateYear) {
       const resp = await fetch(InterruptionURL, {
         method: "GET",
         headers: {
-          authorization: `bearer ${token}`,
+          authorization: `JWT ${token}`,
           "Content-Type": "Application/json",
         },
       });
@@ -46,7 +35,7 @@ export async function interruptionDataSummary(
       const resp = await fetch(InterruptionSummaryURL, {
         method: "GET",
         headers: {
-          authorization: `bearer ${token}`,
+          authorization: `JWT ${token}`,
           "Content-Type": "Application/json",
         },
       });

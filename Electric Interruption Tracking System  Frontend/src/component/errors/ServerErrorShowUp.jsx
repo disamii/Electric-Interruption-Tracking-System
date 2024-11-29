@@ -1,7 +1,8 @@
 import { ExclamationTriangleIcon } from "@heroicons/react/20/solid";
 import { useLocation, useNavigate} from "react-router-dom";
 import React, { useEffect } from "react";
-import { useAuth } from "../context/AuthContext";
+
+import { useAuth } from "../../context/AuthContext";
 
 
 const handleError = (error) => {

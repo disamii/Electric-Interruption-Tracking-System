@@ -1,7 +1,5 @@
 import { ArrowDropDown, ArrowDropUp, Delete, Edit } from "@mui/icons-material";
 import React, { useState, useEffect } from "react";
-import useFetch from "../../customHook/useFetch";
-import ServerErrorShowUp from "../ServerErrorShowUp";
 import {
   Collapse,
   IconButton,
@@ -13,8 +11,11 @@ import {
 } from "@material-tailwind/react";
 import { Form, Formik } from "formik";
 import * as Yup from "yup";
+
 import usePost from "../../customHook/usePost";
 import useDelete from "../../customHook/useDelete";
+import useFetch from "../../customHook/useFetch";
+import ServerErrorShowUp from "../errors/ServerErrorShowUp";
 
 export function NoteForm({ topic, toBeEdited, onUpdate, setTobeEdited }) {
   const { setPost } = usePost();

@@ -9,9 +9,10 @@ import {
   Legend,
   ResponsiveContainer,
 } from "recharts";
-import ServerErrorShowUp from "../ServerErrorShowUp";
-import { Spinner } from "@material-tailwind/react";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
+import { Spinner } from "@material-tailwind/react";
+
+import ServerErrorShowUp from "../errors/ServerErrorShowUp";
 import { interruptionDataSummary } from "../../service/InterruptionAPI";
 
 const dateYear = new Date().getFullYear();

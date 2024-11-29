@@ -25,7 +25,7 @@ const notifications = [
   export default function Notification() {
   return (
     <div>
-      
+      comig soon
     </div>
   )
 }

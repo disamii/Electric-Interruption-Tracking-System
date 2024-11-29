@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
 import { Close } from "@mui/icons-material";
-import ServerErrorShowUp from "../component/ServerErrorShowUp";
 import { ErrorMessage, Field, Form, Formik } from "formik";
 import { Button, Spinner } from "@material-tailwind/react";
 import * as Yup from "yup";
 import usePost from "../customHook/usePost";
 
+import ServerErrorShowUp from "../component/errors/ServerErrorShowUp";
 const URL = "http://127.0.0.1:8000/accounts/change_password/";
 
 const initialValues = {

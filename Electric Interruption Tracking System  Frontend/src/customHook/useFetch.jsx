@@ -15,7 +15,7 @@ export default function useFetch(URL) {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`,
+          Authorization: `JWT ${token}`,
 
         },
       });

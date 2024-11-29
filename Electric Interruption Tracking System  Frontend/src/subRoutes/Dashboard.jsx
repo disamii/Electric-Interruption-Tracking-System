@@ -1,14 +1,14 @@
 import React, { useMemo } from "react";
-import { NoteForm } from "../component/adminComponent/Notes";
 import { useQuery } from "@tanstack/react-query";
 import { Typography } from "@material-tailwind/react";
 import { countBy } from "lodash";
 
 
+import { NoteForm } from "../component/UI/Notes";
 import { RightWidget } from "./ExpressDetail";
-import StatsOverview, {StatCard,} from "../component/adminComponent/StatsOverview";
-import Intro from "../component/adminComponent/Intro";
-import Linechart from "../component/adminComponent/Linechart";
+import StatsOverview, {StatCard,} from "../component/UI/StatusOverview";
+import Intro from "../component/UI/Intro";
+import Linechart from "../component/charts/Linechart";
 import { userFetch } from "../service/userDetailApi";
 
 

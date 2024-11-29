@@ -8,11 +8,10 @@ import _ ,{ countBy } from "lodash";
 
 
 import { userFetch } from "../service/userDetailApi";
-import { StatCard } from "../component/adminComponent/StatsOverview";
-import ServerErrorShowUp from "../component/ServerErrorShowUp";
-import StatsOverview from "../component/adminComponent/StatsOverview";
-import Intro from "../component/adminComponent/Intro";
-import UserTable from "../component/adminComponent/UserTable";
+import StatsOverview, { StatCard } from "../component/UI/StatusOverview";
+import ServerErrorShowUp from "../component/errors/ServerErrorShowUp";
+import Intro from "../component/UI/Intro";
+import UserTable from "../component/tables/UserTable";
 
 
 export default function UserData() {

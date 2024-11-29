@@ -2,12 +2,12 @@ import React from "react";
 import { Button, Spinner } from "@material-tailwind/react";
 import { ErrorMessage, Field, Formik, Form } from "formik";
 import * as Yup from "yup";
-import ServerErrorShowUp from "./ServerErrorShowUp";
-import { useAuth } from "../context/AuthContext";
+
+import { useAuth } from "../../context/AuthContext";
 
 const intialState = {
   username: "disami",
-  password: "disami",
+  password: "disamiabcd",
 };
 const loginShema = Yup.object().shape({
   username: Yup.string().required("user name cant be empty"),
@@ -76,7 +76,6 @@ export default function LoginForm() {
               <small className=" underline ml-auto">
                 forgot your password?
               </small>
-
               <Button
                 type="submit"
                 disabled={isSubmitting}

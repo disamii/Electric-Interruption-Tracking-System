@@ -16,7 +16,7 @@ export default function useDelete() {
         method: "DELETE",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`,
+          Authorization: `JWT ${token}`,
         },
       });
 

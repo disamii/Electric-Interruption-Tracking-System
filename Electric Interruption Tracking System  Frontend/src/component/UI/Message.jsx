@@ -1,14 +1,15 @@
 import React, { useState, useEffect, useRef } from "react";
-import useFetch from "../customHook/useFetch";
 import { useParams } from "react-router-dom";
 import { IconButton, Spinner } from "@material-tailwind/react";
-import ServerErrorShowUp from "../component/ServerErrorShowUp";
+import ServerErrorShowUp from "../errors/ServerErrorShowUp";
 import { Edit } from "@mui/icons-material";
 import SendIcon from "@mui/icons-material/Send";
-import { useAuth } from "../context/AuthContext";
 import { Form, Formik } from "formik";
 import * as Yup from "yup";
-import usePost from "../customHook/usePost";
+
+import useFetch from "../../customHook/useFetch";
+import { useAuth } from "../../context/AuthContext";
+import usePost from "../../customHook/usePost";
 
 
 export default function Message() {

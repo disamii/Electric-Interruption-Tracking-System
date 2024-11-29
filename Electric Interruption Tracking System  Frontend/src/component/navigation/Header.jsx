@@ -1,9 +1,4 @@
 import React, { useState, useEffect } from "react";
-import logo from "../assets/images/outputLogo.png";
-import { ChangePasswordSuggest } from "../pages/PasswordChanger";
-import ServerErrorShowUp from "./ServerErrorShowUp";
-import { useAuth } from "../context/AuthContext";
-
 import {
   Drawer,
   Navbar,
@@ -23,7 +18,14 @@ import {
   Person,
 } from "@mui/icons-material";
 import { useNavigate } from "react-router-dom";
-import UserProfile from "./Profile";
+
+import ServerErrorShowUp from "../errors/ServerErrorShowUp";
+import { useAuth } from "../../context/AuthContext";
+import { ChangePasswordSuggest } from "../../pages/PasswordChanger";
+import logo from "../../assets/images/outputLogo.png";
+import UserProfile from "../profiles/UserProfile";
+
+
 
 
 export default function Header({ onclickHandler, ispasswordchange }) {

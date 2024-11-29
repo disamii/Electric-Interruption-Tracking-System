@@ -1,6 +1,7 @@
 import React, {  useState } from "react";
-import Header from "../component/Header";
 import { Outlet } from "react-router-dom";
+
+import Header from "../component/navigation/Header";
 import PasswordChanger from "./PasswordChanger";
 
 export default function Home() {
