@@ -2778,3 +2778,4 @@
 239-4 - Gain Insights Six Month Report - Ethiopian Electric Interruption Tracking System
 239-5 - Improve Efficiencies Issue Reporter UI - Ethiopian Electric Interruption Tracking System
 240-1 - Iterate Adjustments Info Viewer - Ethiopian Electric Interruption Tracking System
+240-2 - Understand Principles Database - Ethiopian Electric Interruption Tracking System
