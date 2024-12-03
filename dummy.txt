@@ -2782,3 +2782,4 @@
 240-3 - Document Obs Methodology Docs - Ethiopian Electric Interruption Tracking System
 240-4 - Write Guides Feeder Line Tracking - Ethiopian Electric Interruption Tracking System
 241-1 - Visualize Contrast Booster - Ethiopian Electric Interruption Tracking System
+241-2 - Migrate Digital Screen Optimizer - Ethiopian Electric Interruption Tracking System
