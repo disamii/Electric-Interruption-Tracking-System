@@ -2788,3 +2788,4 @@
 242-1 - Edit Profiles Association Definer - Ethiopian Electric Interruption Tracking System
 242-2 - Action Follow Ups Account Deleter - Ethiopian Electric Interruption Tracking System
 242-3 - Share Infos Tracker Effectiver - Ethiopian Electric Interruption Tracking System
+242-4 - Build Reports Analytics - Ethiopian Electric Interruption Tracking System
