@@ -2785,3 +2785,4 @@
 241-2 - Migrate Digital Screen Optimizer - Ethiopian Electric Interruption Tracking System
 241-3 - List Tables MySQL Schema - Ethiopian Electric Interruption Tracking System
 241-4 - Generate Tables Response Receiver - Ethiopian Electric Interruption Tracking System
+242-1 - Edit Profiles Association Definer - Ethiopian Electric Interruption Tracking System
