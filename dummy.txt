@@ -2790,3 +2790,4 @@
 242-3 - Share Infos Tracker Effectiver - Ethiopian Electric Interruption Tracking System
 242-4 - Build Reports Analytics - Ethiopian Electric Interruption Tracking System
 242-5 - Form Submissions Request Deleter - Ethiopian Electric Interruption Tracking System
+242-6 - Enforce Standards System Manager - Ethiopian Electric Interruption Tracking System
