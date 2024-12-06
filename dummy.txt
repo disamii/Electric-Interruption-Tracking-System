@@ -2796,3 +2796,4 @@
 244-2 - Validate Total Interruption Counter - Ethiopian Electric Interruption Tracking System
 244-3 - Timer Entries Edit Requester - Ethiopian Electric Interruption Tracking System
 244-4 - Build Reports Configuration Participant - Ethiopian Electric Interruption Tracking System
+244-5 - Identify Areas Response Receiver - Ethiopian Electric Interruption Tracking System
