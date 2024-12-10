@@ -2798,3 +2798,4 @@
 244-4 - Build Reports Configuration Participant - Ethiopian Electric Interruption Tracking System
 244-5 - Identify Areas Response Receiver - Ethiopian Electric Interruption Tracking System
 244-6 - Logic Server Side Performance Analyzer - Ethiopian Electric Interruption Tracking System
+246-1 - Insight Causes Time Durator - Ethiopian Electric Interruption Tracking System
