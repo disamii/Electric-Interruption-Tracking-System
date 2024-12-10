@@ -2800,3 +2800,4 @@
 244-6 - Logic Server Side Performance Analyzer - Ethiopian Electric Interruption Tracking System
 246-1 - Insight Causes Time Durator - Ethiopian Electric Interruption Tracking System
 246-2 - Benchmark UML Entity Mapper - Ethiopian Electric Interruption Tracking System
+246-3 - Refactor Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
