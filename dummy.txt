@@ -2801,3 +2801,4 @@
 246-1 - Insight Causes Time Durator - Ethiopian Electric Interruption Tracking System
 246-2 - Benchmark UML Entity Mapper - Ethiopian Electric Interruption Tracking System
 246-3 - Refactor Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
+247-1 - Record Actions Secure Access Gate - Ethiopian Electric Interruption Tracking System
