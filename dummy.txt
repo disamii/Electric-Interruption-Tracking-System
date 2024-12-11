@@ -2808,3 +2808,4 @@
 247-5 - Break Feeders Login Page Renderer - Ethiopian Electric Interruption Tracking System
 247-6 - Log Experience Deepener - Ethiopian Electric Interruption Tracking System
 247-7 - Timer Entries Metric Card Displayer - Ethiopian Electric Interruption Tracking System
+247-8 - Logic Server Side Line Graph Trends - Ethiopian Electric Interruption Tracking System
