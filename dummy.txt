@@ -2804,3 +2804,4 @@
 247-1 - Record Actions Secure Access Gate - Ethiopian Electric Interruption Tracking System
 247-2 - Develop Data Storage Manager - Ethiopian Electric Interruption Tracking System
 247-3 - Build Reports System Architecture - Ethiopian Electric Interruption Tracking System
+247-4 - Document Process Power Outage Tracker - Ethiopian Electric Interruption Tracking System
