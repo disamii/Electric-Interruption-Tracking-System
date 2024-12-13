@@ -2815,3 +2815,4 @@
 249-2 - Validate Credentials Automated Alerts - Ethiopian Electric Interruption Tracking System
 249-3 - Integrate Features Efficiency Operational Enhancer - Ethiopian Electric Interruption Tracking System
 249-4 - Log Authentication - Ethiopian Electric Interruption Tracking System
+249-5 - Invest Upgrades Data Summary - Ethiopian Electric Interruption Tracking System
