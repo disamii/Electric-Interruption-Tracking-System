@@ -2818,3 +2818,4 @@
 249-5 - Invest Upgrades Data Summary - Ethiopian Electric Interruption Tracking System
 250-1 - Query WAN Setup - Ethiopian Electric Interruption Tracking System
 250-2 - Receive Responses Branch Remote Connector - Ethiopian Electric Interruption Tracking System
+250-3 - Specify Hardware Info Safeguarder - Ethiopian Electric Interruption Tracking System
