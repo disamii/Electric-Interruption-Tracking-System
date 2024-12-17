@@ -2826,3 +2826,4 @@
 251-4 - Manage Datas Info Viewer - Ethiopian Electric Interruption Tracking System
 251-5 - Affect Lines Incident Lister - Ethiopian Electric Interruption Tracking System
 251-6 - Ongoing Train Network Integration - Ethiopian Electric Interruption Tracking System
+251-7 - View Profile Time Durator - Ethiopian Electric Interruption Tracking System
