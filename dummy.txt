@@ -2822,3 +2822,4 @@
 250-4 - Enhance Git Version Control - Ethiopian Electric Interruption Tracking System
 251-1 - Track Counts Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 251-2 - Record Durations Reason Chart Builder - Ethiopian Electric Interruption Tracking System
+251-3 - Track Infos Analytics Predictor - Ethiopian Electric Interruption Tracking System
