@@ -2830,3 +2830,4 @@
 252-1 - Orchestrate Containers Username Generator - Ethiopian Electric Interruption Tracking System
 252-2 - Debug Data Communicator - Ethiopian Electric Interruption Tracking System
 252-3 - Integrate Data Historical Baser - Ethiopian Electric Interruption Tracking System
+252-4 - Upload Employee Trainer Ongoing - Ethiopian Electric Interruption Tracking System
