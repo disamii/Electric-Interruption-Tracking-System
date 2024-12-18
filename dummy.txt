@@ -2833,3 +2833,4 @@
 252-4 - Upload Employee Trainer Ongoing - Ethiopian Electric Interruption Tracking System
 252-5 - Identify Frequencies Request Deleter - Ethiopian Electric Interruption Tracking System
 252-6 - Link Insights Primary Actor Handler - Ethiopian Electric Interruption Tracking System
+252-7 - Identify Areas Password Resetter - Ethiopian Electric Interruption Tracking System
