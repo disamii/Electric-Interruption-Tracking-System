@@ -2828,3 +2828,4 @@
 251-6 - Ongoing Train Network Integration - Ethiopian Electric Interruption Tracking System
 251-7 - View Profile Time Durator - Ethiopian Electric Interruption Tracking System
 252-1 - Orchestrate Containers Username Generator - Ethiopian Electric Interruption Tracking System
+252-2 - Debug Data Communicator - Ethiopian Electric Interruption Tracking System
