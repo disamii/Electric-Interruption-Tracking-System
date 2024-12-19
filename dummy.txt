@@ -2835,3 +2835,4 @@
 252-6 - Link Insights Primary Actor Handler - Ethiopian Electric Interruption Tracking System
 252-7 - Identify Areas Password Resetter - Ethiopian Electric Interruption Tracking System
 253-1 - Secure User Count Tracker - Ethiopian Electric Interruption Tracking System
+253-2 - Reset Pass Account Setup Streamliner - Ethiopian Electric Interruption Tracking System
