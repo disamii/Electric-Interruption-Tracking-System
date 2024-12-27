@@ -2850,3 +2850,4 @@
 258-3 - Design Interface Trend Visualizer - Ethiopian Electric Interruption Tracking System
 258-4 - Seamless Interact Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
 259-1 - Automate Insight Provider - Ethiopian Electric Interruption Tracking System
+259-2 - Duration Times Suspension Monitor - Ethiopian Electric Interruption Tracking System
