@@ -2852,3 +2852,4 @@
 259-1 - Automate Insight Provider - Ethiopian Electric Interruption Tracking System
 259-2 - Duration Times Suspension Monitor - Ethiopian Electric Interruption Tracking System
 259-3 - Delete Users Disruption Optimizer - Ethiopian Electric Interruption Tracking System
+259-4 - Build Reports Security Measurer - Ethiopian Electric Interruption Tracking System
