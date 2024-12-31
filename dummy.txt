@@ -2859,3 +2859,4 @@
 260-3 - Structure Feedback Collector - Ethiopian Electric Interruption Tracking System
 261-1 - Visualize Trends Methodology Testing Software Art - Ethiopian Electric Interruption Tracking System
 261-2 - Facilitate Software Installer - Ethiopian Electric Interruption Tracking System
+261-3 - Install Software Analytics Predictor - Ethiopian Electric Interruption Tracking System
