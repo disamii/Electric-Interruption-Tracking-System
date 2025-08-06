@@ -88,10 +88,11 @@ DATABASES = {
         'NAME': 'electricinterruption',                   
         'USER': 'root',                   
         'PASSWORD': 'disSAMI!123',           
-        'HOST': 'localhost',                      
+        'HOST': 'db',
         'PORT': '3306',                           
     }
 }
+
 
 
 
