@@ -2,9 +2,11 @@
 FROM node:22.14.0
 
 WORKDIR /app
+# Inside Dockerfile before npm install
+RUN rm -rf node_modules 
 
 # Copy package files and install deps
-COPY package.json package-lock.json ./
+COPY package.json  ./
 RUN npm install --legacy-peer-deps
 
 # Copy all source code
