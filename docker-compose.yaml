@@ -1,0 +1,48 @@
+services:
+  backend:
+    build: ./backend
+    container_name: EITS_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./EITS_backend/accounts/migrations:/app/accounts/migrations
+      - ./EITS_backend/interruption_data/migrations:/app/interruption_data/migrations
+      - ./EITS_backend/organizational_structure/migrations:/app/organizational_structure/migrations
+      - ./EITS_backend/messaging/migrations:/app/messaging/migrations
+      - ./EITS_backend/note/migrations:/app/noterepository/migrations
+      - ./EITS_backend/media:/app/media
+    develop:
+      watch:
+        - action: sync
+          path: ./EITS_backend
+          target: /app
+        - action: rebuild
+          path: ./EITS_backend/requirements.txt
+        - action: rebuild
+          path: ./EITS_backend/manage.py
+
+
+
+  frontend:
+    build: ./frontend
+    container_name: EITS_frontend
+    ports:
+      - "5173:5173"
+    stdin_open: true
+    tty: true
+    develop:
+      watch:
+        - action: sync
+          path: ./EITS_frontend
+          target: /app
+          ignore:
+            - node_modules/
+        - action: rebuild
+          path: ./EITS_frontend/package.json
+        - action: rebuild
+          path: ./EITS_frontend/tailwind.config.js
+        - action: rebuild
+          path: ./EITS_frontend/postcss.config.js
+        - action: rebuild
+          path: ./EITS_frontend/vite.config.ts
+
