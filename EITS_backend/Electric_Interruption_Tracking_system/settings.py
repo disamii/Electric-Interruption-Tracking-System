@@ -1,9 +1,19 @@
 import os
 from pathlib import Path
 from datetime import timedelta
+import platform
 
 
-GDAL_LIBRARY_PATH = os.getenv("GDAL_LIBRARY_PATH", r"C:\OSGeo4W\bin\gdal309.dll")
+if platform.system() == "Windows":
+    GDAL_LIBRARY_PATH = os.getenv("GDAL_LIBRARY_PATH", r"C:\OSGeo4W\bin\gdal309.dll")
+else:
+    linux_gdal_path = "/usr/lib/x86_64-linux-gnu/libgdal.so"
+    if not os.path.exists(linux_gdal_path):
+        linux_gdal_path = "/usr/lib/libgdal.so"
+    GDAL_LIBRARY_PATH = os.getenv("GDAL_LIBRARY_PATH", linux_gdal_path)
+
+if platform.system() != "Windows":
+    GEOS_LIBRARY_PATH = os.getenv("GEOS_LIBRARY_PATH", "/usr/lib/x86_64-linux-gnu/libgeos_c.so")
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 

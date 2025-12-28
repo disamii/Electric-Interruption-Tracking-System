@@ -1,21 +1,23 @@
-# Use Node image
 FROM node:18
-
-# Set work directory
 WORKDIR /app
 
-# Install dependencies
+# Copy package files
 COPY package*.json ./
+
+# Install dependencies (do NOT skip optional for esbuild)
 RUN npm install
+
+# Install Rollup binary if needed
+RUN npm install @rollup/rollup-linux-x64-gnu
 
 # Copy project files
 COPY . .
 
-# Build production (optional)
+# Build production
 RUN npm run build
 
-# Expose port (adjust if needed)
-EXPOSE 3000
+# Expose Vite port
+EXPOSE 5173
 
-# Run dev server (adjust for your project)
-CMD ["npm", "start"]
+# Run dev server
+CMD ["npm", "run", "dev"]

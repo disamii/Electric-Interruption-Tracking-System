@@ -1,21 +1,47 @@
-version: '3'
-
 services:
   backend:
     build: ./EITS_backend
+    container_name: EITS_backend
     ports:
       - "8000:8000"
     volumes:
-      - ./EITS_backend:/app
+      - ./EITS_backend/accounts/migrations:/app/accounts/migrations
+      - ./EITS_backend/Electric_Line/migrations:/app/Electric_Line/migrations
+      - ./EITS_backend/Interruption/migrations:/app/Interruption/migrations
+      - ./EITS_backend/messaging/migrations:/app/messaging/migrations
+      - ./EITS_backend/note/migrations:/app/note/migrations
+      - ./EITS_backend/media:/app/media
     depends_on:
       - db
-
+    develop:
+      watch:
+        - action: sync
+          path: ./EITS_backend
+          target: /app
+        - action: rebuild
+          path: ./EITS_backend/requirements.txt
+        - action: rebuild
+          path: ./EITS_backend/manage.py
   frontend:
     build: ./EITS_frontend
+    container_name: EITS_frontend
     ports:
-      - "3000:3000"
-    volumes:
-      - ./EITS_frontend:/app
+      - "5173:5173"
+    develop:
+      watch:
+        - action: sync
+          path: ./EITS_frontend
+          target: /app
+          ignore:
+            - node_modules/
+        - action: rebuild
+          path: ./EITS_frontend/package.json
+        - action: rebuild
+          path: ./EITS_frontend/tailwind.config.js
+        - action: rebuild
+          path: ./EITS_frontend/postcss.config.js
+        - action: rebuild
+          path: ./EITS_frontend/vite.config.ts
 
   db:
     image: mysql:8.0

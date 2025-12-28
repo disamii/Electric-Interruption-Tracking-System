@@ -1,18 +1,32 @@
-# Use official Python image
-FROM python:3.10
+FROM python:3.10-slim
 
-# Set work directory
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
 WORKDIR /app
 
-# Install dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    binutils \
+    libproj-dev \
+    gdal-bin \
+    libgdal-dev \
+    build-essential \
+    default-libmysqlclient-dev \
+    && rm -rf /var/lib/apt/lists/*
 
-# Copy project files
+# FIX: Create symlink so Django finds libgdal.so where it expects it
+RUN ln -s /usr/lib/$(uname -m)-linux-gnu/libgdal.so /usr/lib/libgdal.so
+
+COPY requirements.txt .
+
+# Install GDAL Python bindings matching the system version
+RUN pip install --upgrade pip setuptools wheel && \
+    pip install GDAL==$(gdal-config --version) && \
+    pip install --no-cache-dir -r requirements.txt
+
 COPY . .
 
-# Expose port (change if needed)
 EXPOSE 8000
 
-# Run migrations & server (adjust for your project)
 CMD ["bash", "-c", "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"]
