@@ -5,12 +5,12 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./EITS_backend/accounts/migrations:/app/accounts/migrations
-      - ./EITS_backend/interruption_data/migrations:/app/interruption_data/migrations
-      - ./EITS_backend/organizational_structure/migrations:/app/organizational_structure/migrations
-      - ./EITS_backend/messaging/migrations:/app/messaging/migrations
-      - ./EITS_backend/note/migrations:/app/noterepository/migrations
-      - ./EITS_backend/media:/app/media
+      - ./backend/accounts/migrations:/app/accounts/migrations
+      - ./backend/interruption_data/migrations:/app/interruption_data/migrations
+      - ./backend/organizational_structure/migrations:/app/organizational_structure/migrations
+      - ./backend/messaging/migrations:/app/messaging/migrations
+      - ./backend/note/migrations:/app/noterepository/migrations
+      - ./backend/media:/app/media
     develop:
       watch:
         - action: sync
